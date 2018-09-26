@@ -1,0 +1,4802 @@
+[
+    {
+        "title": "accumsan laoreet ipsum. Curabitur consequat, lectus sit amet luctus vulputate,",
+        "author": "Sacha Burks",
+        "releaseDate": "1245731302",
+        "price": 65,
+        "publication": "in, hendrerit consectetuer, cursus et, magna. Praesent interdum ligula eu",
+        "cover": "blue"
+    },
+    {
+        "title": "tortor. Integer aliquam adipiscing lacus. Ut nec urna et arcu",
+        "author": "Emma Oconnor",
+        "releaseDate": "979039527",
+        "price": 23,
+        "publication": "eget massa. Suspendisse eleifend. Cras sed leo. Cras vehicula aliquet",
+        "cover": "yellow"
+    },
+    {
+        "title": "ante. Nunc mauris sapien, cursus in, hendrerit consectetuer, cursus et,",
+        "author": "Athena Mclaughlin",
+        "releaseDate": "918965781",
+        "price": 100,
+        "publication": "magnis dis parturient montes, nascetur ridiculus mus. Aenean eget magna.",
+        "cover": "red"
+    },
+    {
+        "title": "enim. Mauris quis turpis vitae purus gravida sagittis. Duis gravida.",
+        "author": "Quon Mooney",
+        "releaseDate": "1259559622",
+        "price": 84,
+        "publication": "lacus. Quisque purus sapien, gravida non, sollicitudin a, malesuada id,",
+        "cover": "violet"
+    },
+    {
+        "title": "Duis a mi fringilla mi lacinia mattis. Integer eu lacus.",
+        "author": "Remedios Snow",
+        "releaseDate": "1287028016",
+        "price": 25,
+        "publication": "lorem eu metus. In lorem. Donec elementum, lorem ut aliquam",
+        "cover": "orange"
+    },
+    {
+        "title": "tempor arcu. Vestibulum ut eros non enim commodo hendrerit. Donec",
+        "author": "Chantale Frederick",
+        "releaseDate": "1092217387",
+        "price": 47,
+        "publication": "Maecenas mi felis, adipiscing fringilla, porttitor vulputate, posuere vulputate, lacus.",
+        "cover": "blue"
+    },
+    {
+        "title": "nec ante blandit viverra. Donec tempus, lorem fringilla ornare placerat,",
+        "author": "Richard Herring",
+        "releaseDate": "1271862803",
+        "price": 57,
+        "publication": "eget, ipsum. Donec sollicitudin adipiscing ligula. Aenean gravida nunc sed",
+        "cover": "red"
+    },
+    {
+        "title": "elit. Aliquam auctor, velit eget laoreet posuere, enim nisl elementum",
+        "author": "Gemma Velez",
+        "releaseDate": "1088765988",
+        "price": 71,
+        "publication": "rutrum non, hendrerit id, ante. Nunc mauris sapien, cursus in,",
+        "cover": "orange"
+    },
+    {
+        "title": "urna et arcu imperdiet ullamcorper. Duis at lacus. Quisque purus",
+        "author": "Indira Padilla",
+        "releaseDate": "1056788630",
+        "price": 5,
+        "publication": "id, libero. Donec consectetuer mauris id sapien. Cras dolor dolor,",
+        "cover": "yellow"
+    },
+    {
+        "title": "Proin dolor. Nulla semper tellus id nunc interdum feugiat. Sed",
+        "author": "Ulla Sawyer",
+        "releaseDate": "1487316114",
+        "price": 97,
+        "publication": "odio sagittis semper. Nam tempor diam dictum sapien. Aenean massa.",
+        "cover": "orange"
+    },
+    {
+        "title": "lacus vestibulum lorem, sit amet ultricies sem magna nec quam.",
+        "author": "Slade Cannon",
+        "releaseDate": "1038106397",
+        "price": 7,
+        "publication": "sagittis. Nullam vitae diam. Proin dolor. Nulla semper tellus id",
+        "cover": "indigo"
+    },
+    {
+        "title": "vehicula. Pellentesque tincidunt tempus risus. Donec egestas. Duis ac arcu.",
+        "author": "Teagan Cooper",
+        "releaseDate": "1263253885",
+        "price": 58,
+        "publication": "Mauris non dui nec urna suscipit nonummy. Fusce fermentum fermentum",
+        "cover": "orange"
+    },
+    {
+        "title": "nibh. Donec est mauris, rhoncus id, mollis nec, cursus a,",
+        "author": "Amanda Chambers",
+        "releaseDate": "1346786929",
+        "price": 12,
+        "publication": "Phasellus vitae mauris sit amet lorem semper auctor. Mauris vel",
+        "cover": "green"
+    },
+    {
+        "title": "odio tristique pharetra. Quisque ac libero nec ligula consectetuer rhoncus.",
+        "author": "Coby Chan",
+        "releaseDate": "971195910",
+        "price": 81,
+        "publication": "Nulla tempor augue ac ipsum. Phasellus vitae mauris sit amet",
+        "cover": "orange"
+    },
+    {
+        "title": "tempus mauris erat eget ipsum. Suspendisse sagittis. Nullam vitae diam.",
+        "author": "Quinn Holland",
+        "releaseDate": "1163557481",
+        "price": 74,
+        "publication": "auctor vitae, aliquet nec, imperdiet nec, leo. Morbi neque tellus,",
+        "cover": "red"
+    },
+    {
+        "title": "non, hendrerit id, ante. Nunc mauris sapien, cursus in, hendrerit",
+        "author": "Emery Jensen",
+        "releaseDate": "1329945916",
+        "price": 95,
+        "publication": "ridiculus mus. Proin vel nisl. Quisque fringilla euismod enim. Etiam",
+        "cover": "yellow"
+    },
+    {
+        "title": "leo, in lobortis tellus justo sit amet nulla. Donec non",
+        "author": "Lillian Garrett",
+        "releaseDate": "1006665210",
+        "price": 55,
+        "publication": "pede. Cras vulputate velit eu sem. Pellentesque ut ipsum ac",
+        "cover": "green"
+    },
+    {
+        "title": "Nulla facilisis. Suspendisse commodo tincidunt nibh. Phasellus nulla. Integer vulputate,",
+        "author": "Zia Patterson",
+        "releaseDate": "1145930102",
+        "price": 71,
+        "publication": "id, mollis nec, cursus a, enim. Suspendisse aliquet, sem ut",
+        "cover": "violet"
+    },
+    {
+        "title": "Duis dignissim tempor arcu. Vestibulum ut eros non enim commodo",
+        "author": "Macey Walls",
+        "releaseDate": "937613242",
+        "price": 14,
+        "publication": "a nunc. In at pede. Cras vulputate velit eu sem.",
+        "cover": "red"
+    },
+    {
+        "title": "sit amet, risus. Donec nibh enim, gravida sit amet, dapibus",
+        "author": "Aiko Glenn",
+        "releaseDate": "1053844751",
+        "price": 15,
+        "publication": "nonummy. Fusce fermentum fermentum arcu. Vestibulum ante ipsum primis in",
+        "cover": "blue"
+    },
+    {
+        "title": "pretium et, rutrum non, hendrerit id, ante. Nunc mauris sapien,",
+        "author": "Naida Leblanc",
+        "releaseDate": "1537625944",
+        "price": 76,
+        "publication": "Maecenas ornare egestas ligula. Nullam feugiat placerat velit. Quisque varius.",
+        "cover": "violet"
+    },
+    {
+        "title": "in consectetuer ipsum nunc id enim. Curabitur massa. Vestibulum accumsan",
+        "author": "Darryl Russell",
+        "releaseDate": "979026018",
+        "price": 94,
+        "publication": "Praesent eu dui. Cum sociis natoque penatibus et magnis dis",
+        "cover": "indigo"
+    },
+    {
+        "title": "sit amet luctus vulputate, nisi sem semper erat, in consectetuer",
+        "author": "Veda Vincent",
+        "releaseDate": "1183271031",
+        "price": 8,
+        "publication": "Phasellus dapibus quam quis diam. Pellentesque habitant morbi tristique senectus",
+        "cover": "orange"
+    },
+    {
+        "title": "auctor, velit eget laoreet posuere, enim nisl elementum purus, accumsan",
+        "author": "Melodie Haynes",
+        "releaseDate": "1309812120",
+        "price": 74,
+        "publication": "Phasellus elit pede, malesuada vel, venenatis vel, faucibus id, libero.",
+        "cover": "indigo"
+    },
+    {
+        "title": "tempus, lorem fringilla ornare placerat, orci lacus vestibulum lorem, sit",
+        "author": "Abraham Lawson",
+        "releaseDate": "1275947997",
+        "price": 76,
+        "publication": "Donec est. Nunc ullamcorper, velit in aliquet lobortis, nisi nibh",
+        "cover": "indigo"
+    },
+    {
+        "title": "sagittis. Nullam vitae diam. Proin dolor. Nulla semper tellus id",
+        "author": "Jeremy Branch",
+        "releaseDate": "980864608",
+        "price": 7,
+        "publication": "Phasellus nulla. Integer vulputate, risus a ultricies adipiscing, enim mi",
+        "cover": "blue"
+    },
+    {
+        "title": "augue. Sed molestie. Sed id risus quis diam luctus lobortis.",
+        "author": "Roary Walter",
+        "releaseDate": "1241482844",
+        "price": 92,
+        "publication": "enim. Sed nulla ante, iaculis nec, eleifend non, dapibus rutrum,",
+        "cover": "green"
+    },
+    {
+        "title": "enim. Mauris quis turpis vitae purus gravida sagittis. Duis gravida.",
+        "author": "Blake Gaines",
+        "releaseDate": "1337637839",
+        "price": 15,
+        "publication": "ante. Nunc mauris sapien, cursus in, hendrerit consectetuer, cursus et,",
+        "cover": "violet"
+    },
+    {
+        "title": "nascetur ridiculus mus. Proin vel arcu eu odio tristique pharetra.",
+        "author": "Asher English",
+        "releaseDate": "1537801190",
+        "price": 76,
+        "publication": "augue porttitor interdum. Sed auctor odio a purus. Duis elementum,",
+        "cover": "orange"
+    },
+    {
+        "title": "facilisis vitae, orci. Phasellus dapibus quam quis diam. Pellentesque habitant",
+        "author": "Walter Atkinson",
+        "releaseDate": "1461027115",
+        "price": 79,
+        "publication": "Sed auctor odio a purus. Duis elementum, dui quis accumsan",
+        "cover": "orange"
+    },
+    {
+        "title": "ultrices, mauris ipsum porta elit, a feugiat tellus lorem eu",
+        "author": "Naida Price",
+        "releaseDate": "1149869353",
+        "price": 2,
+        "publication": "sagittis lobortis mauris. Suspendisse aliquet molestie tellus. Aenean egestas hendrerit",
+        "cover": "blue"
+    },
+    {
+        "title": "luctus, ipsum leo elementum sem, vitae aliquam eros turpis non",
+        "author": "Athena Frank",
+        "releaseDate": "1003628650",
+        "price": 86,
+        "publication": "quis accumsan convallis, ante lectus convallis est, vitae sodales nisi",
+        "cover": "indigo"
+    },
+    {
+        "title": "Sed molestie. Sed id risus quis diam luctus lobortis. Class",
+        "author": "Bree Dotson",
+        "releaseDate": "1080735610",
+        "price": 72,
+        "publication": "Nam porttitor scelerisque neque. Nullam nisl. Maecenas malesuada fringilla est.",
+        "cover": "red"
+    },
+    {
+        "title": "Proin mi. Aliquam gravida mauris ut mi. Duis risus odio,",
+        "author": "Callie Humphrey",
+        "releaseDate": "1452345731",
+        "price": 90,
+        "publication": "ullamcorper. Duis at lacus. Quisque purus sapien, gravida non, sollicitudin",
+        "cover": "indigo"
+    },
+    {
+        "title": "vitae mauris sit amet lorem semper auctor. Mauris vel turpis.",
+        "author": "Madonna Henry",
+        "releaseDate": "1529443814",
+        "price": 9,
+        "publication": "Fusce fermentum fermentum arcu. Vestibulum ante ipsum primis in faucibus",
+        "cover": "violet"
+    },
+    {
+        "title": "enim diam vel arcu. Curabitur ut odio vel est tempor",
+        "author": "Rae Flores",
+        "releaseDate": "1492961063",
+        "price": 67,
+        "publication": "lacinia orci, consectetuer euismod est arcu ac orci. Ut semper",
+        "cover": "indigo"
+    },
+    {
+        "title": "porttitor eros nec tellus. Nunc lectus pede, ultrices a, auctor",
+        "author": "Willa Bruce",
+        "releaseDate": "987949954",
+        "price": 52,
+        "publication": "lobortis augue scelerisque mollis. Phasellus libero mauris, aliquam eu, accumsan",
+        "cover": "orange"
+    },
+    {
+        "title": "ac mi eleifend egestas. Sed pharetra, felis eget varius ultrices,",
+        "author": "Fallon White",
+        "releaseDate": "1078217179",
+        "price": 77,
+        "publication": "Morbi accumsan laoreet ipsum. Curabitur consequat, lectus sit amet luctus",
+        "cover": "blue"
+    },
+    {
+        "title": "eu sem. Pellentesque ut ipsum ac mi eleifend egestas. Sed",
+        "author": "Brendan Morse",
+        "releaseDate": "1395593520",
+        "price": 58,
+        "publication": "egestas. Sed pharetra, felis eget varius ultrices, mauris ipsum porta",
+        "cover": "red"
+    },
+    {
+        "title": "eget metus eu erat semper rutrum. Fusce dolor quam, elementum",
+        "author": "Norman Charles",
+        "releaseDate": "1074425184",
+        "price": 76,
+        "publication": "et, lacinia vitae, sodales at, velit. Pellentesque ultricies dignissim lacus.",
+        "cover": "orange"
+    },
+    {
+        "title": "vitae, erat. Vivamus nisi. Mauris nulla. Integer urna. Vivamus molestie",
+        "author": "Emerson Tillman",
+        "releaseDate": "1511721283",
+        "price": 19,
+        "publication": "nec, eleifend non, dapibus rutrum, justo. Praesent luctus. Curabitur egestas",
+        "cover": "yellow"
+    },
+    {
+        "title": "diam eu dolor egestas rhoncus. Proin nisl sem, consequat nec,",
+        "author": "Wang Rocha",
+        "releaseDate": "1470962310",
+        "price": 38,
+        "publication": "rutrum non, hendrerit id, ante. Nunc mauris sapien, cursus in,",
+        "cover": "blue"
+    },
+    {
+        "title": "vulputate eu, odio. Phasellus at augue id ante dictum cursus.",
+        "author": "Graham Rasmussen",
+        "releaseDate": "1507172756",
+        "price": 17,
+        "publication": "pede. Cum sociis natoque penatibus et magnis dis parturient montes,",
+        "cover": "green"
+    },
+    {
+        "title": "nulla ante, iaculis nec, eleifend non, dapibus rutrum, justo. Praesent",
+        "author": "Myles Clark",
+        "releaseDate": "1389839973",
+        "price": 95,
+        "publication": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam auctor,",
+        "cover": "green"
+    },
+    {
+        "title": "lorem fringilla ornare placerat, orci lacus vestibulum lorem, sit amet",
+        "author": "Castor Mckay",
+        "releaseDate": "1227123810",
+        "price": 35,
+        "publication": "varius orci, in consequat enim diam vel arcu. Curabitur ut",
+        "cover": "orange"
+    },
+    {
+        "title": "neque vitae semper egestas, urna justo faucibus lectus, a sollicitudin",
+        "author": "Tyrone Coffey",
+        "releaseDate": "1449604777",
+        "price": 88,
+        "publication": "dictum eu, placerat eget, venenatis a, magna. Lorem ipsum dolor",
+        "cover": "red"
+    },
+    {
+        "title": "massa lobortis ultrices. Vivamus rhoncus. Donec est. Nunc ullamcorper, velit",
+        "author": "Ferris Pittman",
+        "releaseDate": "1337487460",
+        "price": 23,
+        "publication": "nunc sed pede. Cum sociis natoque penatibus et magnis dis",
+        "cover": "violet"
+    },
+    {
+        "title": "rutrum, justo. Praesent luctus. Curabitur egestas nunc sed libero. Proin",
+        "author": "Nevada Howell",
+        "releaseDate": "1324701369",
+        "price": 59,
+        "publication": "Nullam scelerisque neque sed sem egestas blandit. Nam nulla magna,",
+        "cover": "yellow"
+    },
+    {
+        "title": "lobortis, nisi nibh lacinia orci, consectetuer euismod est arcu ac",
+        "author": "Whoopi Owen",
+        "releaseDate": "1360722835",
+        "price": 2,
+        "publication": "mauris id sapien. Cras dolor dolor, tempus non, lacinia at,",
+        "cover": "yellow"
+    },
+    {
+        "title": "facilisis eget, ipsum. Donec sollicitudin adipiscing ligula. Aenean gravida nunc",
+        "author": "Breanna Obrien",
+        "releaseDate": "1109078419",
+        "price": 62,
+        "publication": "auctor vitae, aliquet nec, imperdiet nec, leo. Morbi neque tellus,",
+        "cover": "green"
+    },
+    {
+        "title": "ipsum primis in faucibus orci luctus et ultrices posuere cubilia",
+        "author": "Alexandra Mcconnell",
+        "releaseDate": "1248937062",
+        "price": 38,
+        "publication": "ac metus vitae velit egestas lacinia. Sed congue, elit sed",
+        "cover": "indigo"
+    },
+    {
+        "title": "a odio semper cursus. Integer mollis. Integer tincidunt aliquam arcu.",
+        "author": "Blaze Roach",
+        "releaseDate": "1249500015",
+        "price": 100,
+        "publication": "Phasellus nulla. Integer vulputate, risus a ultricies adipiscing, enim mi",
+        "cover": "green"
+    },
+    {
+        "title": "rutrum non, hendrerit id, ante. Nunc mauris sapien, cursus in,",
+        "author": "Deanna Hanson",
+        "releaseDate": "1520495007",
+        "price": 39,
+        "publication": "dolor dapibus gravida. Aliquam tincidunt, nunc ac mattis ornare, lectus",
+        "cover": "red"
+    },
+    {
+        "title": "augue scelerisque mollis. Phasellus libero mauris, aliquam eu, accumsan sed,",
+        "author": "Quyn Cooke",
+        "releaseDate": "1243305994",
+        "price": 14,
+        "publication": "tellus eu augue porttitor interdum. Sed auctor odio a purus.",
+        "cover": "orange"
+    },
+    {
+        "title": "nisi magna sed dui. Fusce aliquam, enim nec tempus scelerisque,",
+        "author": "Grant Rollins",
+        "releaseDate": "1415129561",
+        "price": 23,
+        "publication": "est, vitae sodales nisi magna sed dui. Fusce aliquam, enim",
+        "cover": "yellow"
+    },
+    {
+        "title": "sapien, gravida non, sollicitudin a, malesuada id, erat. Etiam vestibulum",
+        "author": "Reese Holloway",
+        "releaseDate": "1151946984",
+        "price": 77,
+        "publication": "diam vel arcu. Curabitur ut odio vel est tempor bibendum.",
+        "cover": "green"
+    },
+    {
+        "title": "amet ornare lectus justo eu arcu. Morbi sit amet massa.",
+        "author": "Ezekiel Odonnell",
+        "releaseDate": "953204966",
+        "price": 15,
+        "publication": "ut lacus. Nulla tincidunt, neque vitae semper egestas, urna justo",
+        "cover": "red"
+    },
+    {
+        "title": "purus gravida sagittis. Duis gravida. Praesent eu nulla at sem",
+        "author": "Jessamine Watson",
+        "releaseDate": "992778763",
+        "price": 1,
+        "publication": "a, scelerisque sed, sapien. Nunc pulvinar arcu et pede. Nunc",
+        "cover": "red"
+    },
+    {
+        "title": "tincidunt, neque vitae semper egestas, urna justo faucibus lectus, a",
+        "author": "TaShya Robinson",
+        "releaseDate": "1349076558",
+        "price": 62,
+        "publication": "posuere cubilia Curae; Donec tincidunt. Donec vitae erat vel pede",
+        "cover": "green"
+    },
+    {
+        "title": "commodo auctor velit. Aliquam nisl. Nulla eu neque pellentesque massa",
+        "author": "Stephanie Wilkins",
+        "releaseDate": "1456906479",
+        "price": 28,
+        "publication": "iaculis nec, eleifend non, dapibus rutrum, justo. Praesent luctus. Curabitur",
+        "cover": "violet"
+    },
+    {
+        "title": "amet massa. Quisque porttitor eros nec tellus. Nunc lectus pede,",
+        "author": "Nicole Carter",
+        "releaseDate": "914622581",
+        "price": 31,
+        "publication": "rutrum, justo. Praesent luctus. Curabitur egestas nunc sed libero. Proin",
+        "cover": "red"
+    },
+    {
+        "title": "sapien. Cras dolor dolor, tempus non, lacinia at, iaculis quis,",
+        "author": "Willa Williams",
+        "releaseDate": "1081961867",
+        "price": 32,
+        "publication": "semper pretium neque. Morbi quis urna. Nunc quis arcu vel",
+        "cover": "violet"
+    },
+    {
+        "title": "nascetur ridiculus mus. Aenean eget magna. Suspendisse tristique neque venenatis",
+        "author": "Leo Rodgers",
+        "releaseDate": "1048979793",
+        "price": 71,
+        "publication": "Aliquam erat volutpat. Nulla dignissim. Maecenas ornare egestas ligula. Nullam",
+        "cover": "indigo"
+    },
+    {
+        "title": "eu nibh vulputate mauris sagittis placerat. Cras dictum ultricies ligula.",
+        "author": "Randall Cervantes",
+        "releaseDate": "1294695929",
+        "price": 64,
+        "publication": "fringilla est. Mauris eu turpis. Nulla aliquet. Proin velit. Sed",
+        "cover": "violet"
+    },
+    {
+        "title": "ornare egestas ligula. Nullam feugiat placerat velit. Quisque varius. Nam",
+        "author": "Raymond Travis",
+        "releaseDate": "1150481324",
+        "price": 57,
+        "publication": "facilisi. Sed neque. Sed eget lacus. Mauris non dui nec",
+        "cover": "indigo"
+    },
+    {
+        "title": "Cras sed leo. Cras vehicula aliquet libero. Integer in magna.",
+        "author": "Wallace Stone",
+        "releaseDate": "1401863687",
+        "price": 98,
+        "publication": "tempor bibendum. Donec felis orci, adipiscing non, luctus sit amet,",
+        "cover": "red"
+    },
+    {
+        "title": "varius et, euismod et, commodo at, libero. Morbi accumsan laoreet",
+        "author": "Sara Newton",
+        "releaseDate": "1244469091",
+        "price": 28,
+        "publication": "lorem eu metus. In lorem. Donec elementum, lorem ut aliquam",
+        "cover": "red"
+    },
+    {
+        "title": "dictum augue malesuada malesuada. Integer id magna et ipsum cursus",
+        "author": "Allistair Marsh",
+        "releaseDate": "1565666188",
+        "price": 83,
+        "publication": "neque pellentesque massa lobortis ultrices. Vivamus rhoncus. Donec est. Nunc",
+        "cover": "indigo"
+    },
+    {
+        "title": "Sed pharetra, felis eget varius ultrices, mauris ipsum porta elit,",
+        "author": "Garrison Odom",
+        "releaseDate": "1338879808",
+        "price": 33,
+        "publication": "enim, sit amet ornare lectus justo eu arcu. Morbi sit",
+        "cover": "violet"
+    },
+    {
+        "title": "velit. Pellentesque ultricies dignissim lacus. Aliquam rutrum lorem ac risus.",
+        "author": "Sage Carrillo",
+        "releaseDate": "962152819",
+        "price": 67,
+        "publication": "a sollicitudin orci sem eget massa. Suspendisse eleifend. Cras sed",
+        "cover": "yellow"
+    },
+    {
+        "title": "blandit congue. In scelerisque scelerisque dui. Suspendisse ac metus vitae",
+        "author": "Alden Webb",
+        "releaseDate": "1427278238",
+        "price": 98,
+        "publication": "aliquet. Phasellus fermentum convallis ligula. Donec luctus aliquet odio. Etiam",
+        "cover": "blue"
+    },
+    {
+        "title": "cursus, diam at pretium aliquet, metus urna convallis erat, eget",
+        "author": "Rosalyn White",
+        "releaseDate": "931551761",
+        "price": 56,
+        "publication": "arcu. Nunc mauris. Morbi non sapien molestie orci tincidunt adipiscing.",
+        "cover": "blue"
+    },
+    {
+        "title": "ac facilisis facilisis, magna tellus faucibus leo, in lobortis tellus",
+        "author": "Daryl Harmon",
+        "releaseDate": "1129792851",
+        "price": 97,
+        "publication": "aliquet. Phasellus fermentum convallis ligula. Donec luctus aliquet odio. Etiam",
+        "cover": "blue"
+    },
+    {
+        "title": "aptent taciti sociosqu ad litora torquent per conubia nostra, per",
+        "author": "Courtney Merritt",
+        "releaseDate": "1395895656",
+        "price": 67,
+        "publication": "gravida nunc sed pede. Cum sociis natoque penatibus et magnis",
+        "cover": "orange"
+    },
+    {
+        "title": "purus gravida sagittis. Duis gravida. Praesent eu nulla at sem",
+        "author": "Zeus Lamb",
+        "releaseDate": "1012466154",
+        "price": 72,
+        "publication": "risus. Morbi metus. Vivamus euismod urna. Nullam lobortis quam a",
+        "cover": "violet"
+    },
+    {
+        "title": "mi tempor lorem, eget mollis lectus pede et risus. Quisque",
+        "author": "Galvin Meyers",
+        "releaseDate": "1495430560",
+        "price": 40,
+        "publication": "ac turpis egestas. Aliquam fringilla cursus purus. Nullam scelerisque neque",
+        "cover": "orange"
+    },
+    {
+        "title": "ligula elit, pretium et, rutrum non, hendrerit id, ante. Nunc",
+        "author": "Clark Garner",
+        "releaseDate": "1005382849",
+        "price": 36,
+        "publication": "Cras dolor dolor, tempus non, lacinia at, iaculis quis, pede.",
+        "cover": "green"
+    },
+    {
+        "title": "ante lectus convallis est, vitae sodales nisi magna sed dui.",
+        "author": "Rama Nunez",
+        "releaseDate": "1371948620",
+        "price": 20,
+        "publication": "lobortis, nisi nibh lacinia orci, consectetuer euismod est arcu ac",
+        "cover": "blue"
+    },
+    {
+        "title": "ullamcorper, nisl arcu iaculis enim, sit amet ornare lectus justo",
+        "author": "Heidi Tate",
+        "releaseDate": "1203834649",
+        "price": 55,
+        "publication": "nunc nulla vulputate dui, nec tempus mauris erat eget ipsum.",
+        "cover": "violet"
+    },
+    {
+        "title": "venenatis a, magna. Lorem ipsum dolor sit amet, consectetuer adipiscing",
+        "author": "Kameko Phillips",
+        "releaseDate": "1123496077",
+        "price": 96,
+        "publication": "Nulla aliquet. Proin velit. Sed malesuada augue ut lacus. Nulla",
+        "cover": "red"
+    },
+    {
+        "title": "tristique pellentesque, tellus sem mollis dui, in sodales elit erat",
+        "author": "Davis Lancaster",
+        "releaseDate": "1222976191",
+        "price": 75,
+        "publication": "et, rutrum eu, ultrices sit amet, risus. Donec nibh enim,",
+        "cover": "blue"
+    },
+    {
+        "title": "a sollicitudin orci sem eget massa. Suspendisse eleifend. Cras sed",
+        "author": "Lacota Davenport",
+        "releaseDate": "1119877070",
+        "price": 10,
+        "publication": "lacus. Nulla tincidunt, neque vitae semper egestas, urna justo faucibus",
+        "cover": "orange"
+    },
+    {
+        "title": "justo sit amet nulla. Donec non justo. Proin non massa",
+        "author": "Octavia Dalton",
+        "releaseDate": "1567596376",
+        "price": 85,
+        "publication": "eu turpis. Nulla aliquet. Proin velit. Sed malesuada augue ut",
+        "cover": "yellow"
+    },
+    {
+        "title": "imperdiet, erat nonummy ultricies ornare, elit elit fermentum risus, at",
+        "author": "Quinlan Stevenson",
+        "releaseDate": "1098076140",
+        "price": 92,
+        "publication": "massa lobortis ultrices. Vivamus rhoncus. Donec est. Nunc ullamcorper, velit",
+        "cover": "blue"
+    },
+    {
+        "title": "luctus. Curabitur egestas nunc sed libero. Proin sed turpis nec",
+        "author": "Cairo Richard",
+        "releaseDate": "1201702376",
+        "price": 23,
+        "publication": "dictum placerat, augue. Sed molestie. Sed id risus quis diam",
+        "cover": "yellow"
+    },
+    {
+        "title": "posuere at, velit. Cras lorem lorem, luctus ut, pellentesque eget,",
+        "author": "Florence Lancaster",
+        "releaseDate": "1439933489",
+        "price": 45,
+        "publication": "dapibus gravida. Aliquam tincidunt, nunc ac mattis ornare, lectus ante",
+        "cover": "blue"
+    },
+    {
+        "title": "adipiscing elit. Curabitur sed tortor. Integer aliquam adipiscing lacus. Ut",
+        "author": "Miranda Dorsey",
+        "releaseDate": "1350906130",
+        "price": 93,
+        "publication": "Class aptent taciti sociosqu ad litora torquent per conubia nostra,",
+        "cover": "blue"
+    },
+    {
+        "title": "massa. Integer vitae nibh. Donec est mauris, rhoncus id, mollis",
+        "author": "Virginia Bradford",
+        "releaseDate": "1004813414",
+        "price": 64,
+        "publication": "convallis ligula. Donec luctus aliquet odio. Etiam ligula tortor, dictum",
+        "cover": "yellow"
+    },
+    {
+        "title": "erat. Sed nunc est, mollis non, cursus non, egestas a,",
+        "author": "Naomi Oliver",
+        "releaseDate": "1184222402",
+        "price": 49,
+        "publication": "eu, ultrices sit amet, risus. Donec nibh enim, gravida sit",
+        "cover": "indigo"
+    },
+    {
+        "title": "elit erat vitae risus. Duis a mi fringilla mi lacinia",
+        "author": "Ronan Murray",
+        "releaseDate": "1461820996",
+        "price": 51,
+        "publication": "scelerisque mollis. Phasellus libero mauris, aliquam eu, accumsan sed, facilisis",
+        "cover": "blue"
+    },
+    {
+        "title": "Vivamus nibh dolor, nonummy ac, feugiat non, lobortis quis, pede.",
+        "author": "Angela Harvey",
+        "releaseDate": "1013834342",
+        "price": 49,
+        "publication": "Vivamus rhoncus. Donec est. Nunc ullamcorper, velit in aliquet lobortis,",
+        "cover": "yellow"
+    },
+    {
+        "title": "fermentum vel, mauris. Integer sem elit, pharetra ut, pharetra sed,",
+        "author": "Nola Maxwell",
+        "releaseDate": "1384119713",
+        "price": 9,
+        "publication": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+        "cover": "blue"
+    },
+    {
+        "title": "Cras vulputate velit eu sem. Pellentesque ut ipsum ac mi",
+        "author": "Yardley Kim",
+        "releaseDate": "1113565777",
+        "price": 92,
+        "publication": "sem, vitae aliquam eros turpis non enim. Mauris quis turpis",
+        "cover": "red"
+    },
+    {
+        "title": "arcu. Curabitur ut odio vel est tempor bibendum. Donec felis",
+        "author": "Giacomo Sims",
+        "releaseDate": "1290207266",
+        "price": 39,
+        "publication": "dui, semper et, lacinia vitae, sodales at, velit. Pellentesque ultricies",
+        "cover": "orange"
+    },
+    {
+        "title": "sollicitudin a, malesuada id, erat. Etiam vestibulum massa rutrum magna.",
+        "author": "Martena Sullivan",
+        "releaseDate": "1016351764",
+        "price": 69,
+        "publication": "Nulla facilisis. Suspendisse commodo tincidunt nibh. Phasellus nulla. Integer vulputate,",
+        "cover": "blue"
+    },
+    {
+        "title": "pharetra, felis eget varius ultrices, mauris ipsum porta elit, a",
+        "author": "Blaze Acevedo",
+        "releaseDate": "1041798155",
+        "price": 7,
+        "publication": "magnis dis parturient montes, nascetur ridiculus mus. Aenean eget magna.",
+        "cover": "indigo"
+    },
+    {
+        "title": "ullamcorper eu, euismod ac, fermentum vel, mauris. Integer sem elit,",
+        "author": "Raja Yang",
+        "releaseDate": "1242974996",
+        "price": 23,
+        "publication": "sollicitudin orci sem eget massa. Suspendisse eleifend. Cras sed leo.",
+        "cover": "green"
+    },
+    {
+        "title": "id, blandit at, nisi. Cum sociis natoque penatibus et magnis",
+        "author": "Brooke Miller",
+        "releaseDate": "1360234390",
+        "price": 48,
+        "publication": "dis parturient montes, nascetur ridiculus mus. Proin vel nisl. Quisque",
+        "cover": "violet"
+    },
+    {
+        "title": "dapibus ligula. Aliquam erat volutpat. Nulla dignissim. Maecenas ornare egestas",
+        "author": "Yasir Merrill",
+        "releaseDate": "1226218717",
+        "price": 69,
+        "publication": "et magnis dis parturient montes, nascetur ridiculus mus. Aenean eget",
+        "cover": "orange"
+    },
+    {
+        "title": "sed pede nec ante blandit viverra. Donec tempus, lorem fringilla",
+        "author": "Olga Peck",
+        "releaseDate": "1183986878",
+        "price": 33,
+        "publication": "luctus lobortis. Class aptent taciti sociosqu ad litora torquent per",
+        "cover": "blue"
+    },
+    {
+        "title": "consectetuer euismod est arcu ac orci. Ut semper pretium neque.",
+        "author": "Grant Calhoun",
+        "releaseDate": "1147414735",
+        "price": 11,
+        "publication": "Nam ac nulla. In tincidunt congue turpis. In condimentum. Donec",
+        "cover": "orange"
+    },
+    {
+        "title": "sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos.",
+        "author": "Ivana Leonard",
+        "releaseDate": "1417765765",
+        "price": 22,
+        "publication": "Proin dolor. Nulla semper tellus id nunc interdum feugiat. Sed",
+        "cover": "violet"
+    },
+    {
+        "title": "Curabitur ut odio vel est tempor bibendum. Donec felis orci,",
+        "author": "Lee Merritt",
+        "releaseDate": "1048569248",
+        "price": 48,
+        "publication": "mi felis, adipiscing fringilla, porttitor vulputate, posuere vulputate, lacus. Cras",
+        "cover": "orange"
+    },
+    {
+        "title": "tellus id nunc interdum feugiat. Sed nec metus facilisis lorem",
+        "author": "Xenos Flores",
+        "releaseDate": "1474815504",
+        "price": 27,
+        "publication": "lobortis. Class aptent taciti sociosqu ad litora torquent per conubia",
+        "cover": "yellow"
+    },
+    {
+        "title": "rutrum non, hendrerit id, ante. Nunc mauris sapien, cursus in,",
+        "author": "Lee Hill",
+        "releaseDate": "1454074056",
+        "price": 30,
+        "publication": "enim. Suspendisse aliquet, sem ut cursus luctus, ipsum leo elementum",
+        "cover": "yellow"
+    },
+    {
+        "title": "laoreet ipsum. Curabitur consequat, lectus sit amet luctus vulputate, nisi",
+        "author": "Regan Boone",
+        "releaseDate": "1298991987",
+        "price": 86,
+        "publication": "metus facilisis lorem tristique aliquet. Phasellus fermentum convallis ligula. Donec",
+        "cover": "green"
+    },
+    {
+        "title": "magnis dis parturient montes, nascetur ridiculus mus. Proin vel nisl.",
+        "author": "Herman Morales",
+        "releaseDate": "960345819",
+        "price": 53,
+        "publication": "arcu. Nunc mauris. Morbi non sapien molestie orci tincidunt adipiscing.",
+        "cover": "violet"
+    },
+    {
+        "title": "neque. Sed eget lacus. Mauris non dui nec urna suscipit",
+        "author": "Myles Bryant",
+        "releaseDate": "1131868573",
+        "price": 42,
+        "publication": "tristique senectus et netus et malesuada fames ac turpis egestas.",
+        "cover": "blue"
+    },
+    {
+        "title": "orci sem eget massa. Suspendisse eleifend. Cras sed leo. Cras",
+        "author": "Chester Ball",
+        "releaseDate": "1438077163",
+        "price": 23,
+        "publication": "adipiscing fringilla, porttitor vulputate, posuere vulputate, lacus. Cras interdum. Nunc",
+        "cover": "red"
+    },
+    {
+        "title": "tincidunt dui augue eu tellus. Phasellus elit pede, malesuada vel,",
+        "author": "Genevieve Riddle",
+        "releaseDate": "1142071255",
+        "price": 63,
+        "publication": "varius ultrices, mauris ipsum porta elit, a feugiat tellus lorem",
+        "cover": "blue"
+    },
+    {
+        "title": "Aliquam rutrum lorem ac risus. Morbi metus. Vivamus euismod urna.",
+        "author": "Illana Nicholson",
+        "releaseDate": "1275228261",
+        "price": 9,
+        "publication": "ac, eleifend vitae, erat. Vivamus nisi. Mauris nulla. Integer urna.",
+        "cover": "indigo"
+    },
+    {
+        "title": "Aliquam ultrices iaculis odio. Nam interdum enim non nisi. Aenean",
+        "author": "Chandler Shepard",
+        "releaseDate": "1223964837",
+        "price": 94,
+        "publication": "non dui nec urna suscipit nonummy. Fusce fermentum fermentum arcu.",
+        "cover": "violet"
+    },
+    {
+        "title": "erat volutpat. Nulla facilisis. Suspendisse commodo tincidunt nibh. Phasellus nulla.",
+        "author": "Eliana Shelton",
+        "releaseDate": "911163112",
+        "price": 6,
+        "publication": "mauris sapien, cursus in, hendrerit consectetuer, cursus et, magna. Praesent",
+        "cover": "orange"
+    },
+    {
+        "title": "velit in aliquet lobortis, nisi nibh lacinia orci, consectetuer euismod",
+        "author": "Isaiah Sutton",
+        "releaseDate": "1236677195",
+        "price": 48,
+        "publication": "primis in faucibus orci luctus et ultrices posuere cubilia Curae;",
+        "cover": "green"
+    },
+    {
+        "title": "non, lobortis quis, pede. Suspendisse dui. Fusce diam nunc, ullamcorper",
+        "author": "Aaron Miles",
+        "releaseDate": "1566806142",
+        "price": 90,
+        "publication": "Etiam gravida molestie arcu. Sed eu nibh vulputate mauris sagittis",
+        "cover": "yellow"
+    },
+    {
+        "title": "Sed pharetra, felis eget varius ultrices, mauris ipsum porta elit,",
+        "author": "Mollie Head",
+        "releaseDate": "1486732833",
+        "price": 3,
+        "publication": "elit, dictum eu, eleifend nec, malesuada ut, sem. Nulla interdum.",
+        "cover": "blue"
+    },
+    {
+        "title": "libero lacus, varius et, euismod et, commodo at, libero. Morbi",
+        "author": "Alexa Bishop",
+        "releaseDate": "1420866266",
+        "price": 90,
+        "publication": "ac risus. Morbi metus. Vivamus euismod urna. Nullam lobortis quam",
+        "cover": "indigo"
+    },
+    {
+        "title": "quis lectus. Nullam suscipit, est ac facilisis facilisis, magna tellus",
+        "author": "Odette Chen",
+        "releaseDate": "1229628458",
+        "price": 45,
+        "publication": "Aliquam adipiscing lobortis risus. In mi pede, nonummy ut, molestie",
+        "cover": "green"
+    },
+    {
+        "title": "non, dapibus rutrum, justo. Praesent luctus. Curabitur egestas nunc sed",
+        "author": "Penelope Mcdowell",
+        "releaseDate": "1514917496",
+        "price": 32,
+        "publication": "tempus eu, ligula. Aenean euismod mauris eu elit. Nulla facilisi.",
+        "cover": "violet"
+    },
+    {
+        "title": "Sed dictum. Proin eget odio. Aliquam vulputate ullamcorper magna. Sed",
+        "author": "Mikayla Rivas",
+        "releaseDate": "1520683736",
+        "price": 91,
+        "publication": "pede sagittis augue, eu tempor erat neque non quam. Pellentesque",
+        "cover": "blue"
+    },
+    {
+        "title": "tristique pellentesque, tellus sem mollis dui, in sodales elit erat",
+        "author": "Chantale House",
+        "releaseDate": "1189079467",
+        "price": 42,
+        "publication": "Aenean eget magna. Suspendisse tristique neque venenatis lacus. Etiam bibendum",
+        "cover": "red"
+    },
+    {
+        "title": "Aenean euismod mauris eu elit. Nulla facilisi. Sed neque. Sed",
+        "author": "Nita Cain",
+        "releaseDate": "1077711093",
+        "price": 23,
+        "publication": "eu eros. Nam consequat dolor vitae dolor. Donec fringilla. Donec",
+        "cover": "violet"
+    },
+    {
+        "title": "nec, euismod in, dolor. Fusce feugiat. Lorem ipsum dolor sit",
+        "author": "Anastasia Kerr",
+        "releaseDate": "945773157",
+        "price": 66,
+        "publication": "ipsum. Suspendisse non leo. Vivamus nibh dolor, nonummy ac, feugiat",
+        "cover": "violet"
+    },
+    {
+        "title": "orci lacus vestibulum lorem, sit amet ultricies sem magna nec",
+        "author": "Barbara Gallagher",
+        "releaseDate": "1167491567",
+        "price": 69,
+        "publication": "nisi nibh lacinia orci, consectetuer euismod est arcu ac orci.",
+        "cover": "orange"
+    },
+    {
+        "title": "metus. Aliquam erat volutpat. Nulla facilisis. Suspendisse commodo tincidunt nibh.",
+        "author": "Aiko Brock",
+        "releaseDate": "1290116820",
+        "price": 3,
+        "publication": "porttitor eros nec tellus. Nunc lectus pede, ultrices a, auctor",
+        "cover": "orange"
+    },
+    {
+        "title": "Donec elementum, lorem ut aliquam iaculis, lacus pede sagittis augue,",
+        "author": "Grace Guzman",
+        "releaseDate": "1161670488",
+        "price": 62,
+        "publication": "ante lectus convallis est, vitae sodales nisi magna sed dui.",
+        "cover": "yellow"
+    },
+    {
+        "title": "ultricies ligula. Nullam enim. Sed nulla ante, iaculis nec, eleifend",
+        "author": "Hedley Kemp",
+        "releaseDate": "1033914634",
+        "price": 13,
+        "publication": "arcu vel quam dignissim pharetra. Nam ac nulla. In tincidunt",
+        "cover": "indigo"
+    },
+    {
+        "title": "dictum ultricies ligula. Nullam enim. Sed nulla ante, iaculis nec,",
+        "author": "Sydnee Cabrera",
+        "releaseDate": "1393870124",
+        "price": 9,
+        "publication": "lorem, eget mollis lectus pede et risus. Quisque libero lacus,",
+        "cover": "blue"
+    },
+    {
+        "title": "dui, semper et, lacinia vitae, sodales at, velit. Pellentesque ultricies",
+        "author": "Yuli Nieves",
+        "releaseDate": "1325537631",
+        "price": 75,
+        "publication": "nisi. Aenean eget metus. In nec orci. Donec nibh. Quisque",
+        "cover": "red"
+    },
+    {
+        "title": "Vestibulum ut eros non enim commodo hendrerit. Donec porttitor tellus",
+        "author": "Pandora Davidson",
+        "releaseDate": "1113571005",
+        "price": 10,
+        "publication": "risus quis diam luctus lobortis. Class aptent taciti sociosqu ad",
+        "cover": "violet"
+    },
+    {
+        "title": "mauris a nunc. In at pede. Cras vulputate velit eu",
+        "author": "Selma Mccormick",
+        "releaseDate": "1215482451",
+        "price": 46,
+        "publication": "dolor. Donec fringilla. Donec feugiat metus sit amet ante. Vivamus",
+        "cover": "orange"
+    },
+    {
+        "title": "Duis gravida. Praesent eu nulla at sem molestie sodales. Mauris",
+        "author": "Amal Walton",
+        "releaseDate": "1330018207",
+        "price": 98,
+        "publication": "odio vel est tempor bibendum. Donec felis orci, adipiscing non,",
+        "cover": "indigo"
+    },
+    {
+        "title": "Cras eu tellus eu augue porttitor interdum. Sed auctor odio",
+        "author": "Uriah Jones",
+        "releaseDate": "1035996726",
+        "price": 61,
+        "publication": "cubilia Curae; Phasellus ornare. Fusce mollis. Duis sit amet diam",
+        "cover": "indigo"
+    },
+    {
+        "title": "Nulla interdum. Curabitur dictum. Phasellus in felis. Nulla tempor augue",
+        "author": "Cassandra Sosa",
+        "releaseDate": "1302799326",
+        "price": 47,
+        "publication": "orci luctus et ultrices posuere cubilia Curae; Phasellus ornare. Fusce",
+        "cover": "orange"
+    },
+    {
+        "title": "Proin nisl sem, consequat nec, mollis vitae, posuere at, velit.",
+        "author": "Alvin Fisher",
+        "releaseDate": "1317132550",
+        "price": 80,
+        "publication": "Donec tempor, est ac mattis semper, dui lectus rutrum urna,",
+        "cover": "red"
+    },
+    {
+        "title": "dui. Cras pellentesque. Sed dictum. Proin eget odio. Aliquam vulputate",
+        "author": "Ria Goodwin",
+        "releaseDate": "1489346567",
+        "price": 60,
+        "publication": "lacus. Ut nec urna et arcu imperdiet ullamcorper. Duis at",
+        "cover": "violet"
+    },
+    {
+        "title": "eget varius ultrices, mauris ipsum porta elit, a feugiat tellus",
+        "author": "Jana Frazier",
+        "releaseDate": "1201315183",
+        "price": 86,
+        "publication": "eu tempor erat neque non quam. Pellentesque habitant morbi tristique",
+        "cover": "red"
+    },
+    {
+        "title": "mauris. Integer sem elit, pharetra ut, pharetra sed, hendrerit a,",
+        "author": "Tanya Farmer",
+        "releaseDate": "1413873783",
+        "price": 50,
+        "publication": "mauris. Suspendisse aliquet molestie tellus. Aenean egestas hendrerit neque. In",
+        "cover": "green"
+    },
+    {
+        "title": "ipsum leo elementum sem, vitae aliquam eros turpis non enim.",
+        "author": "Kasper Holt",
+        "releaseDate": "1433303370",
+        "price": 68,
+        "publication": "enim consequat purus. Maecenas libero est, congue a, aliquet vel,",
+        "cover": "yellow"
+    },
+    {
+        "title": "habitant morbi tristique senectus et netus et malesuada fames ac",
+        "author": "Ferris Parsons",
+        "releaseDate": "1172463808",
+        "price": 90,
+        "publication": "molestie. Sed id risus quis diam luctus lobortis. Class aptent",
+        "cover": "blue"
+    },
+    {
+        "title": "in sodales elit erat vitae risus. Duis a mi fringilla",
+        "author": "Iris Holder",
+        "releaseDate": "1030189799",
+        "price": 40,
+        "publication": "et risus. Quisque libero lacus, varius et, euismod et, commodo",
+        "cover": "orange"
+    },
+    {
+        "title": "ac libero nec ligula consectetuer rhoncus. Nullam velit dui, semper",
+        "author": "Harding Hernandez",
+        "releaseDate": "987578396",
+        "price": 34,
+        "publication": "tempor bibendum. Donec felis orci, adipiscing non, luctus sit amet,",
+        "cover": "violet"
+    },
+    {
+        "title": "dis parturient montes, nascetur ridiculus mus. Aenean eget magna. Suspendisse",
+        "author": "Lydia Parrish",
+        "releaseDate": "1517955225",
+        "price": 79,
+        "publication": "tincidunt pede ac urna. Ut tincidunt vehicula risus. Nulla eget",
+        "cover": "orange"
+    },
+    {
+        "title": "in consequat enim diam vel arcu. Curabitur ut odio vel",
+        "author": "Prescott Melton",
+        "releaseDate": "1046401946",
+        "price": 37,
+        "publication": "magnis dis parturient montes, nascetur ridiculus mus. Aenean eget magna.",
+        "cover": "yellow"
+    },
+    {
+        "title": "mauris ut mi. Duis risus odio, auctor vitae, aliquet nec,",
+        "author": "Bradley Pierce",
+        "releaseDate": "1088351991",
+        "price": 33,
+        "publication": "non, vestibulum nec, euismod in, dolor. Fusce feugiat. Lorem ipsum",
+        "cover": "red"
+    },
+    {
+        "title": "ac libero nec ligula consectetuer rhoncus. Nullam velit dui, semper",
+        "author": "Dylan Armstrong",
+        "releaseDate": "1238604488",
+        "price": 59,
+        "publication": "Curabitur sed tortor. Integer aliquam adipiscing lacus. Ut nec urna",
+        "cover": "blue"
+    },
+    {
+        "title": "a purus. Duis elementum, dui quis accumsan convallis, ante lectus",
+        "author": "Tiger Barrera",
+        "releaseDate": "1321363722",
+        "price": 80,
+        "publication": "turpis egestas. Aliquam fringilla cursus purus. Nullam scelerisque neque sed",
+        "cover": "blue"
+    },
+    {
+        "title": "suscipit nonummy. Fusce fermentum fermentum arcu. Vestibulum ante ipsum primis",
+        "author": "Ross Mcmahon",
+        "releaseDate": "994985922",
+        "price": 98,
+        "publication": "dui nec urna suscipit nonummy. Fusce fermentum fermentum arcu. Vestibulum",
+        "cover": "violet"
+    },
+    {
+        "title": "Ut tincidunt orci quis lectus. Nullam suscipit, est ac facilisis",
+        "author": "Charlotte Murray",
+        "releaseDate": "1036859540",
+        "price": 19,
+        "publication": "vitae, posuere at, velit. Cras lorem lorem, luctus ut, pellentesque",
+        "cover": "red"
+    },
+    {
+        "title": "ut ipsum ac mi eleifend egestas. Sed pharetra, felis eget",
+        "author": "Abra Riggs",
+        "releaseDate": "1144377291",
+        "price": 13,
+        "publication": "ac risus. Morbi metus. Vivamus euismod urna. Nullam lobortis quam",
+        "cover": "violet"
+    },
+    {
+        "title": "ut quam vel sapien imperdiet ornare. In faucibus. Morbi vehicula.",
+        "author": "Wing Ellison",
+        "releaseDate": "1116048424",
+        "price": 30,
+        "publication": "mus. Proin vel nisl. Quisque fringilla euismod enim. Etiam gravida",
+        "cover": "red"
+    },
+    {
+        "title": "ornare, libero at auctor ullamcorper, nisl arcu iaculis enim, sit",
+        "author": "Avye Cameron",
+        "releaseDate": "1357481079",
+        "price": 90,
+        "publication": "nibh. Aliquam ornare, libero at auctor ullamcorper, nisl arcu iaculis",
+        "cover": "blue"
+    },
+    {
+        "title": "amet ultricies sem magna nec quam. Curabitur vel lectus. Cum",
+        "author": "Ishmael Booker",
+        "releaseDate": "1060089825",
+        "price": 5,
+        "publication": "lobortis risus. In mi pede, nonummy ut, molestie in, tempus",
+        "cover": "green"
+    },
+    {
+        "title": "lacus. Cras interdum. Nunc sollicitudin commodo ipsum. Suspendisse non leo.",
+        "author": "Latifah Walls",
+        "releaseDate": "1084926721",
+        "price": 67,
+        "publication": "sit amet, dapibus id, blandit at, nisi. Cum sociis natoque",
+        "cover": "green"
+    },
+    {
+        "title": "sit amet luctus vulputate, nisi sem semper erat, in consectetuer",
+        "author": "Cassandra Morales",
+        "releaseDate": "1081997275",
+        "price": 2,
+        "publication": "ipsum. Donec sollicitudin adipiscing ligula. Aenean gravida nunc sed pede.",
+        "cover": "green"
+    },
+    {
+        "title": "magna. Ut tincidunt orci quis lectus. Nullam suscipit, est ac",
+        "author": "Lars Simpson",
+        "releaseDate": "956227149",
+        "price": 100,
+        "publication": "luctus ut, pellentesque eget, dictum placerat, augue. Sed molestie. Sed",
+        "cover": "green"
+    },
+    {
+        "title": "lorem, vehicula et, rutrum eu, ultrices sit amet, risus. Donec",
+        "author": "Kato Dunlap",
+        "releaseDate": "1128631201",
+        "price": 26,
+        "publication": "diam nunc, ullamcorper eu, euismod ac, fermentum vel, mauris. Integer",
+        "cover": "indigo"
+    },
+    {
+        "title": "Aenean eget metus. In nec orci. Donec nibh. Quisque nonummy",
+        "author": "Ian French",
+        "releaseDate": "1486999093",
+        "price": 52,
+        "publication": "In lorem. Donec elementum, lorem ut aliquam iaculis, lacus pede",
+        "cover": "green"
+    },
+    {
+        "title": "Nulla aliquet. Proin velit. Sed malesuada augue ut lacus. Nulla",
+        "author": "Upton Curtis",
+        "releaseDate": "1464949804",
+        "price": 48,
+        "publication": "Duis ac arcu. Nunc mauris. Morbi non sapien molestie orci",
+        "cover": "yellow"
+    },
+    {
+        "title": "interdum enim non nisi. Aenean eget metus. In nec orci.",
+        "author": "Charity Glass",
+        "releaseDate": "1095158746",
+        "price": 27,
+        "publication": "quam dignissim pharetra. Nam ac nulla. In tincidunt congue turpis.",
+        "cover": "yellow"
+    },
+    {
+        "title": "Duis gravida. Praesent eu nulla at sem molestie sodales. Mauris",
+        "author": "Tatyana Hess",
+        "releaseDate": "942602418",
+        "price": 43,
+        "publication": "ornare. Fusce mollis. Duis sit amet diam eu dolor egestas",
+        "cover": "yellow"
+    },
+    {
+        "title": "dolor. Fusce mi lorem, vehicula et, rutrum eu, ultrices sit",
+        "author": "Lesley Harvey",
+        "releaseDate": "1433761346",
+        "price": 33,
+        "publication": "elit, a feugiat tellus lorem eu metus. In lorem. Donec",
+        "cover": "indigo"
+    },
+    {
+        "title": "molestie tortor nibh sit amet orci. Ut sagittis lobortis mauris.",
+        "author": "Tallulah Obrien",
+        "releaseDate": "1366487110",
+        "price": 84,
+        "publication": "montes, nascetur ridiculus mus. Proin vel nisl. Quisque fringilla euismod",
+        "cover": "indigo"
+    },
+    {
+        "title": "Class aptent taciti sociosqu ad litora torquent per conubia nostra,",
+        "author": "Bree Navarro",
+        "releaseDate": "981506863",
+        "price": 57,
+        "publication": "ut quam vel sapien imperdiet ornare. In faucibus. Morbi vehicula.",
+        "cover": "orange"
+    },
+    {
+        "title": "Nulla facilisis. Suspendisse commodo tincidunt nibh. Phasellus nulla. Integer vulputate,",
+        "author": "Tanner Alford",
+        "releaseDate": "1172583381",
+        "price": 66,
+        "publication": "et, rutrum non, hendrerit id, ante. Nunc mauris sapien, cursus",
+        "cover": "indigo"
+    },
+    {
+        "title": "nec urna et arcu imperdiet ullamcorper. Duis at lacus. Quisque",
+        "author": "Virginia Wilder",
+        "releaseDate": "1045341293",
+        "price": 79,
+        "publication": "tellus, imperdiet non, vestibulum nec, euismod in, dolor. Fusce feugiat.",
+        "cover": "indigo"
+    },
+    {
+        "title": "mollis. Duis sit amet diam eu dolor egestas rhoncus. Proin",
+        "author": "Aladdin Rowe",
+        "releaseDate": "1202023418",
+        "price": 2,
+        "publication": "elit, pharetra ut, pharetra sed, hendrerit a, arcu. Sed et",
+        "cover": "yellow"
+    },
+    {
+        "title": "enim, condimentum eget, volutpat ornare, facilisis eget, ipsum. Donec sollicitudin",
+        "author": "Sophia Ortega",
+        "releaseDate": "1537229853",
+        "price": 36,
+        "publication": "montes, nascetur ridiculus mus. Donec dignissim magna a tortor. Nunc",
+        "cover": "yellow"
+    },
+    {
+        "title": "quam dignissim pharetra. Nam ac nulla. In tincidunt congue turpis.",
+        "author": "Isaac Brewer",
+        "releaseDate": "1052478874",
+        "price": 89,
+        "publication": "iaculis, lacus pede sagittis augue, eu tempor erat neque non",
+        "cover": "blue"
+    },
+    {
+        "title": "a mi fringilla mi lacinia mattis. Integer eu lacus. Quisque",
+        "author": "Omar Snyder",
+        "releaseDate": "1462771772",
+        "price": 89,
+        "publication": "tincidunt vehicula risus. Nulla eget metus eu erat semper rutrum.",
+        "cover": "yellow"
+    },
+    {
+        "title": "orci. Donec nibh. Quisque nonummy ipsum non arcu. Vivamus sit",
+        "author": "Jonah Deleon",
+        "releaseDate": "957822363",
+        "price": 78,
+        "publication": "natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+        "cover": "blue"
+    },
+    {
+        "title": "risus. Morbi metus. Vivamus euismod urna. Nullam lobortis quam a",
+        "author": "Perry Obrien",
+        "releaseDate": "1085274831",
+        "price": 43,
+        "publication": "Nunc commodo auctor velit. Aliquam nisl. Nulla eu neque pellentesque",
+        "cover": "orange"
+    },
+    {
+        "title": "lacinia. Sed congue, elit sed consequat auctor, nunc nulla vulputate",
+        "author": "Simone George",
+        "releaseDate": "1531177218",
+        "price": 7,
+        "publication": "imperdiet nec, leo. Morbi neque tellus, imperdiet non, vestibulum nec,",
+        "cover": "yellow"
+    },
+    {
+        "title": "orci, in consequat enim diam vel arcu. Curabitur ut odio",
+        "author": "Brenden Franklin",
+        "releaseDate": "948948472",
+        "price": 57,
+        "publication": "massa. Integer vitae nibh. Donec est mauris, rhoncus id, mollis",
+        "cover": "red"
+    },
+    {
+        "title": "sit amet lorem semper auctor. Mauris vel turpis. Aliquam adipiscing",
+        "author": "Oren Sweet",
+        "releaseDate": "1564204472",
+        "price": 66,
+        "publication": "Proin dolor. Nulla semper tellus id nunc interdum feugiat. Sed",
+        "cover": "violet"
+    },
+    {
+        "title": "enim. Etiam imperdiet dictum magna. Ut tincidunt orci quis lectus.",
+        "author": "Hadassah Green",
+        "releaseDate": "1306030395",
+        "price": 29,
+        "publication": "Donec egestas. Duis ac arcu. Nunc mauris. Morbi non sapien",
+        "cover": "orange"
+    },
+    {
+        "title": "diam luctus lobortis. Class aptent taciti sociosqu ad litora torquent",
+        "author": "Orli Woodard",
+        "releaseDate": "1055744340",
+        "price": 64,
+        "publication": "nulla. Integer urna. Vivamus molestie dapibus ligula. Aliquam erat volutpat.",
+        "cover": "blue"
+    },
+    {
+        "title": "lacus. Aliquam rutrum lorem ac risus. Morbi metus. Vivamus euismod",
+        "author": "Merritt Mendoza",
+        "releaseDate": "1410507474",
+        "price": 44,
+        "publication": "ac sem ut dolor dapibus gravida. Aliquam tincidunt, nunc ac",
+        "cover": "red"
+    },
+    {
+        "title": "non, egestas a, dui. Cras pellentesque. Sed dictum. Proin eget",
+        "author": "Clayton Barron",
+        "releaseDate": "1451996567",
+        "price": 93,
+        "publication": "ligula eu enim. Etiam imperdiet dictum magna. Ut tincidunt orci",
+        "cover": "green"
+    },
+    {
+        "title": "erat, eget tincidunt dui augue eu tellus. Phasellus elit pede,",
+        "author": "Lawrence Chandler",
+        "releaseDate": "1334361625",
+        "price": 67,
+        "publication": "quam quis diam. Pellentesque habitant morbi tristique senectus et netus",
+        "cover": "green"
+    },
+    {
+        "title": "in faucibus orci luctus et ultrices posuere cubilia Curae; Phasellus",
+        "author": "Quinlan Massey",
+        "releaseDate": "1223439137",
+        "price": 42,
+        "publication": "lacus. Etiam bibendum fermentum metus. Aenean sed pede nec ante",
+        "cover": "violet"
+    },
+    {
+        "title": "eros. Proin ultrices. Duis volutpat nunc sit amet metus. Aliquam",
+        "author": "Kameko Conley",
+        "releaseDate": "1009486547",
+        "price": 1,
+        "publication": "turpis. In condimentum. Donec at arcu. Vestibulum ante ipsum primis",
+        "cover": "orange"
+    },
+    {
+        "title": "Aliquam fringilla cursus purus. Nullam scelerisque neque sed sem egestas",
+        "author": "Levi Jenkins",
+        "releaseDate": "1425183060",
+        "price": 71,
+        "publication": "nec, mollis vitae, posuere at, velit. Cras lorem lorem, luctus",
+        "cover": "yellow"
+    },
+    {
+        "title": "non justo. Proin non massa non ante bibendum ullamcorper. Duis",
+        "author": "Zane Nieves",
+        "releaseDate": "1381365898",
+        "price": 86,
+        "publication": "tellus faucibus leo, in lobortis tellus justo sit amet nulla.",
+        "cover": "indigo"
+    },
+    {
+        "title": "ultrices a, auctor non, feugiat nec, diam. Duis mi enim,",
+        "author": "Avram Tyson",
+        "releaseDate": "1121758483",
+        "price": 81,
+        "publication": "Duis mi enim, condimentum eget, volutpat ornare, facilisis eget, ipsum.",
+        "cover": "green"
+    },
+    {
+        "title": "eu, euismod ac, fermentum vel, mauris. Integer sem elit, pharetra",
+        "author": "Armand Byrd",
+        "releaseDate": "1501170116",
+        "price": 48,
+        "publication": "Class aptent taciti sociosqu ad litora torquent per conubia nostra,",
+        "cover": "orange"
+    },
+    {
+        "title": "magna. Sed eu eros. Nam consequat dolor vitae dolor. Donec",
+        "author": "Jana Maynard",
+        "releaseDate": "1177652344",
+        "price": 48,
+        "publication": "convallis ligula. Donec luctus aliquet odio. Etiam ligula tortor, dictum",
+        "cover": "yellow"
+    },
+    {
+        "title": "Donec est. Nunc ullamcorper, velit in aliquet lobortis, nisi nibh",
+        "author": "Arsenio Conrad",
+        "releaseDate": "1561574007",
+        "price": 46,
+        "publication": "consequat purus. Maecenas libero est, congue a, aliquet vel, vulputate",
+        "cover": "blue"
+    },
+    {
+        "title": "urna convallis erat, eget tincidunt dui augue eu tellus. Phasellus",
+        "author": "Colette Ochoa",
+        "releaseDate": "1335655855",
+        "price": 11,
+        "publication": "sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos.",
+        "cover": "indigo"
+    },
+    {
+        "title": "eget, volutpat ornare, facilisis eget, ipsum. Donec sollicitudin adipiscing ligula.",
+        "author": "Felix Meyers",
+        "releaseDate": "1225686124",
+        "price": 34,
+        "publication": "at, iaculis quis, pede. Praesent eu dui. Cum sociis natoque",
+        "cover": "indigo"
+    },
+    {
+        "title": "morbi tristique senectus et netus et malesuada fames ac turpis",
+        "author": "Zelda Simpson",
+        "releaseDate": "1358308928",
+        "price": 38,
+        "publication": "Proin eget odio. Aliquam vulputate ullamcorper magna. Sed eu eros.",
+        "cover": "blue"
+    },
+    {
+        "title": "et libero. Proin mi. Aliquam gravida mauris ut mi. Duis",
+        "author": "Colin Herman",
+        "releaseDate": "1504092871",
+        "price": 89,
+        "publication": "eros turpis non enim. Mauris quis turpis vitae purus gravida",
+        "cover": "indigo"
+    },
+    {
+        "title": "vel arcu. Curabitur ut odio vel est tempor bibendum. Donec",
+        "author": "Maggie Fields",
+        "releaseDate": "943447079",
+        "price": 79,
+        "publication": "ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam auctor, velit",
+        "cover": "violet"
+    },
+    {
+        "title": "arcu eu odio tristique pharetra. Quisque ac libero nec ligula",
+        "author": "Fulton Newman",
+        "releaseDate": "1036824470",
+        "price": 92,
+        "publication": "iaculis, lacus pede sagittis augue, eu tempor erat neque non",
+        "cover": "red"
+    },
+    {
+        "title": "id ante dictum cursus. Nunc mauris elit, dictum eu, eleifend",
+        "author": "Chaney Cummings",
+        "releaseDate": "1454162194",
+        "price": 84,
+        "publication": "placerat velit. Quisque varius. Nam porttitor scelerisque neque. Nullam nisl.",
+        "cover": "yellow"
+    },
+    {
+        "title": "rutrum lorem ac risus. Morbi metus. Vivamus euismod urna. Nullam",
+        "author": "Ulric England",
+        "releaseDate": "1059260472",
+        "price": 83,
+        "publication": "velit egestas lacinia. Sed congue, elit sed consequat auctor, nunc",
+        "cover": "violet"
+    },
+    {
+        "title": "amet ante. Vivamus non lorem vitae odio sagittis semper. Nam",
+        "author": "Quentin Jacobs",
+        "releaseDate": "1286288400",
+        "price": 17,
+        "publication": "vitae odio sagittis semper. Nam tempor diam dictum sapien. Aenean",
+        "cover": "indigo"
+    },
+    {
+        "title": "nibh. Quisque nonummy ipsum non arcu. Vivamus sit amet risus.",
+        "author": "Jermaine Petty",
+        "releaseDate": "1289933030",
+        "price": 92,
+        "publication": "dictum augue malesuada malesuada. Integer id magna et ipsum cursus",
+        "cover": "yellow"
+    },
+    {
+        "title": "quis urna. Nunc quis arcu vel quam dignissim pharetra. Nam",
+        "author": "Tucker Cash",
+        "releaseDate": "1056874929",
+        "price": 90,
+        "publication": "eget, dictum placerat, augue. Sed molestie. Sed id risus quis",
+        "cover": "violet"
+    },
+    {
+        "title": "neque et nunc. Quisque ornare tortor at risus. Nunc ac",
+        "author": "Vera Sloan",
+        "releaseDate": "1055677053",
+        "price": 43,
+        "publication": "ornare sagittis felis. Donec tempor, est ac mattis semper, dui",
+        "cover": "green"
+    },
+    {
+        "title": "nulla. Integer vulputate, risus a ultricies adipiscing, enim mi tempor",
+        "author": "Hiroko Mcpherson",
+        "releaseDate": "963855196",
+        "price": 98,
+        "publication": "malesuada fringilla est. Mauris eu turpis. Nulla aliquet. Proin velit.",
+        "cover": "blue"
+    },
+    {
+        "title": "et nunc. Quisque ornare tortor at risus. Nunc ac sem",
+        "author": "Graham Klein",
+        "releaseDate": "1010642025",
+        "price": 30,
+        "publication": "in sodales elit erat vitae risus. Duis a mi fringilla",
+        "cover": "green"
+    },
+    {
+        "title": "vel nisl. Quisque fringilla euismod enim. Etiam gravida molestie arcu.",
+        "author": "Holmes Perry",
+        "releaseDate": "1414790544",
+        "price": 2,
+        "publication": "morbi tristique senectus et netus et malesuada fames ac turpis",
+        "cover": "indigo"
+    },
+    {
+        "title": "Cras eget nisi dictum augue malesuada malesuada. Integer id magna",
+        "author": "Kareem Haley",
+        "releaseDate": "1355490935",
+        "price": 75,
+        "publication": "non, sollicitudin a, malesuada id, erat. Etiam vestibulum massa rutrum",
+        "cover": "red"
+    },
+    {
+        "title": "libero. Proin sed turpis nec mauris blandit mattis. Cras eget",
+        "author": "Patricia Farrell",
+        "releaseDate": "1489718888",
+        "price": 17,
+        "publication": "vel turpis. Aliquam adipiscing lobortis risus. In mi pede, nonummy",
+        "cover": "green"
+    },
+    {
+        "title": "Aliquam auctor, velit eget laoreet posuere, enim nisl elementum purus,",
+        "author": "April Barrera",
+        "releaseDate": "1241989042",
+        "price": 60,
+        "publication": "neque venenatis lacus. Etiam bibendum fermentum metus. Aenean sed pede",
+        "cover": "violet"
+    },
+    {
+        "title": "nisi nibh lacinia orci, consectetuer euismod est arcu ac orci.",
+        "author": "Anne Mcintosh",
+        "releaseDate": "963735562",
+        "price": 6,
+        "publication": "Duis gravida. Praesent eu nulla at sem molestie sodales. Mauris",
+        "cover": "violet"
+    },
+    {
+        "title": "Cras pellentesque. Sed dictum. Proin eget odio. Aliquam vulputate ullamcorper",
+        "author": "Ann Mcintyre",
+        "releaseDate": "1194633219",
+        "price": 56,
+        "publication": "Phasellus libero mauris, aliquam eu, accumsan sed, facilisis vitae, orci.",
+        "cover": "violet"
+    },
+    {
+        "title": "quis diam. Pellentesque habitant morbi tristique senectus et netus et",
+        "author": "Lane Galloway",
+        "releaseDate": "1344171608",
+        "price": 47,
+        "publication": "tincidunt pede ac urna. Ut tincidunt vehicula risus. Nulla eget",
+        "cover": "green"
+    },
+    {
+        "title": "eu tellus. Phasellus elit pede, malesuada vel, venenatis vel, faucibus",
+        "author": "Declan Cruz",
+        "releaseDate": "1418633200",
+        "price": 19,
+        "publication": "dui. Suspendisse ac metus vitae velit egestas lacinia. Sed congue,",
+        "cover": "blue"
+    },
+    {
+        "title": "odio tristique pharetra. Quisque ac libero nec ligula consectetuer rhoncus.",
+        "author": "Alexandra Stuart",
+        "releaseDate": "964710489",
+        "price": 100,
+        "publication": "augue eu tellus. Phasellus elit pede, malesuada vel, venenatis vel,",
+        "cover": "green"
+    },
+    {
+        "title": "dui lectus rutrum urna, nec luctus felis purus ac tellus.",
+        "author": "Hollee Schneider",
+        "releaseDate": "1509909585",
+        "price": 39,
+        "publication": "Nunc ac sem ut dolor dapibus gravida. Aliquam tincidunt, nunc",
+        "cover": "green"
+    },
+    {
+        "title": "eget lacus. Mauris non dui nec urna suscipit nonummy. Fusce",
+        "author": "Iola Benjamin",
+        "releaseDate": "1078336250",
+        "price": 52,
+        "publication": "vitae diam. Proin dolor. Nulla semper tellus id nunc interdum",
+        "cover": "green"
+    },
+    {
+        "title": "est tempor bibendum. Donec felis orci, adipiscing non, luctus sit",
+        "author": "Roary Gates",
+        "releaseDate": "1539816074",
+        "price": 51,
+        "publication": "mattis velit justo nec ante. Maecenas mi felis, adipiscing fringilla,",
+        "cover": "yellow"
+    },
+    {
+        "title": "eget mollis lectus pede et risus. Quisque libero lacus, varius",
+        "author": "Hop Tyson",
+        "releaseDate": "1290478495",
+        "price": 50,
+        "publication": "risus. Nunc ac sem ut dolor dapibus gravida. Aliquam tincidunt,",
+        "cover": "blue"
+    },
+    {
+        "title": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam auctor,",
+        "author": "Peter Whitley",
+        "releaseDate": "1203299007",
+        "price": 71,
+        "publication": "nonummy ultricies ornare, elit elit fermentum risus, at fringilla purus",
+        "cover": "red"
+    },
+    {
+        "title": "massa. Suspendisse eleifend. Cras sed leo. Cras vehicula aliquet libero.",
+        "author": "Ann Fowler",
+        "releaseDate": "1385450449",
+        "price": 1,
+        "publication": "ac, eleifend vitae, erat. Vivamus nisi. Mauris nulla. Integer urna.",
+        "cover": "green"
+    },
+    {
+        "title": "ullamcorper, velit in aliquet lobortis, nisi nibh lacinia orci, consectetuer",
+        "author": "Dexter Dyer",
+        "releaseDate": "1488943934",
+        "price": 87,
+        "publication": "eleifend non, dapibus rutrum, justo. Praesent luctus. Curabitur egestas nunc",
+        "cover": "violet"
+    },
+    {
+        "title": "gravida mauris ut mi. Duis risus odio, auctor vitae, aliquet",
+        "author": "Jameson James",
+        "releaseDate": "1122010229",
+        "price": 39,
+        "publication": "sapien. Aenean massa. Integer vitae nibh. Donec est mauris, rhoncus",
+        "cover": "green"
+    },
+    {
+        "title": "Curabitur vel lectus. Cum sociis natoque penatibus et magnis dis",
+        "author": "Stone Heath",
+        "releaseDate": "1016761826",
+        "price": 55,
+        "publication": "nec enim. Nunc ut erat. Sed nunc est, mollis non,",
+        "cover": "yellow"
+    },
+    {
+        "title": "luctus felis purus ac tellus. Suspendisse sed dolor. Fusce mi",
+        "author": "Ross Martin",
+        "releaseDate": "1113640925",
+        "price": 53,
+        "publication": "sed turpis nec mauris blandit mattis. Cras eget nisi dictum",
+        "cover": "green"
+    },
+    {
+        "title": "eu augue porttitor interdum. Sed auctor odio a purus. Duis",
+        "author": "Jillian Beasley",
+        "releaseDate": "1438079406",
+        "price": 74,
+        "publication": "risus, at fringilla purus mauris a nunc. In at pede.",
+        "cover": "yellow"
+    },
+    {
+        "title": "nonummy ipsum non arcu. Vivamus sit amet risus. Donec egestas.",
+        "author": "Rose Dillon",
+        "releaseDate": "990739915",
+        "price": 42,
+        "publication": "semper. Nam tempor diam dictum sapien. Aenean massa. Integer vitae",
+        "cover": "green"
+    },
+    {
+        "title": "a odio semper cursus. Integer mollis. Integer tincidunt aliquam arcu.",
+        "author": "Tallulah Hanson",
+        "releaseDate": "1302024076",
+        "price": 75,
+        "publication": "Aenean massa. Integer vitae nibh. Donec est mauris, rhoncus id,",
+        "cover": "red"
+    },
+    {
+        "title": "ornare, elit elit fermentum risus, at fringilla purus mauris a",
+        "author": "Melodie Hamilton",
+        "releaseDate": "1126225927",
+        "price": 84,
+        "publication": "nec orci. Donec nibh. Quisque nonummy ipsum non arcu. Vivamus",
+        "cover": "orange"
+    },
+    {
+        "title": "nunc sed pede. Cum sociis natoque penatibus et magnis dis",
+        "author": "Armand Alvarez",
+        "releaseDate": "1143291488",
+        "price": 48,
+        "publication": "consectetuer adipiscing elit. Aliquam auctor, velit eget laoreet posuere, enim",
+        "cover": "orange"
+    },
+    {
+        "title": "non enim. Mauris quis turpis vitae purus gravida sagittis. Duis",
+        "author": "Owen Stanley",
+        "releaseDate": "1561763326",
+        "price": 39,
+        "publication": "orci luctus et ultrices posuere cubilia Curae; Phasellus ornare. Fusce",
+        "cover": "orange"
+    },
+    {
+        "title": "felis eget varius ultrices, mauris ipsum porta elit, a feugiat",
+        "author": "Irma Michael",
+        "releaseDate": "1460600192",
+        "price": 23,
+        "publication": "leo. Vivamus nibh dolor, nonummy ac, feugiat non, lobortis quis,",
+        "cover": "orange"
+    },
+    {
+        "title": "pharetra, felis eget varius ultrices, mauris ipsum porta elit, a",
+        "author": "Baker Sellers",
+        "releaseDate": "1179917521",
+        "price": 83,
+        "publication": "euismod et, commodo at, libero. Morbi accumsan laoreet ipsum. Curabitur",
+        "cover": "violet"
+    },
+    {
+        "title": "dolor sit amet, consectetuer adipiscing elit. Etiam laoreet, libero et",
+        "author": "Daphne Blake",
+        "releaseDate": "1181631025",
+        "price": 38,
+        "publication": "sit amet ante. Vivamus non lorem vitae odio sagittis semper.",
+        "cover": "yellow"
+    },
+    {
+        "title": "dui quis accumsan convallis, ante lectus convallis est, vitae sodales",
+        "author": "August Jordan",
+        "releaseDate": "910787343",
+        "price": 7,
+        "publication": "Mauris non dui nec urna suscipit nonummy. Fusce fermentum fermentum",
+        "cover": "violet"
+    },
+    {
+        "title": "vel arcu eu odio tristique pharetra. Quisque ac libero nec",
+        "author": "Maite Frederick",
+        "releaseDate": "1378611904",
+        "price": 33,
+        "publication": "lectus justo eu arcu. Morbi sit amet massa. Quisque porttitor",
+        "cover": "orange"
+    },
+    {
+        "title": "Sed eget lacus. Mauris non dui nec urna suscipit nonummy.",
+        "author": "Herman Jacobson",
+        "releaseDate": "928555390",
+        "price": 83,
+        "publication": "dignissim tempor arcu. Vestibulum ut eros non enim commodo hendrerit.",
+        "cover": "violet"
+    },
+    {
+        "title": "mollis. Duis sit amet diam eu dolor egestas rhoncus. Proin",
+        "author": "Bianca Potts",
+        "releaseDate": "953139091",
+        "price": 88,
+        "publication": "magna. Suspendisse tristique neque venenatis lacus. Etiam bibendum fermentum metus.",
+        "cover": "yellow"
+    },
+    {
+        "title": "sagittis felis. Donec tempor, est ac mattis semper, dui lectus",
+        "author": "Sade Kerr",
+        "releaseDate": "1276220993",
+        "price": 19,
+        "publication": "massa. Vestibulum accumsan neque et nunc. Quisque ornare tortor at",
+        "cover": "violet"
+    },
+    {
+        "title": "nonummy ipsum non arcu. Vivamus sit amet risus. Donec egestas.",
+        "author": "Keegan Farley",
+        "releaseDate": "1482911351",
+        "price": 80,
+        "publication": "dolor sit amet, consectetuer adipiscing elit. Etiam laoreet, libero et",
+        "cover": "blue"
+    },
+    {
+        "title": "placerat, augue. Sed molestie. Sed id risus quis diam luctus",
+        "author": "Ariel Carrillo",
+        "releaseDate": "1484124165",
+        "price": 41,
+        "publication": "in, cursus et, eros. Proin ultrices. Duis volutpat nunc sit",
+        "cover": "violet"
+    },
+    {
+        "title": "Duis a mi fringilla mi lacinia mattis. Integer eu lacus.",
+        "author": "Kennedy Owens",
+        "releaseDate": "1286005138",
+        "price": 37,
+        "publication": "egestas rhoncus. Proin nisl sem, consequat nec, mollis vitae, posuere",
+        "cover": "yellow"
+    },
+    {
+        "title": "diam. Proin dolor. Nulla semper tellus id nunc interdum feugiat.",
+        "author": "Jael Munoz",
+        "releaseDate": "1321919264",
+        "price": 79,
+        "publication": "orci luctus et ultrices posuere cubilia Curae; Phasellus ornare. Fusce",
+        "cover": "yellow"
+    },
+    {
+        "title": "Aliquam gravida mauris ut mi. Duis risus odio, auctor vitae,",
+        "author": "Neville Sargent",
+        "releaseDate": "1068636949",
+        "price": 95,
+        "publication": "sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus",
+        "cover": "indigo"
+    },
+    {
+        "title": "sed orci lobortis augue scelerisque mollis. Phasellus libero mauris, aliquam",
+        "author": "Malik Rios",
+        "releaseDate": "1126374902",
+        "price": 24,
+        "publication": "mauris. Suspendisse aliquet molestie tellus. Aenean egestas hendrerit neque. In",
+        "cover": "green"
+    },
+    {
+        "title": "risus. Morbi metus. Vivamus euismod urna. Nullam lobortis quam a",
+        "author": "Kalia Madden",
+        "releaseDate": "1409128671",
+        "price": 50,
+        "publication": "egestas. Sed pharetra, felis eget varius ultrices, mauris ipsum porta",
+        "cover": "blue"
+    },
+    {
+        "title": "nascetur ridiculus mus. Aenean eget magna. Suspendisse tristique neque venenatis",
+        "author": "Brynne Snow",
+        "releaseDate": "1455155032",
+        "price": 67,
+        "publication": "orci quis lectus. Nullam suscipit, est ac facilisis facilisis, magna",
+        "cover": "violet"
+    },
+    {
+        "title": "Suspendisse eleifend. Cras sed leo. Cras vehicula aliquet libero. Integer",
+        "author": "Celeste Montgomery",
+        "releaseDate": "983502570",
+        "price": 14,
+        "publication": "dapibus gravida. Aliquam tincidunt, nunc ac mattis ornare, lectus ante",
+        "cover": "red"
+    },
+    {
+        "title": "imperdiet ornare. In faucibus. Morbi vehicula. Pellentesque tincidunt tempus risus.",
+        "author": "Laith Whitfield",
+        "releaseDate": "1328054777",
+        "price": 94,
+        "publication": "velit. Pellentesque ultricies dignissim lacus. Aliquam rutrum lorem ac risus.",
+        "cover": "green"
+    },
+    {
+        "title": "malesuada malesuada. Integer id magna et ipsum cursus vestibulum. Mauris",
+        "author": "Sandra Stephens",
+        "releaseDate": "1003419116",
+        "price": 57,
+        "publication": "Nulla semper tellus id nunc interdum feugiat. Sed nec metus",
+        "cover": "violet"
+    },
+    {
+        "title": "Duis dignissim tempor arcu. Vestibulum ut eros non enim commodo",
+        "author": "Chancellor Newton",
+        "releaseDate": "909975138",
+        "price": 33,
+        "publication": "ipsum dolor sit amet, consectetuer adipiscing elit. Etiam laoreet, libero",
+        "cover": "orange"
+    },
+    {
+        "title": "Nam ligula elit, pretium et, rutrum non, hendrerit id, ante.",
+        "author": "Alexander Conrad",
+        "releaseDate": "1336143472",
+        "price": 55,
+        "publication": "ullamcorper, velit in aliquet lobortis, nisi nibh lacinia orci, consectetuer",
+        "cover": "green"
+    },
+    {
+        "title": "semper, dui lectus rutrum urna, nec luctus felis purus ac",
+        "author": "Kalia Goff",
+        "releaseDate": "1497327024",
+        "price": 18,
+        "publication": "tortor. Integer aliquam adipiscing lacus. Ut nec urna et arcu",
+        "cover": "yellow"
+    },
+    {
+        "title": "odio a purus. Duis elementum, dui quis accumsan convallis, ante",
+        "author": "Omar Stephenson",
+        "releaseDate": "1298226514",
+        "price": 56,
+        "publication": "ultricies adipiscing, enim mi tempor lorem, eget mollis lectus pede",
+        "cover": "violet"
+    },
+    {
+        "title": "quis diam. Pellentesque habitant morbi tristique senectus et netus et",
+        "author": "Brynne Richards",
+        "releaseDate": "940750672",
+        "price": 55,
+        "publication": "a purus. Duis elementum, dui quis accumsan convallis, ante lectus",
+        "cover": "indigo"
+    },
+    {
+        "title": "amet massa. Quisque porttitor eros nec tellus. Nunc lectus pede,",
+        "author": "Amery Hoffman",
+        "releaseDate": "1195540287",
+        "price": 56,
+        "publication": "diam. Proin dolor. Nulla semper tellus id nunc interdum feugiat.",
+        "cover": "yellow"
+    },
+    {
+        "title": "semper et, lacinia vitae, sodales at, velit. Pellentesque ultricies dignissim",
+        "author": "Charity Nixon",
+        "releaseDate": "1462406120",
+        "price": 19,
+        "publication": "Aliquam fringilla cursus purus. Nullam scelerisque neque sed sem egestas",
+        "cover": "yellow"
+    },
+    {
+        "title": "magna. Praesent interdum ligula eu enim. Etiam imperdiet dictum magna.",
+        "author": "Kelly Valenzuela",
+        "releaseDate": "1385515618",
+        "price": 46,
+        "publication": "ipsum leo elementum sem, vitae aliquam eros turpis non enim.",
+        "cover": "orange"
+    },
+    {
+        "title": "Nunc commodo auctor velit. Aliquam nisl. Nulla eu neque pellentesque",
+        "author": "Ivan Stein",
+        "releaseDate": "1263246410",
+        "price": 3,
+        "publication": "placerat, orci lacus vestibulum lorem, sit amet ultricies sem magna",
+        "cover": "orange"
+    },
+    {
+        "title": "malesuada fringilla est. Mauris eu turpis. Nulla aliquet. Proin velit.",
+        "author": "Bo Vinson",
+        "releaseDate": "1196949593",
+        "price": 5,
+        "publication": "metus. Aliquam erat volutpat. Nulla facilisis. Suspendisse commodo tincidunt nibh.",
+        "cover": "violet"
+    },
+    {
+        "title": "neque sed sem egestas blandit. Nam nulla magna, malesuada vel,",
+        "author": "Caryn Grimes",
+        "releaseDate": "1398979197",
+        "price": 57,
+        "publication": "vitae sodales nisi magna sed dui. Fusce aliquam, enim nec",
+        "cover": "indigo"
+    },
+    {
+        "title": "malesuada malesuada. Integer id magna et ipsum cursus vestibulum. Mauris",
+        "author": "Faith Gordon",
+        "releaseDate": "1044936118",
+        "price": 31,
+        "publication": "sed libero. Proin sed turpis nec mauris blandit mattis. Cras",
+        "cover": "orange"
+    },
+    {
+        "title": "elit erat vitae risus. Duis a mi fringilla mi lacinia",
+        "author": "Kevin Webb",
+        "releaseDate": "1017330076",
+        "price": 27,
+        "publication": "nisi. Aenean eget metus. In nec orci. Donec nibh. Quisque",
+        "cover": "yellow"
+    },
+    {
+        "title": "Pellentesque tincidunt tempus risus. Donec egestas. Duis ac arcu. Nunc",
+        "author": "Quemby Kirby",
+        "releaseDate": "909242835",
+        "price": 19,
+        "publication": "vitae dolor. Donec fringilla. Donec feugiat metus sit amet ante.",
+        "cover": "orange"
+    },
+    {
+        "title": "tempus scelerisque, lorem ipsum sodales purus, in molestie tortor nibh",
+        "author": "Vivian Callahan",
+        "releaseDate": "1560121237",
+        "price": 19,
+        "publication": "Mauris quis turpis vitae purus gravida sagittis. Duis gravida. Praesent",
+        "cover": "blue"
+    },
+    {
+        "title": "ultrices posuere cubilia Curae; Donec tincidunt. Donec vitae erat vel",
+        "author": "Shaine Wilcox",
+        "releaseDate": "915350614",
+        "price": 4,
+        "publication": "lorem, auctor quis, tristique ac, eleifend vitae, erat. Vivamus nisi.",
+        "cover": "orange"
+    },
+    {
+        "title": "tristique senectus et netus et malesuada fames ac turpis egestas.",
+        "author": "Lee Holder",
+        "releaseDate": "1053077135",
+        "price": 33,
+        "publication": "in magna. Phasellus dolor elit, pellentesque a, facilisis non, bibendum",
+        "cover": "green"
+    },
+    {
+        "title": "Curabitur massa. Vestibulum accumsan neque et nunc. Quisque ornare tortor",
+        "author": "Murphy Watson",
+        "releaseDate": "1332297438",
+        "price": 70,
+        "publication": "Mauris eu turpis. Nulla aliquet. Proin velit. Sed malesuada augue",
+        "cover": "orange"
+    },
+    {
+        "title": "lorem, luctus ut, pellentesque eget, dictum placerat, augue. Sed molestie.",
+        "author": "Nehru Keller",
+        "releaseDate": "966989909",
+        "price": 52,
+        "publication": "Aliquam nec enim. Nunc ut erat. Sed nunc est, mollis",
+        "cover": "violet"
+    },
+    {
+        "title": "volutpat. Nulla dignissim. Maecenas ornare egestas ligula. Nullam feugiat placerat",
+        "author": "Davis Morris",
+        "releaseDate": "940060404",
+        "price": 100,
+        "publication": "vel, venenatis vel, faucibus id, libero. Donec consectetuer mauris id",
+        "cover": "green"
+    },
+    {
+        "title": "non, lacinia at, iaculis quis, pede. Praesent eu dui. Cum",
+        "author": "Quincy Barnett",
+        "releaseDate": "1558744668",
+        "price": 96,
+        "publication": "nibh lacinia orci, consectetuer euismod est arcu ac orci. Ut",
+        "cover": "orange"
+    },
+    {
+        "title": "ligula tortor, dictum eu, placerat eget, venenatis a, magna. Lorem",
+        "author": "Vera Beasley",
+        "releaseDate": "1530852531",
+        "price": 8,
+        "publication": "eu lacus. Quisque imperdiet, erat nonummy ultricies ornare, elit elit",
+        "cover": "blue"
+    },
+    {
+        "title": "Mauris vestibulum, neque sed dictum eleifend, nunc risus varius orci,",
+        "author": "Gary Townsend",
+        "releaseDate": "1400251889",
+        "price": 62,
+        "publication": "iaculis odio. Nam interdum enim non nisi. Aenean eget metus.",
+        "cover": "red"
+    },
+    {
+        "title": "eu lacus. Quisque imperdiet, erat nonummy ultricies ornare, elit elit",
+        "author": "Jillian Santana",
+        "releaseDate": "1239353993",
+        "price": 60,
+        "publication": "convallis convallis dolor. Quisque tincidunt pede ac urna. Ut tincidunt",
+        "cover": "red"
+    },
+    {
+        "title": "nunc interdum feugiat. Sed nec metus facilisis lorem tristique aliquet.",
+        "author": "Omar Tyson",
+        "releaseDate": "996435215",
+        "price": 36,
+        "publication": "eu, accumsan sed, facilisis vitae, orci. Phasellus dapibus quam quis",
+        "cover": "violet"
+    },
+    {
+        "title": "sed turpis nec mauris blandit mattis. Cras eget nisi dictum",
+        "author": "Kennan Mccormick",
+        "releaseDate": "979355730",
+        "price": 52,
+        "publication": "semper cursus. Integer mollis. Integer tincidunt aliquam arcu. Aliquam ultrices",
+        "cover": "indigo"
+    },
+    {
+        "title": "non, luctus sit amet, faucibus ut, nulla. Cras eu tellus",
+        "author": "Ocean Glenn",
+        "releaseDate": "1529420614",
+        "price": 20,
+        "publication": "diam at pretium aliquet, metus urna convallis erat, eget tincidunt",
+        "cover": "green"
+    },
+    {
+        "title": "vel, faucibus id, libero. Donec consectetuer mauris id sapien. Cras",
+        "author": "Tarik Collins",
+        "releaseDate": "957718623",
+        "price": 83,
+        "publication": "tincidunt vehicula risus. Nulla eget metus eu erat semper rutrum.",
+        "cover": "yellow"
+    },
+    {
+        "title": "Quisque varius. Nam porttitor scelerisque neque. Nullam nisl. Maecenas malesuada",
+        "author": "Brielle Durham",
+        "releaseDate": "1423296406",
+        "price": 43,
+        "publication": "sem elit, pharetra ut, pharetra sed, hendrerit a, arcu. Sed",
+        "cover": "indigo"
+    },
+    {
+        "title": "eu nulla at sem molestie sodales. Mauris blandit enim consequat",
+        "author": "Emmanuel Walton",
+        "releaseDate": "1523665719",
+        "price": 4,
+        "publication": "vehicula aliquet libero. Integer in magna. Phasellus dolor elit, pellentesque",
+        "cover": "indigo"
+    },
+    {
+        "title": "orci, in consequat enim diam vel arcu. Curabitur ut odio",
+        "author": "Phyllis Blevins",
+        "releaseDate": "1226364005",
+        "price": 40,
+        "publication": "urna convallis erat, eget tincidunt dui augue eu tellus. Phasellus",
+        "cover": "orange"
+    },
+    {
+        "title": "fermentum fermentum arcu. Vestibulum ante ipsum primis in faucibus orci",
+        "author": "Kato Nicholson",
+        "releaseDate": "1370732510",
+        "price": 30,
+        "publication": "parturient montes, nascetur ridiculus mus. Proin vel arcu eu odio",
+        "cover": "red"
+    },
+    {
+        "title": "vitae, posuere at, velit. Cras lorem lorem, luctus ut, pellentesque",
+        "author": "Colton Ross",
+        "releaseDate": "1457070436",
+        "price": 96,
+        "publication": "nunc sit amet metus. Aliquam erat volutpat. Nulla facilisis. Suspendisse",
+        "cover": "green"
+    },
+    {
+        "title": "nunc nulla vulputate dui, nec tempus mauris erat eget ipsum.",
+        "author": "Jacqueline Mcleod",
+        "releaseDate": "1398295995",
+        "price": 86,
+        "publication": "ornare, lectus ante dictum mi, ac mattis velit justo nec",
+        "cover": "blue"
+    },
+    {
+        "title": "nec, eleifend non, dapibus rutrum, justo. Praesent luctus. Curabitur egestas",
+        "author": "Madeline Heath",
+        "releaseDate": "947623196",
+        "price": 40,
+        "publication": "ut eros non enim commodo hendrerit. Donec porttitor tellus non",
+        "cover": "orange"
+    },
+    {
+        "title": "non enim commodo hendrerit. Donec porttitor tellus non magna. Nam",
+        "author": "Justin Yates",
+        "releaseDate": "1277590454",
+        "price": 25,
+        "publication": "sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus",
+        "cover": "green"
+    },
+    {
+        "title": "sapien molestie orci tincidunt adipiscing. Mauris molestie pharetra nibh. Aliquam",
+        "author": "Lamar Parrish",
+        "releaseDate": "1322226275",
+        "price": 67,
+        "publication": "lobortis mauris. Suspendisse aliquet molestie tellus. Aenean egestas hendrerit neque.",
+        "cover": "violet"
+    },
+    {
+        "title": "at sem molestie sodales. Mauris blandit enim consequat purus. Maecenas",
+        "author": "Charde Rosales",
+        "releaseDate": "1088838959",
+        "price": 93,
+        "publication": "aliquam arcu. Aliquam ultrices iaculis odio. Nam interdum enim non",
+        "cover": "violet"
+    },
+    {
+        "title": "at pede. Cras vulputate velit eu sem. Pellentesque ut ipsum",
+        "author": "Yasir Hahn",
+        "releaseDate": "1531026704",
+        "price": 38,
+        "publication": "Vivamus nisi. Mauris nulla. Integer urna. Vivamus molestie dapibus ligula.",
+        "cover": "green"
+    },
+    {
+        "title": "ac, feugiat non, lobortis quis, pede. Suspendisse dui. Fusce diam",
+        "author": "Kasper Hurley",
+        "releaseDate": "1430654592",
+        "price": 8,
+        "publication": "Nunc ac sem ut dolor dapibus gravida. Aliquam tincidunt, nunc",
+        "cover": "orange"
+    },
+    {
+        "title": "diam luctus lobortis. Class aptent taciti sociosqu ad litora torquent",
+        "author": "Jordan Hogan",
+        "releaseDate": "1112292577",
+        "price": 57,
+        "publication": "et arcu imperdiet ullamcorper. Duis at lacus. Quisque purus sapien,",
+        "cover": "red"
+    },
+    {
+        "title": "nisl. Maecenas malesuada fringilla est. Mauris eu turpis. Nulla aliquet.",
+        "author": "Colorado Brady",
+        "releaseDate": "1030478918",
+        "price": 8,
+        "publication": "nec tellus. Nunc lectus pede, ultrices a, auctor non, feugiat",
+        "cover": "blue"
+    },
+    {
+        "title": "sollicitudin adipiscing ligula. Aenean gravida nunc sed pede. Cum sociis",
+        "author": "Victoria Kelly",
+        "releaseDate": "1315928370",
+        "price": 58,
+        "publication": "vulputate ullamcorper magna. Sed eu eros. Nam consequat dolor vitae",
+        "cover": "indigo"
+    },
+    {
+        "title": "ligula. Nullam feugiat placerat velit. Quisque varius. Nam porttitor scelerisque",
+        "author": "Anthony Mason",
+        "releaseDate": "1425946985",
+        "price": 46,
+        "publication": "vel quam dignissim pharetra. Nam ac nulla. In tincidunt congue",
+        "cover": "red"
+    },
+    {
+        "title": "Nunc laoreet lectus quis massa. Mauris vestibulum, neque sed dictum",
+        "author": "Tanner Workman",
+        "releaseDate": "1159485843",
+        "price": 32,
+        "publication": "ac tellus. Suspendisse sed dolor. Fusce mi lorem, vehicula et,",
+        "cover": "green"
+    },
+    {
+        "title": "Phasellus dapibus quam quis diam. Pellentesque habitant morbi tristique senectus",
+        "author": "Inga Gillespie",
+        "releaseDate": "1061392943",
+        "price": 24,
+        "publication": "orci sem eget massa. Suspendisse eleifend. Cras sed leo. Cras",
+        "cover": "blue"
+    },
+    {
+        "title": "elit, a feugiat tellus lorem eu metus. In lorem. Donec",
+        "author": "Aristotle Banks",
+        "releaseDate": "1208732217",
+        "price": 13,
+        "publication": "elementum, dui quis accumsan convallis, ante lectus convallis est, vitae",
+        "cover": "yellow"
+    },
+    {
+        "title": "consequat nec, mollis vitae, posuere at, velit. Cras lorem lorem,",
+        "author": "Kirby Rios",
+        "releaseDate": "1015231229",
+        "price": 94,
+        "publication": "Sed nunc est, mollis non, cursus non, egestas a, dui.",
+        "cover": "indigo"
+    },
+    {
+        "title": "euismod mauris eu elit. Nulla facilisi. Sed neque. Sed eget",
+        "author": "Justin Glenn",
+        "releaseDate": "1196347893",
+        "price": 25,
+        "publication": "lobortis augue scelerisque mollis. Phasellus libero mauris, aliquam eu, accumsan",
+        "cover": "indigo"
+    },
+    {
+        "title": "condimentum. Donec at arcu. Vestibulum ante ipsum primis in faucibus",
+        "author": "Zahir Valenzuela",
+        "releaseDate": "1133423801",
+        "price": 11,
+        "publication": "placerat velit. Quisque varius. Nam porttitor scelerisque neque. Nullam nisl.",
+        "cover": "red"
+    },
+    {
+        "title": "adipiscing lobortis risus. In mi pede, nonummy ut, molestie in,",
+        "author": "Andrew Head",
+        "releaseDate": "1066851302",
+        "price": 93,
+        "publication": "augue porttitor interdum. Sed auctor odio a purus. Duis elementum,",
+        "cover": "orange"
+    },
+    {
+        "title": "pede. Nunc sed orci lobortis augue scelerisque mollis. Phasellus libero",
+        "author": "Lacy Cook",
+        "releaseDate": "1322856373",
+        "price": 41,
+        "publication": "rhoncus. Donec est. Nunc ullamcorper, velit in aliquet lobortis, nisi",
+        "cover": "indigo"
+    },
+    {
+        "title": "nec quam. Curabitur vel lectus. Cum sociis natoque penatibus et",
+        "author": "Erica Berger",
+        "releaseDate": "937091561",
+        "price": 4,
+        "publication": "purus, in molestie tortor nibh sit amet orci. Ut sagittis",
+        "cover": "green"
+    },
+    {
+        "title": "Maecenas ornare egestas ligula. Nullam feugiat placerat velit. Quisque varius.",
+        "author": "Griffin May",
+        "releaseDate": "915513427",
+        "price": 56,
+        "publication": "scelerisque sed, sapien. Nunc pulvinar arcu et pede. Nunc sed",
+        "cover": "blue"
+    },
+    {
+        "title": "at, nisi. Cum sociis natoque penatibus et magnis dis parturient",
+        "author": "Eugenia Skinner",
+        "releaseDate": "1475776117",
+        "price": 35,
+        "publication": "odio a purus. Duis elementum, dui quis accumsan convallis, ante",
+        "cover": "green"
+    },
+    {
+        "title": "diam nunc, ullamcorper eu, euismod ac, fermentum vel, mauris. Integer",
+        "author": "Zena Hinton",
+        "releaseDate": "955695622",
+        "price": 48,
+        "publication": "congue, elit sed consequat auctor, nunc nulla vulputate dui, nec",
+        "cover": "yellow"
+    },
+    {
+        "title": "natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+        "author": "Yetta Schwartz",
+        "releaseDate": "1525228178",
+        "price": 79,
+        "publication": "magna. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Etiam",
+        "cover": "indigo"
+    },
+    {
+        "title": "Nullam feugiat placerat velit. Quisque varius. Nam porttitor scelerisque neque.",
+        "author": "Gay Collins",
+        "releaseDate": "1449721237",
+        "price": 54,
+        "publication": "Aenean eget metus. In nec orci. Donec nibh. Quisque nonummy",
+        "cover": "green"
+    },
+    {
+        "title": "iaculis nec, eleifend non, dapibus rutrum, justo. Praesent luctus. Curabitur",
+        "author": "Martena Harmon",
+        "releaseDate": "1457385008",
+        "price": 83,
+        "publication": "nunc id enim. Curabitur massa. Vestibulum accumsan neque et nunc.",
+        "cover": "yellow"
+    },
+    {
+        "title": "Proin sed turpis nec mauris blandit mattis. Cras eget nisi",
+        "author": "Igor Glenn",
+        "releaseDate": "1244450866",
+        "price": 11,
+        "publication": "montes, nascetur ridiculus mus. Proin vel nisl. Quisque fringilla euismod",
+        "cover": "orange"
+    },
+    {
+        "title": "libero lacus, varius et, euismod et, commodo at, libero. Morbi",
+        "author": "Selma Waller",
+        "releaseDate": "1282910932",
+        "price": 69,
+        "publication": "Ut sagittis lobortis mauris. Suspendisse aliquet molestie tellus. Aenean egestas",
+        "cover": "violet"
+    },
+    {
+        "title": "mauris, rhoncus id, mollis nec, cursus a, enim. Suspendisse aliquet,",
+        "author": "Ignatius Good",
+        "releaseDate": "970371906",
+        "price": 63,
+        "publication": "urna. Nunc quis arcu vel quam dignissim pharetra. Nam ac",
+        "cover": "violet"
+    },
+    {
+        "title": "auctor quis, tristique ac, eleifend vitae, erat. Vivamus nisi. Mauris",
+        "author": "Channing Rush",
+        "releaseDate": "1076213185",
+        "price": 70,
+        "publication": "libero. Proin mi. Aliquam gravida mauris ut mi. Duis risus",
+        "cover": "blue"
+    },
+    {
+        "title": "rhoncus. Proin nisl sem, consequat nec, mollis vitae, posuere at,",
+        "author": "Orla Espinoza",
+        "releaseDate": "1396839665",
+        "price": 18,
+        "publication": "diam. Pellentesque habitant morbi tristique senectus et netus et malesuada",
+        "cover": "green"
+    },
+    {
+        "title": "Mauris magna. Duis dignissim tempor arcu. Vestibulum ut eros non",
+        "author": "Fredericka Alvarez",
+        "releaseDate": "1283829499",
+        "price": 82,
+        "publication": "elementum, lorem ut aliquam iaculis, lacus pede sagittis augue, eu",
+        "cover": "green"
+    },
+    {
+        "title": "scelerisque neque. Nullam nisl. Maecenas malesuada fringilla est. Mauris eu",
+        "author": "Ruth Griffin",
+        "releaseDate": "1554966795",
+        "price": 7,
+        "publication": "Nulla facilisi. Sed neque. Sed eget lacus. Mauris non dui",
+        "cover": "indigo"
+    },
+    {
+        "title": "eu tempor erat neque non quam. Pellentesque habitant morbi tristique",
+        "author": "Craig Stone",
+        "releaseDate": "1142426301",
+        "price": 1,
+        "publication": "lacus. Nulla tincidunt, neque vitae semper egestas, urna justo faucibus",
+        "cover": "green"
+    },
+    {
+        "title": "non, dapibus rutrum, justo. Praesent luctus. Curabitur egestas nunc sed",
+        "author": "Jorden Boyer",
+        "releaseDate": "979076617",
+        "price": 9,
+        "publication": "neque sed sem egestas blandit. Nam nulla magna, malesuada vel,",
+        "cover": "blue"
+    },
+    {
+        "title": "Aenean sed pede nec ante blandit viverra. Donec tempus, lorem",
+        "author": "Hadley Brooks",
+        "releaseDate": "1287005149",
+        "price": 56,
+        "publication": "dis parturient montes, nascetur ridiculus mus. Proin vel arcu eu",
+        "cover": "green"
+    },
+    {
+        "title": "quis massa. Mauris vestibulum, neque sed dictum eleifend, nunc risus",
+        "author": "Vaughan Sutton",
+        "releaseDate": "1026411524",
+        "price": 78,
+        "publication": "In condimentum. Donec at arcu. Vestibulum ante ipsum primis in",
+        "cover": "red"
+    },
+    {
+        "title": "arcu imperdiet ullamcorper. Duis at lacus. Quisque purus sapien, gravida",
+        "author": "Oren Bird",
+        "releaseDate": "992909601",
+        "price": 34,
+        "publication": "nonummy ultricies ornare, elit elit fermentum risus, at fringilla purus",
+        "cover": "red"
+    },
+    {
+        "title": "Vivamus euismod urna. Nullam lobortis quam a felis ullamcorper viverra.",
+        "author": "James Vega",
+        "releaseDate": "1533414106",
+        "price": 49,
+        "publication": "tellus id nunc interdum feugiat. Sed nec metus facilisis lorem",
+        "cover": "orange"
+    },
+    {
+        "title": "dolor sit amet, consectetuer adipiscing elit. Aliquam auctor, velit eget",
+        "author": "Nissim Mccullough",
+        "releaseDate": "1144770212",
+        "price": 73,
+        "publication": "luctus vulputate, nisi sem semper erat, in consectetuer ipsum nunc",
+        "cover": "indigo"
+    },
+    {
+        "title": "ut erat. Sed nunc est, mollis non, cursus non, egestas",
+        "author": "Ignatius Nicholson",
+        "releaseDate": "1270944570",
+        "price": 27,
+        "publication": "diam luctus lobortis. Class aptent taciti sociosqu ad litora torquent",
+        "cover": "indigo"
+    },
+    {
+        "title": "ultrices posuere cubilia Curae; Phasellus ornare. Fusce mollis. Duis sit",
+        "author": "Ivy Walters",
+        "releaseDate": "1531146821",
+        "price": 98,
+        "publication": "libero. Integer in magna. Phasellus dolor elit, pellentesque a, facilisis",
+        "cover": "blue"
+    },
+    {
+        "title": "tellus, imperdiet non, vestibulum nec, euismod in, dolor. Fusce feugiat.",
+        "author": "Victor Wynn",
+        "releaseDate": "1067911398",
+        "price": 41,
+        "publication": "Duis mi enim, condimentum eget, volutpat ornare, facilisis eget, ipsum.",
+        "cover": "blue"
+    },
+    {
+        "title": "est, mollis non, cursus non, egestas a, dui. Cras pellentesque.",
+        "author": "Cora Noble",
+        "releaseDate": "1340275829",
+        "price": 46,
+        "publication": "posuere cubilia Curae; Donec tincidunt. Donec vitae erat vel pede",
+        "cover": "blue"
+    },
+    {
+        "title": "sollicitudin commodo ipsum. Suspendisse non leo. Vivamus nibh dolor, nonummy",
+        "author": "Stone Hawkins",
+        "releaseDate": "1349146323",
+        "price": 8,
+        "publication": "Proin sed turpis nec mauris blandit mattis. Cras eget nisi",
+        "cover": "orange"
+    },
+    {
+        "title": "vestibulum massa rutrum magna. Cras convallis convallis dolor. Quisque tincidunt",
+        "author": "Kasper Hensley",
+        "releaseDate": "1373778920",
+        "price": 89,
+        "publication": "vitae nibh. Donec est mauris, rhoncus id, mollis nec, cursus",
+        "cover": "yellow"
+    },
+    {
+        "title": "Duis elementum, dui quis accumsan convallis, ante lectus convallis est,",
+        "author": "Silas Olson",
+        "releaseDate": "1458773702",
+        "price": 46,
+        "publication": "consequat auctor, nunc nulla vulputate dui, nec tempus mauris erat",
+        "cover": "yellow"
+    },
+    {
+        "title": "libero. Proin sed turpis nec mauris blandit mattis. Cras eget",
+        "author": "Gail Drake",
+        "releaseDate": "1073993213",
+        "price": 59,
+        "publication": "aliquet, sem ut cursus luctus, ipsum leo elementum sem, vitae",
+        "cover": "green"
+    },
+    {
+        "title": "libero lacus, varius et, euismod et, commodo at, libero. Morbi",
+        "author": "Veronica Kramer",
+        "releaseDate": "1444601954",
+        "price": 58,
+        "publication": "ultrices posuere cubilia Curae; Donec tincidunt. Donec vitae erat vel",
+        "cover": "violet"
+    },
+    {
+        "title": "consequat purus. Maecenas libero est, congue a, aliquet vel, vulputate",
+        "author": "Quincy Pena",
+        "releaseDate": "980564015",
+        "price": 59,
+        "publication": "aliquet. Proin velit. Sed malesuada augue ut lacus. Nulla tincidunt,",
+        "cover": "blue"
+    },
+    {
+        "title": "sagittis. Duis gravida. Praesent eu nulla at sem molestie sodales.",
+        "author": "Kitra Dennis",
+        "releaseDate": "1097954777",
+        "price": 61,
+        "publication": "commodo ipsum. Suspendisse non leo. Vivamus nibh dolor, nonummy ac,",
+        "cover": "yellow"
+    },
+    {
+        "title": "fringilla. Donec feugiat metus sit amet ante. Vivamus non lorem",
+        "author": "Lani Monroe",
+        "releaseDate": "1546353499",
+        "price": 89,
+        "publication": "Duis mi enim, condimentum eget, volutpat ornare, facilisis eget, ipsum.",
+        "cover": "green"
+    },
+    {
+        "title": "adipiscing lobortis risus. In mi pede, nonummy ut, molestie in,",
+        "author": "Jillian Avila",
+        "releaseDate": "1073431891",
+        "price": 22,
+        "publication": "consequat auctor, nunc nulla vulputate dui, nec tempus mauris erat",
+        "cover": "orange"
+    },
+    {
+        "title": "Nunc sollicitudin commodo ipsum. Suspendisse non leo. Vivamus nibh dolor,",
+        "author": "Forrest Koch",
+        "releaseDate": "1423485122",
+        "price": 3,
+        "publication": "cursus purus. Nullam scelerisque neque sed sem egestas blandit. Nam",
+        "cover": "violet"
+    },
+    {
+        "title": "dictum magna. Ut tincidunt orci quis lectus. Nullam suscipit, est",
+        "author": "Summer Tyson",
+        "releaseDate": "977083043",
+        "price": 95,
+        "publication": "aliquet vel, vulputate eu, odio. Phasellus at augue id ante",
+        "cover": "yellow"
+    },
+    {
+        "title": "est mauris, rhoncus id, mollis nec, cursus a, enim. Suspendisse",
+        "author": "Philip Jenkins",
+        "releaseDate": "994591666",
+        "price": 16,
+        "publication": "ut nisi a odio semper cursus. Integer mollis. Integer tincidunt",
+        "cover": "orange"
+    },
+    {
+        "title": "ultrices posuere cubilia Curae; Phasellus ornare. Fusce mollis. Duis sit",
+        "author": "Mira Christian",
+        "releaseDate": "1365678885",
+        "price": 40,
+        "publication": "dapibus ligula. Aliquam erat volutpat. Nulla dignissim. Maecenas ornare egestas",
+        "cover": "indigo"
+    },
+    {
+        "title": "vel, faucibus id, libero. Donec consectetuer mauris id sapien. Cras",
+        "author": "Leila Cook",
+        "releaseDate": "1520973257",
+        "price": 74,
+        "publication": "porttitor interdum. Sed auctor odio a purus. Duis elementum, dui",
+        "cover": "orange"
+    },
+    {
+        "title": "sit amet orci. Ut sagittis lobortis mauris. Suspendisse aliquet molestie",
+        "author": "Kyra Nelson",
+        "releaseDate": "1439288824",
+        "price": 75,
+        "publication": "a neque. Nullam ut nisi a odio semper cursus. Integer",
+        "cover": "red"
+    },
+    {
+        "title": "nibh dolor, nonummy ac, feugiat non, lobortis quis, pede. Suspendisse",
+        "author": "Tasha Noble",
+        "releaseDate": "1550789300",
+        "price": 90,
+        "publication": "gravida mauris ut mi. Duis risus odio, auctor vitae, aliquet",
+        "cover": "blue"
+    },
+    {
+        "title": "nibh dolor, nonummy ac, feugiat non, lobortis quis, pede. Suspendisse",
+        "author": "Althea Booth",
+        "releaseDate": "1243714653",
+        "price": 87,
+        "publication": "tincidunt, nunc ac mattis ornare, lectus ante dictum mi, ac",
+        "cover": "green"
+    },
+    {
+        "title": "est, vitae sodales nisi magna sed dui. Fusce aliquam, enim",
+        "author": "Guy Pope",
+        "releaseDate": "1014762396",
+        "price": 5,
+        "publication": "accumsan convallis, ante lectus convallis est, vitae sodales nisi magna",
+        "cover": "blue"
+    },
+    {
+        "title": "Fusce aliquet magna a neque. Nullam ut nisi a odio",
+        "author": "Yen Good",
+        "releaseDate": "1437689794",
+        "price": 3,
+        "publication": "Aenean gravida nunc sed pede. Cum sociis natoque penatibus et",
+        "cover": "blue"
+    },
+    {
+        "title": "hendrerit consectetuer, cursus et, magna. Praesent interdum ligula eu enim.",
+        "author": "Flynn Long",
+        "releaseDate": "1346090600",
+        "price": 3,
+        "publication": "eu turpis. Nulla aliquet. Proin velit. Sed malesuada augue ut",
+        "cover": "green"
+    },
+    {
+        "title": "velit dui, semper et, lacinia vitae, sodales at, velit. Pellentesque",
+        "author": "Abigail Mcpherson",
+        "releaseDate": "1100405777",
+        "price": 52,
+        "publication": "sapien molestie orci tincidunt adipiscing. Mauris molestie pharetra nibh. Aliquam",
+        "cover": "red"
+    },
+    {
+        "title": "sed libero. Proin sed turpis nec mauris blandit mattis. Cras",
+        "author": "Halee Riley",
+        "releaseDate": "1257919773",
+        "price": 12,
+        "publication": "nibh. Quisque nonummy ipsum non arcu. Vivamus sit amet risus.",
+        "cover": "yellow"
+    },
+    {
+        "title": "lacinia orci, consectetuer euismod est arcu ac orci. Ut semper",
+        "author": "Hashim Fernandez",
+        "releaseDate": "961782207",
+        "price": 77,
+        "publication": "ac arcu. Nunc mauris. Morbi non sapien molestie orci tincidunt",
+        "cover": "indigo"
+    },
+    {
+        "title": "sit amet, consectetuer adipiscing elit. Curabitur sed tortor. Integer aliquam",
+        "author": "Mason Hodge",
+        "releaseDate": "1336262743",
+        "price": 22,
+        "publication": "et netus et malesuada fames ac turpis egestas. Aliquam fringilla",
+        "cover": "blue"
+    },
+    {
+        "title": "metus vitae velit egestas lacinia. Sed congue, elit sed consequat",
+        "author": "Christian Floyd",
+        "releaseDate": "906914726",
+        "price": 31,
+        "publication": "metus. In nec orci. Donec nibh. Quisque nonummy ipsum non",
+        "cover": "violet"
+    },
+    {
+        "title": "est arcu ac orci. Ut semper pretium neque. Morbi quis",
+        "author": "Neville Tillman",
+        "releaseDate": "1195350988",
+        "price": 27,
+        "publication": "sollicitudin a, malesuada id, erat. Etiam vestibulum massa rutrum magna.",
+        "cover": "blue"
+    },
+    {
+        "title": "ante, iaculis nec, eleifend non, dapibus rutrum, justo. Praesent luctus.",
+        "author": "Nathaniel Watkins",
+        "releaseDate": "1149126829",
+        "price": 33,
+        "publication": "vulputate mauris sagittis placerat. Cras dictum ultricies ligula. Nullam enim.",
+        "cover": "orange"
+    },
+    {
+        "title": "Curabitur ut odio vel est tempor bibendum. Donec felis orci,",
+        "author": "Jorden Mccall",
+        "releaseDate": "1369991949",
+        "price": 7,
+        "publication": "eu elit. Nulla facilisi. Sed neque. Sed eget lacus. Mauris",
+        "cover": "orange"
+    },
+    {
+        "title": "nec ligula consectetuer rhoncus. Nullam velit dui, semper et, lacinia",
+        "author": "Amy Harrison",
+        "releaseDate": "1250126326",
+        "price": 55,
+        "publication": "nec, diam. Duis mi enim, condimentum eget, volutpat ornare, facilisis",
+        "cover": "indigo"
+    },
+    {
+        "title": "risus. Nunc ac sem ut dolor dapibus gravida. Aliquam tincidunt,",
+        "author": "Devin Glenn",
+        "releaseDate": "1132836084",
+        "price": 42,
+        "publication": "netus et malesuada fames ac turpis egestas. Aliquam fringilla cursus",
+        "cover": "red"
+    },
+    {
+        "title": "Aliquam rutrum lorem ac risus. Morbi metus. Vivamus euismod urna.",
+        "author": "Lara Blackwell",
+        "releaseDate": "1084440329",
+        "price": 52,
+        "publication": "non arcu. Vivamus sit amet risus. Donec egestas. Aliquam nec",
+        "cover": "green"
+    },
+    {
+        "title": "eu sem. Pellentesque ut ipsum ac mi eleifend egestas. Sed",
+        "author": "Cecilia Colon",
+        "releaseDate": "1173848156",
+        "price": 45,
+        "publication": "semper erat, in consectetuer ipsum nunc id enim. Curabitur massa.",
+        "cover": "green"
+    },
+    {
+        "title": "Donec tempor, est ac mattis semper, dui lectus rutrum urna,",
+        "author": "Joel Reese",
+        "releaseDate": "950103553",
+        "price": 80,
+        "publication": "Nulla eu neque pellentesque massa lobortis ultrices. Vivamus rhoncus. Donec",
+        "cover": "green"
+    },
+    {
+        "title": "enim. Curabitur massa. Vestibulum accumsan neque et nunc. Quisque ornare",
+        "author": "Martena Fowler",
+        "releaseDate": "1247518692",
+        "price": 14,
+        "publication": "diam vel arcu. Curabitur ut odio vel est tempor bibendum.",
+        "cover": "violet"
+    },
+    {
+        "title": "felis eget varius ultrices, mauris ipsum porta elit, a feugiat",
+        "author": "Patience Burnett",
+        "releaseDate": "1233602578",
+        "price": 32,
+        "publication": "lectus rutrum urna, nec luctus felis purus ac tellus. Suspendisse",
+        "cover": "green"
+    },
+    {
+        "title": "eu odio tristique pharetra. Quisque ac libero nec ligula consectetuer",
+        "author": "Josephine Todd",
+        "releaseDate": "926513438",
+        "price": 99,
+        "publication": "Nullam scelerisque neque sed sem egestas blandit. Nam nulla magna,",
+        "cover": "blue"
+    },
+    {
+        "title": "venenatis lacus. Etiam bibendum fermentum metus. Aenean sed pede nec",
+        "author": "Orlando Medina",
+        "releaseDate": "1301916256",
+        "price": 55,
+        "publication": "ultrices iaculis odio. Nam interdum enim non nisi. Aenean eget",
+        "cover": "indigo"
+    },
+    {
+        "title": "risus. Duis a mi fringilla mi lacinia mattis. Integer eu",
+        "author": "Jelani Pickett",
+        "releaseDate": "964306867",
+        "price": 82,
+        "publication": "congue. In scelerisque scelerisque dui. Suspendisse ac metus vitae velit",
+        "cover": "violet"
+    },
+    {
+        "title": "diam. Sed diam lorem, auctor quis, tristique ac, eleifend vitae,",
+        "author": "Porter Talley",
+        "releaseDate": "1313178433",
+        "price": 57,
+        "publication": "felis. Nulla tempor augue ac ipsum. Phasellus vitae mauris sit",
+        "cover": "orange"
+    },
+    {
+        "title": "dolor sit amet, consectetuer adipiscing elit. Aliquam auctor, velit eget",
+        "author": "Teegan Berg",
+        "releaseDate": "1553488361",
+        "price": 59,
+        "publication": "lorem, vehicula et, rutrum eu, ultrices sit amet, risus. Donec",
+        "cover": "yellow"
+    },
+    {
+        "title": "odio a purus. Duis elementum, dui quis accumsan convallis, ante",
+        "author": "Hu Solomon",
+        "releaseDate": "1095151872",
+        "price": 28,
+        "publication": "blandit viverra. Donec tempus, lorem fringilla ornare placerat, orci lacus",
+        "cover": "red"
+    },
+    {
+        "title": "nisi nibh lacinia orci, consectetuer euismod est arcu ac orci.",
+        "author": "Reese Carrillo",
+        "releaseDate": "1369834536",
+        "price": 98,
+        "publication": "mattis velit justo nec ante. Maecenas mi felis, adipiscing fringilla,",
+        "cover": "orange"
+    },
+    {
+        "title": "auctor, velit eget laoreet posuere, enim nisl elementum purus, accumsan",
+        "author": "Travis Koch",
+        "releaseDate": "1374236177",
+        "price": 73,
+        "publication": "at, libero. Morbi accumsan laoreet ipsum. Curabitur consequat, lectus sit",
+        "cover": "blue"
+    },
+    {
+        "title": "netus et malesuada fames ac turpis egestas. Aliquam fringilla cursus",
+        "author": "Zeus Glenn",
+        "releaseDate": "923079726",
+        "price": 63,
+        "publication": "ut nisi a odio semper cursus. Integer mollis. Integer tincidunt",
+        "cover": "orange"
+    },
+    {
+        "title": "Proin dolor. Nulla semper tellus id nunc interdum feugiat. Sed",
+        "author": "Belle Randolph",
+        "releaseDate": "989472461",
+        "price": 18,
+        "publication": "risus. Donec nibh enim, gravida sit amet, dapibus id, blandit",
+        "cover": "orange"
+    },
+    {
+        "title": "pharetra ut, pharetra sed, hendrerit a, arcu. Sed et libero.",
+        "author": "Raya Wiley",
+        "releaseDate": "1515221775",
+        "price": 73,
+        "publication": "Curabitur ut odio vel est tempor bibendum. Donec felis orci,",
+        "cover": "indigo"
+    },
+    {
+        "title": "et risus. Quisque libero lacus, varius et, euismod et, commodo",
+        "author": "Wyatt Skinner",
+        "releaseDate": "1300420345",
+        "price": 7,
+        "publication": "massa. Suspendisse eleifend. Cras sed leo. Cras vehicula aliquet libero.",
+        "cover": "red"
+    },
+    {
+        "title": "magna. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Etiam",
+        "author": "Jenette Valenzuela",
+        "releaseDate": "943786201",
+        "price": 61,
+        "publication": "lorem ac risus. Morbi metus. Vivamus euismod urna. Nullam lobortis",
+        "cover": "green"
+    },
+    {
+        "title": "egestas lacinia. Sed congue, elit sed consequat auctor, nunc nulla",
+        "author": "Lani Huffman",
+        "releaseDate": "1033714275",
+        "price": 15,
+        "publication": "erat vel pede blandit congue. In scelerisque scelerisque dui. Suspendisse",
+        "cover": "orange"
+    },
+    {
+        "title": "nec metus facilisis lorem tristique aliquet. Phasellus fermentum convallis ligula.",
+        "author": "Brooke Mayer",
+        "releaseDate": "1139913645",
+        "price": 28,
+        "publication": "natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+        "cover": "indigo"
+    },
+    {
+        "title": "vitae aliquam eros turpis non enim. Mauris quis turpis vitae",
+        "author": "Quin Monroe",
+        "releaseDate": "1189578379",
+        "price": 26,
+        "publication": "ac risus. Morbi metus. Vivamus euismod urna. Nullam lobortis quam",
+        "cover": "indigo"
+    },
+    {
+        "title": "lorem fringilla ornare placerat, orci lacus vestibulum lorem, sit amet",
+        "author": "Anastasia Mcmillan",
+        "releaseDate": "1038530328",
+        "price": 84,
+        "publication": "convallis convallis dolor. Quisque tincidunt pede ac urna. Ut tincidunt",
+        "cover": "violet"
+    },
+    {
+        "title": "est ac mattis semper, dui lectus rutrum urna, nec luctus",
+        "author": "Sylvia Sweet",
+        "releaseDate": "1393269582",
+        "price": 83,
+        "publication": "semper. Nam tempor diam dictum sapien. Aenean massa. Integer vitae",
+        "cover": "orange"
+    },
+    {
+        "title": "Nulla tempor augue ac ipsum. Phasellus vitae mauris sit amet",
+        "author": "Lee Dillon",
+        "releaseDate": "941778549",
+        "price": 72,
+        "publication": "metus. In lorem. Donec elementum, lorem ut aliquam iaculis, lacus",
+        "cover": "red"
+    },
+    {
+        "title": "ac tellus. Suspendisse sed dolor. Fusce mi lorem, vehicula et,",
+        "author": "Keelie Barton",
+        "releaseDate": "1432226878",
+        "price": 80,
+        "publication": "nec, mollis vitae, posuere at, velit. Cras lorem lorem, luctus",
+        "cover": "blue"
+    },
+    {
+        "title": "Nam nulla magna, malesuada vel, convallis in, cursus et, eros.",
+        "author": "Leah Wallace",
+        "releaseDate": "989300912",
+        "price": 77,
+        "publication": "erat nonummy ultricies ornare, elit elit fermentum risus, at fringilla",
+        "cover": "blue"
+    },
+    {
+        "title": "cursus et, eros. Proin ultrices. Duis volutpat nunc sit amet",
+        "author": "Odysseus Perkins",
+        "releaseDate": "963304811",
+        "price": 61,
+        "publication": "vitae risus. Duis a mi fringilla mi lacinia mattis. Integer",
+        "cover": "yellow"
+    },
+    {
+        "title": "felis ullamcorper viverra. Maecenas iaculis aliquet diam. Sed diam lorem,",
+        "author": "Rebecca Decker",
+        "releaseDate": "1309067590",
+        "price": 54,
+        "publication": "molestie tortor nibh sit amet orci. Ut sagittis lobortis mauris.",
+        "cover": "red"
+    },
+    {
+        "title": "et magnis dis parturient montes, nascetur ridiculus mus. Donec dignissim",
+        "author": "Hunter Ellison",
+        "releaseDate": "1280151567",
+        "price": 6,
+        "publication": "parturient montes, nascetur ridiculus mus. Proin vel nisl. Quisque fringilla",
+        "cover": "blue"
+    },
+    {
+        "title": "sed dolor. Fusce mi lorem, vehicula et, rutrum eu, ultrices",
+        "author": "Tanek Callahan",
+        "releaseDate": "1396655416",
+        "price": 30,
+        "publication": "adipiscing. Mauris molestie pharetra nibh. Aliquam ornare, libero at auctor",
+        "cover": "indigo"
+    },
+    {
+        "title": "Phasellus dapibus quam quis diam. Pellentesque habitant morbi tristique senectus",
+        "author": "Lilah Leonard",
+        "releaseDate": "994156808",
+        "price": 85,
+        "publication": "ipsum ac mi eleifend egestas. Sed pharetra, felis eget varius",
+        "cover": "violet"
+    },
+    {
+        "title": "erat, eget tincidunt dui augue eu tellus. Phasellus elit pede,",
+        "author": "Rae Parks",
+        "releaseDate": "1203633206",
+        "price": 8,
+        "publication": "In lorem. Donec elementum, lorem ut aliquam iaculis, lacus pede",
+        "cover": "blue"
+    },
+    {
+        "title": "magna et ipsum cursus vestibulum. Mauris magna. Duis dignissim tempor",
+        "author": "Tad Underwood",
+        "releaseDate": "999730282",
+        "price": 59,
+        "publication": "Praesent eu nulla at sem molestie sodales. Mauris blandit enim",
+        "cover": "green"
+    },
+    {
+        "title": "vitae, sodales at, velit. Pellentesque ultricies dignissim lacus. Aliquam rutrum",
+        "author": "Marsden Martin",
+        "releaseDate": "1301691923",
+        "price": 46,
+        "publication": "Quisque varius. Nam porttitor scelerisque neque. Nullam nisl. Maecenas malesuada",
+        "cover": "violet"
+    },
+    {
+        "title": "ac, eleifend vitae, erat. Vivamus nisi. Mauris nulla. Integer urna.",
+        "author": "Jillian English",
+        "releaseDate": "1286676050",
+        "price": 86,
+        "publication": "ullamcorper magna. Sed eu eros. Nam consequat dolor vitae dolor.",
+        "cover": "yellow"
+    },
+    {
+        "title": "enim diam vel arcu. Curabitur ut odio vel est tempor",
+        "author": "Sawyer Rivas",
+        "releaseDate": "986310440",
+        "price": 42,
+        "publication": "non sapien molestie orci tincidunt adipiscing. Mauris molestie pharetra nibh.",
+        "cover": "red"
+    },
+    {
+        "title": "Duis a mi fringilla mi lacinia mattis. Integer eu lacus.",
+        "author": "Amber Herrera",
+        "releaseDate": "1503661884",
+        "price": 64,
+        "publication": "eget odio. Aliquam vulputate ullamcorper magna. Sed eu eros. Nam",
+        "cover": "orange"
+    },
+    {
+        "title": "Aliquam ultrices iaculis odio. Nam interdum enim non nisi. Aenean",
+        "author": "Giacomo Velasquez",
+        "releaseDate": "1212862297",
+        "price": 25,
+        "publication": "ante. Vivamus non lorem vitae odio sagittis semper. Nam tempor",
+        "cover": "yellow"
+    },
+    {
+        "title": "tempus mauris erat eget ipsum. Suspendisse sagittis. Nullam vitae diam.",
+        "author": "Kylee Davidson",
+        "releaseDate": "912950109",
+        "price": 30,
+        "publication": "luctus aliquet odio. Etiam ligula tortor, dictum eu, placerat eget,",
+        "cover": "violet"
+    },
+    {
+        "title": "rutrum eu, ultrices sit amet, risus. Donec nibh enim, gravida",
+        "author": "Illiana Johnson",
+        "releaseDate": "1507243608",
+        "price": 15,
+        "publication": "cursus. Integer mollis. Integer tincidunt aliquam arcu. Aliquam ultrices iaculis",
+        "cover": "violet"
+    },
+    {
+        "title": "eu metus. In lorem. Donec elementum, lorem ut aliquam iaculis,",
+        "author": "Gary Mosley",
+        "releaseDate": "1540888361",
+        "price": 74,
+        "publication": "orci. Phasellus dapibus quam quis diam. Pellentesque habitant morbi tristique",
+        "cover": "yellow"
+    },
+    {
+        "title": "pede. Cras vulputate velit eu sem. Pellentesque ut ipsum ac",
+        "author": "Roanna Boyd",
+        "releaseDate": "913791041",
+        "price": 37,
+        "publication": "Vestibulum accumsan neque et nunc. Quisque ornare tortor at risus.",
+        "cover": "yellow"
+    },
+    {
+        "title": "Nunc commodo auctor velit. Aliquam nisl. Nulla eu neque pellentesque",
+        "author": "Jana Salinas",
+        "releaseDate": "1052843223",
+        "price": 76,
+        "publication": "adipiscing lobortis risus. In mi pede, nonummy ut, molestie in,",
+        "cover": "green"
+    },
+    {
+        "title": "vitae mauris sit amet lorem semper auctor. Mauris vel turpis.",
+        "author": "Sara Greer",
+        "releaseDate": "1299391344",
+        "price": 94,
+        "publication": "tincidunt nibh. Phasellus nulla. Integer vulputate, risus a ultricies adipiscing,",
+        "cover": "red"
+    },
+    {
+        "title": "at arcu. Vestibulum ante ipsum primis in faucibus orci luctus",
+        "author": "Jaime Brock",
+        "releaseDate": "1273777252",
+        "price": 65,
+        "publication": "Duis sit amet diam eu dolor egestas rhoncus. Proin nisl",
+        "cover": "green"
+    },
+    {
+        "title": "dictum augue malesuada malesuada. Integer id magna et ipsum cursus",
+        "author": "Claire Foreman",
+        "releaseDate": "1547487786",
+        "price": 59,
+        "publication": "eu augue porttitor interdum. Sed auctor odio a purus. Duis",
+        "cover": "indigo"
+    },
+    {
+        "title": "morbi tristique senectus et netus et malesuada fames ac turpis",
+        "author": "Blair Terrell",
+        "releaseDate": "1213991074",
+        "price": 58,
+        "publication": "amet risus. Donec egestas. Aliquam nec enim. Nunc ut erat.",
+        "cover": "red"
+    },
+    {
+        "title": "Aenean egestas hendrerit neque. In ornare sagittis felis. Donec tempor,",
+        "author": "Piper Nash",
+        "releaseDate": "1063937502",
+        "price": 28,
+        "publication": "et, commodo at, libero. Morbi accumsan laoreet ipsum. Curabitur consequat,",
+        "cover": "yellow"
+    },
+    {
+        "title": "sed libero. Proin sed turpis nec mauris blandit mattis. Cras",
+        "author": "Nasim Solomon",
+        "releaseDate": "1000692617",
+        "price": 30,
+        "publication": "laoreet lectus quis massa. Mauris vestibulum, neque sed dictum eleifend,",
+        "cover": "yellow"
+    },
+    {
+        "title": "sed leo. Cras vehicula aliquet libero. Integer in magna. Phasellus",
+        "author": "Sylvester Hood",
+        "releaseDate": "1425394639",
+        "price": 7,
+        "publication": "ornare sagittis felis. Donec tempor, est ac mattis semper, dui",
+        "cover": "yellow"
+    },
+    {
+        "title": "dolor sit amet, consectetuer adipiscing elit. Etiam laoreet, libero et",
+        "author": "Hollee Holmes",
+        "releaseDate": "1404508868",
+        "price": 40,
+        "publication": "ipsum primis in faucibus orci luctus et ultrices posuere cubilia",
+        "cover": "indigo"
+    },
+    {
+        "title": "ac turpis egestas. Fusce aliquet magna a neque. Nullam ut",
+        "author": "Colette Yang",
+        "releaseDate": "1205002509",
+        "price": 46,
+        "publication": "Praesent eu dui. Cum sociis natoque penatibus et magnis dis",
+        "cover": "yellow"
+    },
+    {
+        "title": "Nunc mauris elit, dictum eu, eleifend nec, malesuada ut, sem.",
+        "author": "Jameson Potter",
+        "releaseDate": "1473560548",
+        "price": 35,
+        "publication": "erat. Vivamus nisi. Mauris nulla. Integer urna. Vivamus molestie dapibus",
+        "cover": "green"
+    },
+    {
+        "title": "elit, pellentesque a, facilisis non, bibendum sed, est. Nunc laoreet",
+        "author": "Burton Jacobson",
+        "releaseDate": "1302464583",
+        "price": 42,
+        "publication": "neque tellus, imperdiet non, vestibulum nec, euismod in, dolor. Fusce",
+        "cover": "red"
+    },
+    {
+        "title": "enim. Etiam gravida molestie arcu. Sed eu nibh vulputate mauris",
+        "author": "Nevada Gallagher",
+        "releaseDate": "991161932",
+        "price": 94,
+        "publication": "malesuada malesuada. Integer id magna et ipsum cursus vestibulum. Mauris",
+        "cover": "orange"
+    },
+    {
+        "title": "In at pede. Cras vulputate velit eu sem. Pellentesque ut",
+        "author": "Laith English",
+        "releaseDate": "1396777724",
+        "price": 30,
+        "publication": "aliquam arcu. Aliquam ultrices iaculis odio. Nam interdum enim non",
+        "cover": "indigo"
+    },
+    {
+        "title": "tellus, imperdiet non, vestibulum nec, euismod in, dolor. Fusce feugiat.",
+        "author": "Tana Cook",
+        "releaseDate": "1209539226",
+        "price": 24,
+        "publication": "gravida sagittis. Duis gravida. Praesent eu nulla at sem molestie",
+        "cover": "yellow"
+    },
+    {
+        "title": "Aliquam erat volutpat. Nulla dignissim. Maecenas ornare egestas ligula. Nullam",
+        "author": "Neville Dickson",
+        "releaseDate": "1444067864",
+        "price": 22,
+        "publication": "in magna. Phasellus dolor elit, pellentesque a, facilisis non, bibendum",
+        "cover": "indigo"
+    },
+    {
+        "title": "pretium aliquet, metus urna convallis erat, eget tincidunt dui augue",
+        "author": "Kasper Roy",
+        "releaseDate": "949571113",
+        "price": 3,
+        "publication": "ante bibendum ullamcorper. Duis cursus, diam at pretium aliquet, metus",
+        "cover": "green"
+    },
+    {
+        "title": "est. Nunc ullamcorper, velit in aliquet lobortis, nisi nibh lacinia",
+        "author": "Gisela Lowery",
+        "releaseDate": "1317375845",
+        "price": 58,
+        "publication": "accumsan sed, facilisis vitae, orci. Phasellus dapibus quam quis diam.",
+        "cover": "orange"
+    },
+    {
+        "title": "Etiam bibendum fermentum metus. Aenean sed pede nec ante blandit",
+        "author": "Grant Puckett",
+        "releaseDate": "1535328316",
+        "price": 15,
+        "publication": "In mi pede, nonummy ut, molestie in, tempus eu, ligula.",
+        "cover": "red"
+    },
+    {
+        "title": "fringilla mi lacinia mattis. Integer eu lacus. Quisque imperdiet, erat",
+        "author": "Preston Edwards",
+        "releaseDate": "1388319639",
+        "price": 31,
+        "publication": "urna et arcu imperdiet ullamcorper. Duis at lacus. Quisque purus",
+        "cover": "violet"
+    },
+    {
+        "title": "quam, elementum at, egestas a, scelerisque sed, sapien. Nunc pulvinar",
+        "author": "Karen Ruiz",
+        "releaseDate": "1511274391",
+        "price": 90,
+        "publication": "magna. Phasellus dolor elit, pellentesque a, facilisis non, bibendum sed,",
+        "cover": "violet"
+    },
+    {
+        "title": "in molestie tortor nibh sit amet orci. Ut sagittis lobortis",
+        "author": "Charde Rodriguez",
+        "releaseDate": "1347649132",
+        "price": 6,
+        "publication": "parturient montes, nascetur ridiculus mus. Proin vel nisl. Quisque fringilla",
+        "cover": "violet"
+    },
+    {
+        "title": "dapibus rutrum, justo. Praesent luctus. Curabitur egestas nunc sed libero.",
+        "author": "Cameron Patton",
+        "releaseDate": "1330991901",
+        "price": 16,
+        "publication": "sodales nisi magna sed dui. Fusce aliquam, enim nec tempus",
+        "cover": "indigo"
+    },
+    {
+        "title": "Nam ac nulla. In tincidunt congue turpis. In condimentum. Donec",
+        "author": "Lee Kerr",
+        "releaseDate": "945337971",
+        "price": 48,
+        "publication": "In scelerisque scelerisque dui. Suspendisse ac metus vitae velit egestas",
+        "cover": "green"
+    },
+    {
+        "title": "ligula. Nullam feugiat placerat velit. Quisque varius. Nam porttitor scelerisque",
+        "author": "Rina Parrish",
+        "releaseDate": "1242988680",
+        "price": 85,
+        "publication": "at, iaculis quis, pede. Praesent eu dui. Cum sociis natoque",
+        "cover": "yellow"
+    },
+    {
+        "title": "erat. Etiam vestibulum massa rutrum magna. Cras convallis convallis dolor.",
+        "author": "Zephr Mcdowell",
+        "releaseDate": "1259816205",
+        "price": 47,
+        "publication": "Phasellus ornare. Fusce mollis. Duis sit amet diam eu dolor",
+        "cover": "blue"
+    },
+    {
+        "title": "amet lorem semper auctor. Mauris vel turpis. Aliquam adipiscing lobortis",
+        "author": "Violet Colon",
+        "releaseDate": "1266650847",
+        "price": 39,
+        "publication": "lectus quis massa. Mauris vestibulum, neque sed dictum eleifend, nunc",
+        "cover": "violet"
+    },
+    {
+        "title": "risus odio, auctor vitae, aliquet nec, imperdiet nec, leo. Morbi",
+        "author": "Shoshana Hubbard",
+        "releaseDate": "1143714204",
+        "price": 12,
+        "publication": "a, auctor non, feugiat nec, diam. Duis mi enim, condimentum",
+        "cover": "green"
+    },
+    {
+        "title": "dolor dapibus gravida. Aliquam tincidunt, nunc ac mattis ornare, lectus",
+        "author": "Ivana Estes",
+        "releaseDate": "1227946842",
+        "price": 48,
+        "publication": "eu, ultrices sit amet, risus. Donec nibh enim, gravida sit",
+        "cover": "indigo"
+    },
+    {
+        "title": "ligula. Donec luctus aliquet odio. Etiam ligula tortor, dictum eu,",
+        "author": "Aretha Gamble",
+        "releaseDate": "1218360137",
+        "price": 64,
+        "publication": "auctor, velit eget laoreet posuere, enim nisl elementum purus, accumsan",
+        "cover": "violet"
+    },
+    {
+        "title": "lacus. Ut nec urna et arcu imperdiet ullamcorper. Duis at",
+        "author": "Jason Cohen",
+        "releaseDate": "991683410",
+        "price": 15,
+        "publication": "sed pede nec ante blandit viverra. Donec tempus, lorem fringilla",
+        "cover": "violet"
+    },
+    {
+        "title": "Nam tempor diam dictum sapien. Aenean massa. Integer vitae nibh.",
+        "author": "Griffith Stafford",
+        "releaseDate": "1090320213",
+        "price": 85,
+        "publication": "interdum. Sed auctor odio a purus. Duis elementum, dui quis",
+        "cover": "yellow"
+    },
+    {
+        "title": "metus. Vivamus euismod urna. Nullam lobortis quam a felis ullamcorper",
+        "author": "Keane Marsh",
+        "releaseDate": "1001572867",
+        "price": 42,
+        "publication": "ornare lectus justo eu arcu. Morbi sit amet massa. Quisque",
+        "cover": "orange"
+    },
+    {
+        "title": "tellus. Suspendisse sed dolor. Fusce mi lorem, vehicula et, rutrum",
+        "author": "Adrienne Merritt",
+        "releaseDate": "1051780451",
+        "price": 79,
+        "publication": "justo eu arcu. Morbi sit amet massa. Quisque porttitor eros",
+        "cover": "red"
+    },
+    {
+        "title": "Duis elementum, dui quis accumsan convallis, ante lectus convallis est,",
+        "author": "Laura Murray",
+        "releaseDate": "1546242741",
+        "price": 67,
+        "publication": "et malesuada fames ac turpis egestas. Aliquam fringilla cursus purus.",
+        "cover": "indigo"
+    },
+    {
+        "title": "sollicitudin adipiscing ligula. Aenean gravida nunc sed pede. Cum sociis",
+        "author": "Gretchen Beard",
+        "releaseDate": "1236883037",
+        "price": 83,
+        "publication": "cursus luctus, ipsum leo elementum sem, vitae aliquam eros turpis",
+        "cover": "violet"
+    },
+    {
+        "title": "nulla magna, malesuada vel, convallis in, cursus et, eros. Proin",
+        "author": "Ryder Barnes",
+        "releaseDate": "1353883294",
+        "price": 64,
+        "publication": "faucibus lectus, a sollicitudin orci sem eget massa. Suspendisse eleifend.",
+        "cover": "orange"
+    },
+    {
+        "title": "sem eget massa. Suspendisse eleifend. Cras sed leo. Cras vehicula",
+        "author": "Finn Chase",
+        "releaseDate": "1514831458",
+        "price": 98,
+        "publication": "Maecenas libero est, congue a, aliquet vel, vulputate eu, odio.",
+        "cover": "violet"
+    },
+    {
+        "title": "non massa non ante bibendum ullamcorper. Duis cursus, diam at",
+        "author": "Molly Turner",
+        "releaseDate": "1562657668",
+        "price": 74,
+        "publication": "tempus mauris erat eget ipsum. Suspendisse sagittis. Nullam vitae diam.",
+        "cover": "green"
+    },
+    {
+        "title": "augue scelerisque mollis. Phasellus libero mauris, aliquam eu, accumsan sed,",
+        "author": "Jessamine Andrews",
+        "releaseDate": "1486888426",
+        "price": 39,
+        "publication": "pharetra nibh. Aliquam ornare, libero at auctor ullamcorper, nisl arcu",
+        "cover": "indigo"
+    },
+    {
+        "title": "convallis est, vitae sodales nisi magna sed dui. Fusce aliquam,",
+        "author": "Rina Rowe",
+        "releaseDate": "1055134109",
+        "price": 26,
+        "publication": "iaculis enim, sit amet ornare lectus justo eu arcu. Morbi",
+        "cover": "orange"
+    },
+    {
+        "title": "fringilla ornare placerat, orci lacus vestibulum lorem, sit amet ultricies",
+        "author": "Charde Vincent",
+        "releaseDate": "964963096",
+        "price": 72,
+        "publication": "dui augue eu tellus. Phasellus elit pede, malesuada vel, venenatis",
+        "cover": "blue"
+    },
+    {
+        "title": "enim, gravida sit amet, dapibus id, blandit at, nisi. Cum",
+        "author": "Cooper Savage",
+        "releaseDate": "931577522",
+        "price": 78,
+        "publication": "pellentesque, tellus sem mollis dui, in sodales elit erat vitae",
+        "cover": "blue"
+    },
+    {
+        "title": "Proin nisl sem, consequat nec, mollis vitae, posuere at, velit.",
+        "author": "Kasper Terry",
+        "releaseDate": "1254433484",
+        "price": 25,
+        "publication": "enim. Suspendisse aliquet, sem ut cursus luctus, ipsum leo elementum",
+        "cover": "blue"
+    },
+    {
+        "title": "nisl. Quisque fringilla euismod enim. Etiam gravida molestie arcu. Sed",
+        "author": "Wendy Carney",
+        "releaseDate": "1243646824",
+        "price": 59,
+        "publication": "ultrices a, auctor non, feugiat nec, diam. Duis mi enim,",
+        "cover": "blue"
+    },
+    {
+        "title": "eget nisi dictum augue malesuada malesuada. Integer id magna et",
+        "author": "Hasad Buck",
+        "releaseDate": "966119125",
+        "price": 21,
+        "publication": "tristique senectus et netus et malesuada fames ac turpis egestas.",
+        "cover": "red"
+    },
+    {
+        "title": "augue malesuada malesuada. Integer id magna et ipsum cursus vestibulum.",
+        "author": "Lillian Black",
+        "releaseDate": "914437936",
+        "price": 41,
+        "publication": "Curabitur egestas nunc sed libero. Proin sed turpis nec mauris",
+        "cover": "blue"
+    },
+    {
+        "title": "dui, in sodales elit erat vitae risus. Duis a mi",
+        "author": "Nola Hardin",
+        "releaseDate": "1272910977",
+        "price": 48,
+        "publication": "purus sapien, gravida non, sollicitudin a, malesuada id, erat. Etiam",
+        "cover": "indigo"
+    },
+    {
+        "title": "eget massa. Suspendisse eleifend. Cras sed leo. Cras vehicula aliquet",
+        "author": "Nevada Schmidt",
+        "releaseDate": "1318213448",
+        "price": 14,
+        "publication": "non quam. Pellentesque habitant morbi tristique senectus et netus et",
+        "cover": "red"
+    },
+    {
+        "title": "nibh. Aliquam ornare, libero at auctor ullamcorper, nisl arcu iaculis",
+        "author": "Noelani Medina",
+        "releaseDate": "1247786099",
+        "price": 25,
+        "publication": "mi felis, adipiscing fringilla, porttitor vulputate, posuere vulputate, lacus. Cras",
+        "cover": "indigo"
+    },
+    {
+        "title": "quam. Pellentesque habitant morbi tristique senectus et netus et malesuada",
+        "author": "Marny Cameron",
+        "releaseDate": "1030053528",
+        "price": 69,
+        "publication": "ante. Nunc mauris sapien, cursus in, hendrerit consectetuer, cursus et,",
+        "cover": "indigo"
+    },
+    {
+        "title": "gravida mauris ut mi. Duis risus odio, auctor vitae, aliquet",
+        "author": "Omar Maldonado",
+        "releaseDate": "1477075670",
+        "price": 18,
+        "publication": "Integer vitae nibh. Donec est mauris, rhoncus id, mollis nec,",
+        "cover": "yellow"
+    },
+    {
+        "title": "vehicula. Pellentesque tincidunt tempus risus. Donec egestas. Duis ac arcu.",
+        "author": "Jason Ward",
+        "releaseDate": "1257397897",
+        "price": 41,
+        "publication": "Nulla tincidunt, neque vitae semper egestas, urna justo faucibus lectus,",
+        "cover": "red"
+    },
+    {
+        "title": "tellus justo sit amet nulla. Donec non justo. Proin non",
+        "author": "Paloma Hahn",
+        "releaseDate": "1469600529",
+        "price": 83,
+        "publication": "risus. In mi pede, nonummy ut, molestie in, tempus eu,",
+        "cover": "blue"
+    },
+    {
+        "title": "dui. Cras pellentesque. Sed dictum. Proin eget odio. Aliquam vulputate",
+        "author": "Kelsey Dean",
+        "releaseDate": "1474745126",
+        "price": 58,
+        "publication": "arcu et pede. Nunc sed orci lobortis augue scelerisque mollis.",
+        "cover": "indigo"
+    },
+    {
+        "title": "semper pretium neque. Morbi quis urna. Nunc quis arcu vel",
+        "author": "Myles Fuller",
+        "releaseDate": "1404641416",
+        "price": 67,
+        "publication": "justo faucibus lectus, a sollicitudin orci sem eget massa. Suspendisse",
+        "cover": "indigo"
+    },
+    {
+        "title": "Donec tincidunt. Donec vitae erat vel pede blandit congue. In",
+        "author": "Quinlan Smith",
+        "releaseDate": "1204470874",
+        "price": 29,
+        "publication": "penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin",
+        "cover": "blue"
+    },
+    {
+        "title": "leo. Morbi neque tellus, imperdiet non, vestibulum nec, euismod in,",
+        "author": "Jolene Dickson",
+        "releaseDate": "1401495223",
+        "price": 71,
+        "publication": "primis in faucibus orci luctus et ultrices posuere cubilia Curae;",
+        "cover": "green"
+    },
+    {
+        "title": "consectetuer adipiscing elit. Aliquam auctor, velit eget laoreet posuere, enim",
+        "author": "Robin Hudson",
+        "releaseDate": "1178090903",
+        "price": 19,
+        "publication": "Integer mollis. Integer tincidunt aliquam arcu. Aliquam ultrices iaculis odio.",
+        "cover": "yellow"
+    },
+    {
+        "title": "egestas lacinia. Sed congue, elit sed consequat auctor, nunc nulla",
+        "author": "Marvin Hinton",
+        "releaseDate": "1142407735",
+        "price": 92,
+        "publication": "posuere, enim nisl elementum purus, accumsan interdum libero dui nec",
+        "cover": "indigo"
+    },
+    {
+        "title": "id ante dictum cursus. Nunc mauris elit, dictum eu, eleifend",
+        "author": "Cade Velazquez",
+        "releaseDate": "987906827",
+        "price": 92,
+        "publication": "accumsan sed, facilisis vitae, orci. Phasellus dapibus quam quis diam.",
+        "cover": "indigo"
+    },
+    {
+        "title": "ipsum. Phasellus vitae mauris sit amet lorem semper auctor. Mauris",
+        "author": "Sheila Jarvis",
+        "releaseDate": "1294588685",
+        "price": 21,
+        "publication": "velit egestas lacinia. Sed congue, elit sed consequat auctor, nunc",
+        "cover": "orange"
+    },
+    {
+        "title": "penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean",
+        "author": "Barrett Snyder",
+        "releaseDate": "938389852",
+        "price": 39,
+        "publication": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices",
+        "cover": "indigo"
+    },
+    {
+        "title": "commodo at, libero. Morbi accumsan laoreet ipsum. Curabitur consequat, lectus",
+        "author": "Hammett Crosby",
+        "releaseDate": "1249290132",
+        "price": 100,
+        "publication": "Nam interdum enim non nisi. Aenean eget metus. In nec",
+        "cover": "orange"
+    },
+    {
+        "title": "ullamcorper. Duis at lacus. Quisque purus sapien, gravida non, sollicitudin",
+        "author": "Jeremy Whitfield",
+        "releaseDate": "936621939",
+        "price": 14,
+        "publication": "ante dictum cursus. Nunc mauris elit, dictum eu, eleifend nec,",
+        "cover": "yellow"
+    },
+    {
+        "title": "vulputate, lacus. Cras interdum. Nunc sollicitudin commodo ipsum. Suspendisse non",
+        "author": "Wang Tran",
+        "releaseDate": "1282875523",
+        "price": 57,
+        "publication": "mauris a nunc. In at pede. Cras vulputate velit eu",
+        "cover": "blue"
+    },
+    {
+        "title": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+        "author": "Tana Haynes",
+        "releaseDate": "1277217735",
+        "price": 75,
+        "publication": "est ac facilisis facilisis, magna tellus faucibus leo, in lobortis",
+        "cover": "yellow"
+    },
+    {
+        "title": "nunc est, mollis non, cursus non, egestas a, dui. Cras",
+        "author": "Winifred Duke",
+        "releaseDate": "1031330949",
+        "price": 84,
+        "publication": "nec ante. Maecenas mi felis, adipiscing fringilla, porttitor vulputate, posuere",
+        "cover": "green"
+    },
+    {
+        "title": "tellus, imperdiet non, vestibulum nec, euismod in, dolor. Fusce feugiat.",
+        "author": "Jaden Livingston",
+        "releaseDate": "1398133882",
+        "price": 31,
+        "publication": "Nullam ut nisi a odio semper cursus. Integer mollis. Integer",
+        "cover": "indigo"
+    },
+    {
+        "title": "augue, eu tempor erat neque non quam. Pellentesque habitant morbi",
+        "author": "Maxwell Marsh",
+        "releaseDate": "922016055",
+        "price": 29,
+        "publication": "quam quis diam. Pellentesque habitant morbi tristique senectus et netus",
+        "cover": "violet"
+    },
+    {
+        "title": "sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos.",
+        "author": "Cadman Charles",
+        "releaseDate": "1068369349",
+        "price": 70,
+        "publication": "Donec dignissim magna a tortor. Nunc commodo auctor velit. Aliquam",
+        "cover": "green"
+    },
+    {
+        "title": "Suspendisse non leo. Vivamus nibh dolor, nonummy ac, feugiat non,",
+        "author": "Hoyt Maynard",
+        "releaseDate": "1347189599",
+        "price": 54,
+        "publication": "luctus. Curabitur egestas nunc sed libero. Proin sed turpis nec",
+        "cover": "green"
+    },
+    {
+        "title": "ullamcorper viverra. Maecenas iaculis aliquet diam. Sed diam lorem, auctor",
+        "author": "Iliana Zimmerman",
+        "releaseDate": "990895274",
+        "price": 39,
+        "publication": "posuere at, velit. Cras lorem lorem, luctus ut, pellentesque eget,",
+        "cover": "red"
+    },
+    {
+        "title": "aliquet molestie tellus. Aenean egestas hendrerit neque. In ornare sagittis",
+        "author": "Kirestin Roth",
+        "releaseDate": "1045983080",
+        "price": 66,
+        "publication": "lobortis mauris. Suspendisse aliquet molestie tellus. Aenean egestas hendrerit neque.",
+        "cover": "green"
+    },
+    {
+        "title": "magnis dis parturient montes, nascetur ridiculus mus. Aenean eget magna.",
+        "author": "Minerva Horne",
+        "releaseDate": "1349924409",
+        "price": 39,
+        "publication": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur",
+        "cover": "indigo"
+    },
+    {
+        "title": "orci. Ut sagittis lobortis mauris. Suspendisse aliquet molestie tellus. Aenean",
+        "author": "Angela Silva",
+        "releaseDate": "1557994719",
+        "price": 45,
+        "publication": "tincidunt nibh. Phasellus nulla. Integer vulputate, risus a ultricies adipiscing,",
+        "cover": "green"
+    },
+    {
+        "title": "In ornare sagittis felis. Donec tempor, est ac mattis semper,",
+        "author": "Drew Lara",
+        "releaseDate": "1175693791",
+        "price": 13,
+        "publication": "In scelerisque scelerisque dui. Suspendisse ac metus vitae velit egestas",
+        "cover": "green"
+    },
+    {
+        "title": "egestas. Duis ac arcu. Nunc mauris. Morbi non sapien molestie",
+        "author": "Chanda Gomez",
+        "releaseDate": "1165562202",
+        "price": 29,
+        "publication": "hendrerit. Donec porttitor tellus non magna. Nam ligula elit, pretium",
+        "cover": "blue"
+    },
+    {
+        "title": "orci. Ut semper pretium neque. Morbi quis urna. Nunc quis",
+        "author": "Ray Sparks",
+        "releaseDate": "1204564743",
+        "price": 54,
+        "publication": "Nulla facilisis. Suspendisse commodo tincidunt nibh. Phasellus nulla. Integer vulputate,",
+        "cover": "green"
+    },
+    {
+        "title": "Aliquam ornare, libero at auctor ullamcorper, nisl arcu iaculis enim,",
+        "author": "Jaden Oneal",
+        "releaseDate": "1495077975",
+        "price": 47,
+        "publication": "semper. Nam tempor diam dictum sapien. Aenean massa. Integer vitae",
+        "cover": "blue"
+    },
+    {
+        "title": "neque. Sed eget lacus. Mauris non dui nec urna suscipit",
+        "author": "Bethany Schneider",
+        "releaseDate": "1154744094",
+        "price": 59,
+        "publication": "sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos.",
+        "cover": "red"
+    },
+    {
+        "title": "sit amet, consectetuer adipiscing elit. Curabitur sed tortor. Integer aliquam",
+        "author": "Anastasia Owens",
+        "releaseDate": "926349560",
+        "price": 51,
+        "publication": "Suspendisse sed dolor. Fusce mi lorem, vehicula et, rutrum eu,",
+        "cover": "yellow"
+    },
+    {
+        "title": "interdum ligula eu enim. Etiam imperdiet dictum magna. Ut tincidunt",
+        "author": "Asher Snyder",
+        "releaseDate": "1143194175",
+        "price": 60,
+        "publication": "porttitor eros nec tellus. Nunc lectus pede, ultrices a, auctor",
+        "cover": "blue"
+    },
+    {
+        "title": "Nam consequat dolor vitae dolor. Donec fringilla. Donec feugiat metus",
+        "author": "Stacy Stephens",
+        "releaseDate": "1198003559",
+        "price": 66,
+        "publication": "lacus. Aliquam rutrum lorem ac risus. Morbi metus. Vivamus euismod",
+        "cover": "yellow"
+    },
+    {
+        "title": "dictum eu, placerat eget, venenatis a, magna. Lorem ipsum dolor",
+        "author": "Elvis Campos",
+        "releaseDate": "1526013326",
+        "price": 37,
+        "publication": "Aliquam ultrices iaculis odio. Nam interdum enim non nisi. Aenean",
+        "cover": "indigo"
+    },
+    {
+        "title": "ac ipsum. Phasellus vitae mauris sit amet lorem semper auctor.",
+        "author": "Ginger Strickland",
+        "releaseDate": "1468772737",
+        "price": 18,
+        "publication": "amet, consectetuer adipiscing elit. Curabitur sed tortor. Integer aliquam adipiscing",
+        "cover": "blue"
+    },
+    {
+        "title": "malesuada fringilla est. Mauris eu turpis. Nulla aliquet. Proin velit.",
+        "author": "Xena Hodge",
+        "releaseDate": "958872912",
+        "price": 71,
+        "publication": "amet nulla. Donec non justo. Proin non massa non ante",
+        "cover": "orange"
+    },
+    {
+        "title": "eu erat semper rutrum. Fusce dolor quam, elementum at, egestas",
+        "author": "Hermione Jacobson",
+        "releaseDate": "1337543346",
+        "price": 39,
+        "publication": "mollis dui, in sodales elit erat vitae risus. Duis a",
+        "cover": "violet"
+    },
+    {
+        "title": "euismod enim. Etiam gravida molestie arcu. Sed eu nibh vulputate",
+        "author": "Leo Mckay",
+        "releaseDate": "1465592784",
+        "price": 88,
+        "publication": "libero. Donec consectetuer mauris id sapien. Cras dolor dolor, tempus",
+        "cover": "green"
+    },
+    {
+        "title": "nunc sed libero. Proin sed turpis nec mauris blandit mattis.",
+        "author": "Colby Bryant",
+        "releaseDate": "1257728084",
+        "price": 28,
+        "publication": "nec ligula consectetuer rhoncus. Nullam velit dui, semper et, lacinia",
+        "cover": "violet"
+    },
+    {
+        "title": "Phasellus nulla. Integer vulputate, risus a ultricies adipiscing, enim mi",
+        "author": "Whoopi Vaughn",
+        "releaseDate": "1505945014",
+        "price": 63,
+        "publication": "dolor. Fusce feugiat. Lorem ipsum dolor sit amet, consectetuer adipiscing",
+        "cover": "orange"
+    },
+    {
+        "title": "velit. Cras lorem lorem, luctus ut, pellentesque eget, dictum placerat,",
+        "author": "Shoshana Stafford",
+        "releaseDate": "1003292206",
+        "price": 44,
+        "publication": "neque. Nullam nisl. Maecenas malesuada fringilla est. Mauris eu turpis.",
+        "cover": "green"
+    },
+    {
+        "title": "dictum sapien. Aenean massa. Integer vitae nibh. Donec est mauris,",
+        "author": "Regina Kline",
+        "releaseDate": "1306838163",
+        "price": 30,
+        "publication": "cursus et, eros. Proin ultrices. Duis volutpat nunc sit amet",
+        "cover": "red"
+    },
+    {
+        "title": "semper et, lacinia vitae, sodales at, velit. Pellentesque ultricies dignissim",
+        "author": "Alice Serrano",
+        "releaseDate": "1366522949",
+        "price": 63,
+        "publication": "sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus",
+        "cover": "blue"
+    },
+    {
+        "title": "magnis dis parturient montes, nascetur ridiculus mus. Proin vel arcu",
+        "author": "John Harris",
+        "releaseDate": "920864566",
+        "price": 6,
+        "publication": "non, cursus non, egestas a, dui. Cras pellentesque. Sed dictum.",
+        "cover": "violet"
+    },
+    {
+        "title": "sit amet ante. Vivamus non lorem vitae odio sagittis semper.",
+        "author": "Alana Cantu",
+        "releaseDate": "967730653",
+        "price": 3,
+        "publication": "vitae, erat. Vivamus nisi. Mauris nulla. Integer urna. Vivamus molestie",
+        "cover": "blue"
+    },
+    {
+        "title": "imperdiet ornare. In faucibus. Morbi vehicula. Pellentesque tincidunt tempus risus.",
+        "author": "Fatima Tillman",
+        "releaseDate": "1136572929",
+        "price": 32,
+        "publication": "odio. Nam interdum enim non nisi. Aenean eget metus. In",
+        "cover": "orange"
+    },
+    {
+        "title": "malesuada augue ut lacus. Nulla tincidunt, neque vitae semper egestas,",
+        "author": "Nyssa Dennis",
+        "releaseDate": "1551413661",
+        "price": 2,
+        "publication": "arcu. Sed et libero. Proin mi. Aliquam gravida mauris ut",
+        "cover": "orange"
+    },
+    {
+        "title": "primis in faucibus orci luctus et ultrices posuere cubilia Curae;",
+        "author": "Carlos Conley",
+        "releaseDate": "1408400319",
+        "price": 17,
+        "publication": "enim mi tempor lorem, eget mollis lectus pede et risus.",
+        "cover": "red"
+    },
+    {
+        "title": "enim. Curabitur massa. Vestibulum accumsan neque et nunc. Quisque ornare",
+        "author": "Kelly Rasmussen",
+        "releaseDate": "966452798",
+        "price": 61,
+        "publication": "laoreet ipsum. Curabitur consequat, lectus sit amet luctus vulputate, nisi",
+        "cover": "orange"
+    },
+    {
+        "title": "ornare, lectus ante dictum mi, ac mattis velit justo nec",
+        "author": "Ann Weiss",
+        "releaseDate": "1190095252",
+        "price": 60,
+        "publication": "adipiscing elit. Curabitur sed tortor. Integer aliquam adipiscing lacus. Ut",
+        "cover": "blue"
+    },
+    {
+        "title": "molestie arcu. Sed eu nibh vulputate mauris sagittis placerat. Cras",
+        "author": "Nayda Collier",
+        "releaseDate": "1234625925",
+        "price": 55,
+        "publication": "Aenean sed pede nec ante blandit viverra. Donec tempus, lorem",
+        "cover": "orange"
+    },
+    {
+        "title": "vitae aliquam eros turpis non enim. Mauris quis turpis vitae",
+        "author": "Victoria Spencer",
+        "releaseDate": "1516301763",
+        "price": 23,
+        "publication": "varius et, euismod et, commodo at, libero. Morbi accumsan laoreet",
+        "cover": "yellow"
+    },
+    {
+        "title": "ut nisi a odio semper cursus. Integer mollis. Integer tincidunt",
+        "author": "Cheryl Coffey",
+        "releaseDate": "1424622598",
+        "price": 28,
+        "publication": "molestie pharetra nibh. Aliquam ornare, libero at auctor ullamcorper, nisl",
+        "cover": "red"
+    },
+    {
+        "title": "a, scelerisque sed, sapien. Nunc pulvinar arcu et pede. Nunc",
+        "author": "Alisa Vinson",
+        "releaseDate": "1538949765",
+        "price": 21,
+        "publication": "Nunc ac sem ut dolor dapibus gravida. Aliquam tincidunt, nunc",
+        "cover": "yellow"
+    },
+    {
+        "title": "tempor augue ac ipsum. Phasellus vitae mauris sit amet lorem",
+        "author": "Delilah Hayden",
+        "releaseDate": "984308822",
+        "price": 51,
+        "publication": "id, erat. Etiam vestibulum massa rutrum magna. Cras convallis convallis",
+        "cover": "green"
+    },
+    {
+        "title": "imperdiet non, vestibulum nec, euismod in, dolor. Fusce feugiat. Lorem",
+        "author": "Kerry Stephenson",
+        "releaseDate": "1160006912",
+        "price": 17,
+        "publication": "venenatis lacus. Etiam bibendum fermentum metus. Aenean sed pede nec",
+        "cover": "yellow"
+    },
+    {
+        "title": "vulputate mauris sagittis placerat. Cras dictum ultricies ligula. Nullam enim.",
+        "author": "Wanda Logan",
+        "releaseDate": "1136637116",
+        "price": 94,
+        "publication": "eu, eleifend nec, malesuada ut, sem. Nulla interdum. Curabitur dictum.",
+        "cover": "orange"
+    },
+    {
+        "title": "nibh. Donec est mauris, rhoncus id, mollis nec, cursus a,",
+        "author": "Cecilia Contreras",
+        "releaseDate": "1350254103",
+        "price": 62,
+        "publication": "Nullam enim. Sed nulla ante, iaculis nec, eleifend non, dapibus",
+        "cover": "blue"
+    },
+    {
+        "title": "faucibus ut, nulla. Cras eu tellus eu augue porttitor interdum.",
+        "author": "Nigel Gonzalez",
+        "releaseDate": "1006810627",
+        "price": 78,
+        "publication": "elit elit fermentum risus, at fringilla purus mauris a nunc.",
+        "cover": "orange"
+    },
+    {
+        "title": "a tortor. Nunc commodo auctor velit. Aliquam nisl. Nulla eu",
+        "author": "Nerea Duran",
+        "releaseDate": "1493350340",
+        "price": 38,
+        "publication": "convallis, ante lectus convallis est, vitae sodales nisi magna sed",
+        "cover": "orange"
+    },
+    {
+        "title": "sed, est. Nunc laoreet lectus quis massa. Mauris vestibulum, neque",
+        "author": "Hedwig Blackburn",
+        "releaseDate": "979481382",
+        "price": 24,
+        "publication": "orci lobortis augue scelerisque mollis. Phasellus libero mauris, aliquam eu,",
+        "cover": "red"
+    },
+    {
+        "title": "egestas, urna justo faucibus lectus, a sollicitudin orci sem eget",
+        "author": "Isaac Espinoza",
+        "releaseDate": "1058948724",
+        "price": 5,
+        "publication": "Etiam gravida molestie arcu. Sed eu nibh vulputate mauris sagittis",
+        "cover": "violet"
+    },
+    {
+        "title": "consectetuer ipsum nunc id enim. Curabitur massa. Vestibulum accumsan neque",
+        "author": "Priscilla Alford",
+        "releaseDate": "1255339042",
+        "price": 73,
+        "publication": "magna a neque. Nullam ut nisi a odio semper cursus.",
+        "cover": "blue"
+    },
+    {
+        "title": "Phasellus nulla. Integer vulputate, risus a ultricies adipiscing, enim mi",
+        "author": "Ira Holloway",
+        "releaseDate": "913965578",
+        "price": 60,
+        "publication": "odio. Nam interdum enim non nisi. Aenean eget metus. In",
+        "cover": "violet"
+    },
+    {
+        "title": "In condimentum. Donec at arcu. Vestibulum ante ipsum primis in",
+        "author": "Elmo Mcintyre",
+        "releaseDate": "1499885596",
+        "price": 70,
+        "publication": "gravida sagittis. Duis gravida. Praesent eu nulla at sem molestie",
+        "cover": "red"
+    },
+    {
+        "title": "magnis dis parturient montes, nascetur ridiculus mus. Proin vel arcu",
+        "author": "Rhona Arnold",
+        "releaseDate": "1368960000",
+        "price": 45,
+        "publication": "lobortis augue scelerisque mollis. Phasellus libero mauris, aliquam eu, accumsan",
+        "cover": "blue"
+    },
+    {
+        "title": "lectus pede, ultrices a, auctor non, feugiat nec, diam. Duis",
+        "author": "Louis Emerson",
+        "releaseDate": "1537593055",
+        "price": 97,
+        "publication": "congue. In scelerisque scelerisque dui. Suspendisse ac metus vitae velit",
+        "cover": "yellow"
+    },
+    {
+        "title": "nonummy ipsum non arcu. Vivamus sit amet risus. Donec egestas.",
+        "author": "Nyssa Dillard",
+        "releaseDate": "1072846001",
+        "price": 28,
+        "publication": "elementum, dui quis accumsan convallis, ante lectus convallis est, vitae",
+        "cover": "red"
+    },
+    {
+        "title": "eu tellus. Phasellus elit pede, malesuada vel, venenatis vel, faucibus",
+        "author": "Dahlia Franks",
+        "releaseDate": "1367605318",
+        "price": 46,
+        "publication": "adipiscing non, luctus sit amet, faucibus ut, nulla. Cras eu",
+        "cover": "yellow"
+    },
+    {
+        "title": "ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam auctor, velit",
+        "author": "Dai Kemp",
+        "releaseDate": "1362954763",
+        "price": 27,
+        "publication": "at, egestas a, scelerisque sed, sapien. Nunc pulvinar arcu et",
+        "cover": "indigo"
+    },
+    {
+        "title": "nisi. Aenean eget metus. In nec orci. Donec nibh. Quisque",
+        "author": "Ria Larsen",
+        "releaseDate": "1550328763",
+        "price": 63,
+        "publication": "Maecenas mi felis, adipiscing fringilla, porttitor vulputate, posuere vulputate, lacus.",
+        "cover": "violet"
+    },
+    {
+        "title": "libero. Proin mi. Aliquam gravida mauris ut mi. Duis risus",
+        "author": "Scarlet Sawyer",
+        "releaseDate": "1019188381",
+        "price": 68,
+        "publication": "nibh. Aliquam ornare, libero at auctor ullamcorper, nisl arcu iaculis",
+        "cover": "violet"
+    },
+    {
+        "title": "tincidunt tempus risus. Donec egestas. Duis ac arcu. Nunc mauris.",
+        "author": "Salvador Suarez",
+        "releaseDate": "1033541315",
+        "price": 45,
+        "publication": "turpis vitae purus gravida sagittis. Duis gravida. Praesent eu nulla",
+        "cover": "orange"
+    },
+    {
+        "title": "tincidunt vehicula risus. Nulla eget metus eu erat semper rutrum.",
+        "author": "Hayfa Montgomery",
+        "releaseDate": "1460046914",
+        "price": 58,
+        "publication": "non, lacinia at, iaculis quis, pede. Praesent eu dui. Cum",
+        "cover": "indigo"
+    },
+    {
+        "title": "risus odio, auctor vitae, aliquet nec, imperdiet nec, leo. Morbi",
+        "author": "Porter Mcdonald",
+        "releaseDate": "1056704197",
+        "price": 87,
+        "publication": "commodo tincidunt nibh. Phasellus nulla. Integer vulputate, risus a ultricies",
+        "cover": "yellow"
+    },
+    {
+        "title": "et malesuada fames ac turpis egestas. Fusce aliquet magna a",
+        "author": "Bell Navarro",
+        "releaseDate": "929683566",
+        "price": 21,
+        "publication": "odio. Nam interdum enim non nisi. Aenean eget metus. In",
+        "cover": "green"
+    },
+    {
+        "title": "nisi sem semper erat, in consectetuer ipsum nunc id enim.",
+        "author": "Ryder Acevedo",
+        "releaseDate": "1312817255",
+        "price": 61,
+        "publication": "metus vitae velit egestas lacinia. Sed congue, elit sed consequat",
+        "cover": "yellow"
+    },
+    {
+        "title": "purus ac tellus. Suspendisse sed dolor. Fusce mi lorem, vehicula",
+        "author": "Keegan Moon",
+        "releaseDate": "1287363804",
+        "price": 50,
+        "publication": "fringilla euismod enim. Etiam gravida molestie arcu. Sed eu nibh",
+        "cover": "violet"
+    },
+    {
+        "title": "Cras eu tellus eu augue porttitor interdum. Sed auctor odio",
+        "author": "Ursula Webb",
+        "releaseDate": "1135585993",
+        "price": 14,
+        "publication": "volutpat. Nulla facilisis. Suspendisse commodo tincidunt nibh. Phasellus nulla. Integer",
+        "cover": "yellow"
+    },
+    {
+        "title": "Proin sed turpis nec mauris blandit mattis. Cras eget nisi",
+        "author": "Haley Chan",
+        "releaseDate": "1048490768",
+        "price": 65,
+        "publication": "lectus. Cum sociis natoque penatibus et magnis dis parturient montes,",
+        "cover": "orange"
+    },
+    {
+        "title": "Donec luctus aliquet odio. Etiam ligula tortor, dictum eu, placerat",
+        "author": "Fiona Burgess",
+        "releaseDate": "1136478911",
+        "price": 60,
+        "publication": "libero. Proin sed turpis nec mauris blandit mattis. Cras eget",
+        "cover": "green"
+    },
+    {
+        "title": "non arcu. Vivamus sit amet risus. Donec egestas. Aliquam nec",
+        "author": "Selma Deleon",
+        "releaseDate": "1396932037",
+        "price": 54,
+        "publication": "libero et tristique pellentesque, tellus sem mollis dui, in sodales",
+        "cover": "yellow"
+    },
+    {
+        "title": "erat eget ipsum. Suspendisse sagittis. Nullam vitae diam. Proin dolor.",
+        "author": "Celeste Castillo",
+        "releaseDate": "1514991392",
+        "price": 46,
+        "publication": "Proin nisl sem, consequat nec, mollis vitae, posuere at, velit.",
+        "cover": "orange"
+    },
+    {
+        "title": "dui lectus rutrum urna, nec luctus felis purus ac tellus.",
+        "author": "Griffith Daniel",
+        "releaseDate": "1087817083",
+        "price": 68,
+        "publication": "Integer id magna et ipsum cursus vestibulum. Mauris magna. Duis",
+        "cover": "green"
+    },
+    {
+        "title": "sit amet ultricies sem magna nec quam. Curabitur vel lectus.",
+        "author": "Erich Rasmussen",
+        "releaseDate": "1538623846",
+        "price": 6,
+        "publication": "Suspendisse sagittis. Nullam vitae diam. Proin dolor. Nulla semper tellus",
+        "cover": "red"
+    },
+    {
+        "title": "a, arcu. Sed et libero. Proin mi. Aliquam gravida mauris",
+        "author": "Yardley Mueller",
+        "releaseDate": "1277466591",
+        "price": 69,
+        "publication": "ipsum. Curabitur consequat, lectus sit amet luctus vulputate, nisi sem",
+        "cover": "yellow"
+    },
+    {
+        "title": "justo. Proin non massa non ante bibendum ullamcorper. Duis cursus,",
+        "author": "Hasad Brewer",
+        "releaseDate": "1054622760",
+        "price": 15,
+        "publication": "ultricies ornare, elit elit fermentum risus, at fringilla purus mauris",
+        "cover": "red"
+    },
+    {
+        "title": "Donec egestas. Duis ac arcu. Nunc mauris. Morbi non sapien",
+        "author": "Erasmus Kim",
+        "releaseDate": "1146996857",
+        "price": 29,
+        "publication": "diam dictum sapien. Aenean massa. Integer vitae nibh. Donec est",
+        "cover": "green"
+    },
+    {
+        "title": "mattis. Integer eu lacus. Quisque imperdiet, erat nonummy ultricies ornare,",
+        "author": "Carlos Shannon",
+        "releaseDate": "1040441493",
+        "price": 20,
+        "publication": "Quisque porttitor eros nec tellus. Nunc lectus pede, ultrices a,",
+        "cover": "orange"
+    },
+    {
+        "title": "pede ac urna. Ut tincidunt vehicula risus. Nulla eget metus",
+        "author": "Grace Gallagher",
+        "releaseDate": "1295100646",
+        "price": 89,
+        "publication": "ad litora torquent per conubia nostra, per inceptos hymenaeos. Mauris",
+        "cover": "red"
+    },
+    {
+        "title": "primis in faucibus orci luctus et ultrices posuere cubilia Curae;",
+        "author": "Ryan Cook",
+        "releaseDate": "1462229193",
+        "price": 88,
+        "publication": "rutrum magna. Cras convallis convallis dolor. Quisque tincidunt pede ac",
+        "cover": "green"
+    },
+    {
+        "title": "mollis non, cursus non, egestas a, dui. Cras pellentesque. Sed",
+        "author": "Flavia Keith",
+        "releaseDate": "1114447016",
+        "price": 90,
+        "publication": "pharetra. Nam ac nulla. In tincidunt congue turpis. In condimentum.",
+        "cover": "orange"
+    },
+    {
+        "title": "turpis non enim. Mauris quis turpis vitae purus gravida sagittis.",
+        "author": "Willa Ballard",
+        "releaseDate": "1123775783",
+        "price": 46,
+        "publication": "Sed molestie. Sed id risus quis diam luctus lobortis. Class",
+        "cover": "red"
+    },
+    {
+        "title": "in molestie tortor nibh sit amet orci. Ut sagittis lobortis",
+        "author": "Lester Flynn",
+        "releaseDate": "1128666951",
+        "price": 80,
+        "publication": "mauris sagittis placerat. Cras dictum ultricies ligula. Nullam enim. Sed",
+        "cover": "blue"
+    },
+    {
+        "title": "consectetuer rhoncus. Nullam velit dui, semper et, lacinia vitae, sodales",
+        "author": "Gisela Espinoza",
+        "releaseDate": "1545858290",
+        "price": 85,
+        "publication": "amet, dapibus id, blandit at, nisi. Cum sociis natoque penatibus",
+        "cover": "blue"
+    },
+    {
+        "title": "risus, at fringilla purus mauris a nunc. In at pede.",
+        "author": "Lance Cardenas",
+        "releaseDate": "1269119409",
+        "price": 75,
+        "publication": "neque non quam. Pellentesque habitant morbi tristique senectus et netus",
+        "cover": "blue"
+    },
+    {
+        "title": "ipsum non arcu. Vivamus sit amet risus. Donec egestas. Aliquam",
+        "author": "Jael Bean",
+        "releaseDate": "1531845189",
+        "price": 41,
+        "publication": "Sed dictum. Proin eget odio. Aliquam vulputate ullamcorper magna. Sed",
+        "cover": "green"
+    },
+    {
+        "title": "fringilla, porttitor vulputate, posuere vulputate, lacus. Cras interdum. Nunc sollicitudin",
+        "author": "Kirsten Fuller",
+        "releaseDate": "1079832322",
+        "price": 26,
+        "publication": "sagittis lobortis mauris. Suspendisse aliquet molestie tellus. Aenean egestas hendrerit",
+        "cover": "violet"
+    },
+    {
+        "title": "egestas a, dui. Cras pellentesque. Sed dictum. Proin eget odio.",
+        "author": "Pandora Greene",
+        "releaseDate": "1449173247",
+        "price": 54,
+        "publication": "Sed diam lorem, auctor quis, tristique ac, eleifend vitae, erat.",
+        "cover": "yellow"
+    },
+    {
+        "title": "tortor at risus. Nunc ac sem ut dolor dapibus gravida.",
+        "author": "Piper Wilson",
+        "releaseDate": "1259414008",
+        "price": 66,
+        "publication": "nunc id enim. Curabitur massa. Vestibulum accumsan neque et nunc.",
+        "cover": "yellow"
+    },
+    {
+        "title": "tincidunt vehicula risus. Nulla eget metus eu erat semper rutrum.",
+        "author": "Clinton Bonner",
+        "releaseDate": "1331555837",
+        "price": 96,
+        "publication": "nascetur ridiculus mus. Donec dignissim magna a tortor. Nunc commodo",
+        "cover": "indigo"
+    },
+    {
+        "title": "scelerisque scelerisque dui. Suspendisse ac metus vitae velit egestas lacinia.",
+        "author": "Jaime Holland",
+        "releaseDate": "1302357166",
+        "price": 62,
+        "publication": "mattis. Integer eu lacus. Quisque imperdiet, erat nonummy ultricies ornare,",
+        "cover": "orange"
+    },
+    {
+        "title": "fringilla, porttitor vulputate, posuere vulputate, lacus. Cras interdum. Nunc sollicitudin",
+        "author": "Damon Meyer",
+        "releaseDate": "1101447631",
+        "price": 59,
+        "publication": "elementum, dui quis accumsan convallis, ante lectus convallis est, vitae",
+        "cover": "red"
+    },
+    {
+        "title": "neque. Nullam ut nisi a odio semper cursus. Integer mollis.",
+        "author": "Octavia Mcclure",
+        "releaseDate": "1553602339",
+        "price": 71,
+        "publication": "Praesent interdum ligula eu enim. Etiam imperdiet dictum magna. Ut",
+        "cover": "green"
+    },
+    {
+        "title": "sit amet lorem semper auctor. Mauris vel turpis. Aliquam adipiscing",
+        "author": "Oprah Ruiz",
+        "releaseDate": "1432873389",
+        "price": 55,
+        "publication": "velit. Cras lorem lorem, luctus ut, pellentesque eget, dictum placerat,",
+        "cover": "yellow"
+    },
+    {
+        "title": "nibh lacinia orci, consectetuer euismod est arcu ac orci. Ut",
+        "author": "Desiree Rich",
+        "releaseDate": "1121583935",
+        "price": 13,
+        "publication": "In tincidunt congue turpis. In condimentum. Donec at arcu. Vestibulum",
+        "cover": "blue"
+    },
+    {
+        "title": "Nunc mauris. Morbi non sapien molestie orci tincidunt adipiscing. Mauris",
+        "author": "Kiona Nash",
+        "releaseDate": "1525513327",
+        "price": 29,
+        "publication": "quis urna. Nunc quis arcu vel quam dignissim pharetra. Nam",
+        "cover": "yellow"
+    },
+    {
+        "title": "Praesent luctus. Curabitur egestas nunc sed libero. Proin sed turpis",
+        "author": "Christine Mccormick",
+        "releaseDate": "1300216526",
+        "price": 31,
+        "publication": "Ut tincidunt orci quis lectus. Nullam suscipit, est ac facilisis",
+        "cover": "red"
+    },
+    {
+        "title": "conubia nostra, per inceptos hymenaeos. Mauris ut quam vel sapien",
+        "author": "Kiara Haynes",
+        "releaseDate": "1117583117",
+        "price": 98,
+        "publication": "Aliquam nisl. Nulla eu neque pellentesque massa lobortis ultrices. Vivamus",
+        "cover": "yellow"
+    },
+    {
+        "title": "dui lectus rutrum urna, nec luctus felis purus ac tellus.",
+        "author": "Hollee Whitaker",
+        "releaseDate": "1330854253",
+        "price": 66,
+        "publication": "Mauris nulla. Integer urna. Vivamus molestie dapibus ligula. Aliquam erat",
+        "cover": "orange"
+    },
+    {
+        "title": "nonummy ac, feugiat non, lobortis quis, pede. Suspendisse dui. Fusce",
+        "author": "Hakeem Stanley",
+        "releaseDate": "1419748231",
+        "price": 61,
+        "publication": "eget nisi dictum augue malesuada malesuada. Integer id magna et",
+        "cover": "violet"
+    },
+    {
+        "title": "dictum eu, eleifend nec, malesuada ut, sem. Nulla interdum. Curabitur",
+        "author": "Imani Sullivan",
+        "releaseDate": "1085341829",
+        "price": 77,
+        "publication": "ridiculus mus. Aenean eget magna. Suspendisse tristique neque venenatis lacus.",
+        "cover": "indigo"
+    },
+    {
+        "title": "Etiam laoreet, libero et tristique pellentesque, tellus sem mollis dui,",
+        "author": "Miranda Becker",
+        "releaseDate": "1047536430",
+        "price": 38,
+        "publication": "sit amet, consectetuer adipiscing elit. Curabitur sed tortor. Integer aliquam",
+        "cover": "blue"
+    },
+    {
+        "title": "nisl. Maecenas malesuada fringilla est. Mauris eu turpis. Nulla aliquet.",
+        "author": "Fredericka Macdonald",
+        "releaseDate": "913549856",
+        "price": 56,
+        "publication": "Fusce diam nunc, ullamcorper eu, euismod ac, fermentum vel, mauris.",
+        "cover": "orange"
+    },
+    {
+        "title": "ante bibendum ullamcorper. Duis cursus, diam at pretium aliquet, metus",
+        "author": "Jorden Walls",
+        "releaseDate": "1040686759",
+        "price": 82,
+        "publication": "Ut semper pretium neque. Morbi quis urna. Nunc quis arcu",
+        "cover": "orange"
+    },
+    {
+        "title": "lectus, a sollicitudin orci sem eget massa. Suspendisse eleifend. Cras",
+        "author": "Veda Parker",
+        "releaseDate": "1339454200",
+        "price": 93,
+        "publication": "hymenaeos. Mauris ut quam vel sapien imperdiet ornare. In faucibus.",
+        "cover": "green"
+    },
+    {
+        "title": "tincidunt dui augue eu tellus. Phasellus elit pede, malesuada vel,",
+        "author": "Rowan Church",
+        "releaseDate": "1381537960",
+        "price": 84,
+        "publication": "laoreet posuere, enim nisl elementum purus, accumsan interdum libero dui",
+        "cover": "indigo"
+    },
+    {
+        "title": "quam a felis ullamcorper viverra. Maecenas iaculis aliquet diam. Sed",
+        "author": "Uma Frank",
+        "releaseDate": "1366962101",
+        "price": 58,
+        "publication": "in, dolor. Fusce feugiat. Lorem ipsum dolor sit amet, consectetuer",
+        "cover": "violet"
+    },
+    {
+        "title": "sagittis semper. Nam tempor diam dictum sapien. Aenean massa. Integer",
+        "author": "Carlos Roberson",
+        "releaseDate": "1279780422",
+        "price": 59,
+        "publication": "quam. Pellentesque habitant morbi tristique senectus et netus et malesuada",
+        "cover": "indigo"
+    },
+    {
+        "title": "sit amet luctus vulputate, nisi sem semper erat, in consectetuer",
+        "author": "Hunter Winters",
+        "releaseDate": "1019869401",
+        "price": 94,
+        "publication": "Sed molestie. Sed id risus quis diam luctus lobortis. Class",
+        "cover": "indigo"
+    },
+    {
+        "title": "libero at auctor ullamcorper, nisl arcu iaculis enim, sit amet",
+        "author": "Sybill Alston",
+        "releaseDate": "1537911506",
+        "price": 47,
+        "publication": "ac orci. Ut semper pretium neque. Morbi quis urna. Nunc",
+        "cover": "blue"
+    },
+    {
+        "title": "hendrerit id, ante. Nunc mauris sapien, cursus in, hendrerit consectetuer,",
+        "author": "Calista Cote",
+        "releaseDate": "1520394751",
+        "price": 1,
+        "publication": "velit. Cras lorem lorem, luctus ut, pellentesque eget, dictum placerat,",
+        "cover": "green"
+    },
+    {
+        "title": "Phasellus ornare. Fusce mollis. Duis sit amet diam eu dolor",
+        "author": "Ayanna Curry",
+        "releaseDate": "1300305284",
+        "price": 30,
+        "publication": "sapien. Aenean massa. Integer vitae nibh. Donec est mauris, rhoncus",
+        "cover": "yellow"
+    },
+    {
+        "title": "a ultricies adipiscing, enim mi tempor lorem, eget mollis lectus",
+        "author": "Chastity Cunningham",
+        "releaseDate": "1233049054",
+        "price": 63,
+        "publication": "eu, accumsan sed, facilisis vitae, orci. Phasellus dapibus quam quis",
+        "cover": "orange"
+    },
+    {
+        "title": "venenatis lacus. Etiam bibendum fermentum metus. Aenean sed pede nec",
+        "author": "Lenore Massey",
+        "releaseDate": "1527109255",
+        "price": 16,
+        "publication": "sem magna nec quam. Curabitur vel lectus. Cum sociis natoque",
+        "cover": "blue"
+    },
+    {
+        "title": "eu arcu. Morbi sit amet massa. Quisque porttitor eros nec",
+        "author": "Shellie Reeves",
+        "releaseDate": "1165176648",
+        "price": 43,
+        "publication": "a, magna. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+        "cover": "red"
+    },
+    {
+        "title": "Nam ac nulla. In tincidunt congue turpis. In condimentum. Donec",
+        "author": "Curran Mclaughlin",
+        "releaseDate": "987106398",
+        "price": 35,
+        "publication": "libero. Integer in magna. Phasellus dolor elit, pellentesque a, facilisis",
+        "cover": "violet"
+    },
+    {
+        "title": "pede nec ante blandit viverra. Donec tempus, lorem fringilla ornare",
+        "author": "Beatrice Silva",
+        "releaseDate": "1248270697",
+        "price": 80,
+        "publication": "mus. Donec dignissim magna a tortor. Nunc commodo auctor velit.",
+        "cover": "green"
+    },
+    {
+        "title": "mi pede, nonummy ut, molestie in, tempus eu, ligula. Aenean",
+        "author": "Mikayla Cantrell",
+        "releaseDate": "1207091395",
+        "price": 37,
+        "publication": "tempor erat neque non quam. Pellentesque habitant morbi tristique senectus",
+        "cover": "yellow"
+    },
+    {
+        "title": "Morbi accumsan laoreet ipsum. Curabitur consequat, lectus sit amet luctus",
+        "author": "Quail West",
+        "releaseDate": "1070235624",
+        "price": 19,
+        "publication": "rutrum non, hendrerit id, ante. Nunc mauris sapien, cursus in,",
+        "cover": "blue"
+    },
+    {
+        "title": "lorem, luctus ut, pellentesque eget, dictum placerat, augue. Sed molestie.",
+        "author": "Diana Dodson",
+        "releaseDate": "1262311470",
+        "price": 16,
+        "publication": "amet, dapibus id, blandit at, nisi. Cum sociis natoque penatibus",
+        "cover": "blue"
+    },
+    {
+        "title": "iaculis enim, sit amet ornare lectus justo eu arcu. Morbi",
+        "author": "Latifah Coleman",
+        "releaseDate": "1173969448",
+        "price": 48,
+        "publication": "vulputate velit eu sem. Pellentesque ut ipsum ac mi eleifend",
+        "cover": "blue"
+    },
+    {
+        "title": "gravida nunc sed pede. Cum sociis natoque penatibus et magnis",
+        "author": "Jeanette Small",
+        "releaseDate": "964084106",
+        "price": 46,
+        "publication": "enim. Etiam imperdiet dictum magna. Ut tincidunt orci quis lectus.",
+        "cover": "yellow"
+    },
+    {
+        "title": "Aenean egestas hendrerit neque. In ornare sagittis felis. Donec tempor,",
+        "author": "Germaine Armstrong",
+        "releaseDate": "989403586",
+        "price": 36,
+        "publication": "magna sed dui. Fusce aliquam, enim nec tempus scelerisque, lorem",
+        "cover": "indigo"
+    },
+    {
+        "title": "lobortis quam a felis ullamcorper viverra. Maecenas iaculis aliquet diam.",
+        "author": "Nayda Key",
+        "releaseDate": "1415167380",
+        "price": 33,
+        "publication": "Proin vel arcu eu odio tristique pharetra. Quisque ac libero",
+        "cover": "violet"
+    },
+    {
+        "title": "amet lorem semper auctor. Mauris vel turpis. Aliquam adipiscing lobortis",
+        "author": "Price Lyons",
+        "releaseDate": "1443102755",
+        "price": 23,
+        "publication": "non, dapibus rutrum, justo. Praesent luctus. Curabitur egestas nunc sed",
+        "cover": "green"
+    },
+    {
+        "title": "Mauris blandit enim consequat purus. Maecenas libero est, congue a,",
+        "author": "Lillith Mckee",
+        "releaseDate": "1211394382",
+        "price": 86,
+        "publication": "erat, in consectetuer ipsum nunc id enim. Curabitur massa. Vestibulum",
+        "cover": "orange"
+    },
+    {
+        "title": "mollis nec, cursus a, enim. Suspendisse aliquet, sem ut cursus",
+        "author": "Leah Grant",
+        "releaseDate": "1492033984",
+        "price": 82,
+        "publication": "facilisis facilisis, magna tellus faucibus leo, in lobortis tellus justo",
+        "cover": "violet"
+    },
+    {
+        "title": "adipiscing, enim mi tempor lorem, eget mollis lectus pede et",
+        "author": "Joshua Fowler",
+        "releaseDate": "1171401295",
+        "price": 30,
+        "publication": "euismod urna. Nullam lobortis quam a felis ullamcorper viverra. Maecenas",
+        "cover": "red"
+    },
+    {
+        "title": "nunc interdum feugiat. Sed nec metus facilisis lorem tristique aliquet.",
+        "author": "Rooney Lester",
+        "releaseDate": "1511403342",
+        "price": 19,
+        "publication": "eget ipsum. Suspendisse sagittis. Nullam vitae diam. Proin dolor. Nulla",
+        "cover": "red"
+    },
+    {
+        "title": "sit amet diam eu dolor egestas rhoncus. Proin nisl sem,",
+        "author": "Jack Noble",
+        "releaseDate": "1174565744",
+        "price": 70,
+        "publication": "gravida mauris ut mi. Duis risus odio, auctor vitae, aliquet",
+        "cover": "green"
+    },
+    {
+        "title": "arcu vel quam dignissim pharetra. Nam ac nulla. In tincidunt",
+        "author": "Fulton Hicks",
+        "releaseDate": "964328320",
+        "price": 45,
+        "publication": "congue a, aliquet vel, vulputate eu, odio. Phasellus at augue",
+        "cover": "red"
+    },
+    {
+        "title": "sodales nisi magna sed dui. Fusce aliquam, enim nec tempus",
+        "author": "Wesley Tyson",
+        "releaseDate": "1299104718",
+        "price": 16,
+        "publication": "Etiam imperdiet dictum magna. Ut tincidunt orci quis lectus. Nullam",
+        "cover": "green"
+    },
+    {
+        "title": "dui. Cum sociis natoque penatibus et magnis dis parturient montes,",
+        "author": "Steel Mcclain",
+        "releaseDate": "1049453127",
+        "price": 85,
+        "publication": "Donec tempor, est ac mattis semper, dui lectus rutrum urna,",
+        "cover": "red"
+    },
+    {
+        "title": "ipsum. Donec sollicitudin adipiscing ligula. Aenean gravida nunc sed pede.",
+        "author": "Mallory Shaffer",
+        "releaseDate": "1511195614",
+        "price": 84,
+        "publication": "ridiculus mus. Proin vel arcu eu odio tristique pharetra. Quisque",
+        "cover": "indigo"
+    },
+    {
+        "title": "mauris sit amet lorem semper auctor. Mauris vel turpis. Aliquam",
+        "author": "Vanna Bradford",
+        "releaseDate": "1449435521",
+        "price": 69,
+        "publication": "mauris eu elit. Nulla facilisi. Sed neque. Sed eget lacus.",
+        "cover": "red"
+    },
+    {
+        "title": "elit. Nulla facilisi. Sed neque. Sed eget lacus. Mauris non",
+        "author": "Xandra James",
+        "releaseDate": "1386449390",
+        "price": 47,
+        "publication": "ac sem ut dolor dapibus gravida. Aliquam tincidunt, nunc ac",
+        "cover": "indigo"
+    },
+    {
+        "title": "Nullam scelerisque neque sed sem egestas blandit. Nam nulla magna,",
+        "author": "Lacey Allen",
+        "releaseDate": "1436491548",
+        "price": 14,
+        "publication": "Ut tincidunt vehicula risus. Nulla eget metus eu erat semper",
+        "cover": "violet"
+    },
+    {
+        "title": "neque. Nullam ut nisi a odio semper cursus. Integer mollis.",
+        "author": "Yolanda Evans",
+        "releaseDate": "1177265260",
+        "price": 4,
+        "publication": "sodales purus, in molestie tortor nibh sit amet orci. Ut",
+        "cover": "yellow"
+    },
+    {
+        "title": "fermentum metus. Aenean sed pede nec ante blandit viverra. Donec",
+        "author": "Ori Maxwell",
+        "releaseDate": "921554486",
+        "price": 82,
+        "publication": "aptent taciti sociosqu ad litora torquent per conubia nostra, per",
+        "cover": "violet"
+    },
+    {
+        "title": "sed dui. Fusce aliquam, enim nec tempus scelerisque, lorem ipsum",
+        "author": "Elaine Malone",
+        "releaseDate": "1094835475",
+        "price": 86,
+        "publication": "Donec egestas. Duis ac arcu. Nunc mauris. Morbi non sapien",
+        "cover": "yellow"
+    },
+    {
+        "title": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames",
+        "author": "Kieran Hewitt",
+        "releaseDate": "1113228461",
+        "price": 49,
+        "publication": "tellus. Phasellus elit pede, malesuada vel, venenatis vel, faucibus id,",
+        "cover": "yellow"
+    },
+    {
+        "title": "sapien. Nunc pulvinar arcu et pede. Nunc sed orci lobortis",
+        "author": "Fitzgerald Thornton",
+        "releaseDate": "1059753198",
+        "price": 22,
+        "publication": "consectetuer, cursus et, magna. Praesent interdum ligula eu enim. Etiam",
+        "cover": "yellow"
+    },
+    {
+        "title": "sem. Nulla interdum. Curabitur dictum. Phasellus in felis. Nulla tempor",
+        "author": "Madison Diaz",
+        "releaseDate": "1201637462",
+        "price": 94,
+        "publication": "mi felis, adipiscing fringilla, porttitor vulputate, posuere vulputate, lacus. Cras",
+        "cover": "yellow"
+    }
+]
