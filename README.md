@@ -1,5 +1,3 @@
-An attempt to build RESTful API's using Sequelize ORM , Postgres & Node.
-
 Inorder to run locally.
 
 1. git clone https://github.com/gyanendra2058/sequelize-learning.git && cd sequelize-learning && npm install
