@@ -35,7 +35,6 @@ router.post('/:search', function (req, res, next) {
     }
   });
 
-  console.log(predicate);
   models.Book.findAndCountAll({
       where: predicate,
       offset: page * size,

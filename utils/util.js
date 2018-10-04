@@ -13,7 +13,6 @@ utils.isValidSearchAndSortCriteria = function (book, searchCriteria, sortCriteri
         }
     }
     let result = searchCriteriaExits && sortCriteriaExists;
-    console.log(result);
     return result;
 }
 
