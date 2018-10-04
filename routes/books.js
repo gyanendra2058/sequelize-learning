@@ -3,6 +3,8 @@ var router = express.Router();
 var models = require('../models');
 var _ = require('lodash');
 
+var utils = require('../utils/util');
+
 var allowerdFilterFields = ['title', 'author', 'releaseDate', 'price', 'publication', 'cover']
 /* GET book listing. */
 router.get('/', function (req, res, next) {
@@ -16,19 +18,14 @@ router.get('/', function (req, res, next) {
 
 router.post('/:search', function (req, res, next) {
   const searchCriteria = req.body;
-  const page = req.query.page || 0;
-  const size = req.query.size || 10;
+  const page = _.isNil(req.query.page) ? 0: req.query.page;
+  const size = _.isNil(req.query.size) ? 10: req.query.size;
+  const sortField = _.isNil(req.query.sortField) ? 'id': req.query.sortField;
+  const sortOrder = _.isNil(req.query.sortOrder) ? 'asc': req.query.sortOrder;
+  const sortCriteria = {sortField: sortField, sortOrder: sortOrder};
 
-  let searchCriteriaExists = false;
-
-  _.each(allowerdFilterFields, (field) => {
-    if (_.has(searchCriteria, field)) {
-      searchCriteriaExists = true;
-    }
-  });
-
-  if (!searchCriteriaExists) {
-    res.status(405).send('Invalid search criteria!');
+  if (!utils.isValidSearchAndSortCriteria(models.Book, searchCriteria, sortCriteria)) {
+    res.status(405).send('Invalid search or filter criteria!');
     return;
   }
 
