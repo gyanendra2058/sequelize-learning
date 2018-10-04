@@ -5,7 +5,6 @@ var _ = require('lodash');
 
 var utils = require('../utils/util');
 
-var allowerdFilterFields = ['title', 'author', 'releaseDate', 'price', 'publication', 'cover']
 /* GET book listing. */
 router.get('/', function (req, res, next) {
   models.Book.findAll()
