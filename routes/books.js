@@ -38,7 +38,8 @@ router.post('/:search', function (req, res, next) {
   models.Book.findAndCountAll({
       where: predicate,
       offset: page * size,
-      limit: size
+      limit: size,
+      order: [[sortField, sortOrder]]
     })
     .then((result) => {
       res.status(200).send(result);
