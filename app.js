@@ -9,6 +9,9 @@ var routes = require('./routes/index');
 var books  = require('./routes/books');
 var users = require('./routes/users');
 var app = express();
+const passport = require('passport');
+
+require('./auth/auth');
 
 // uncomment after placing your favicon in /public
 //app.use(favicon(__dirname + '/public/favicon.ico'));
@@ -19,8 +22,8 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', routes);
-app.use('/books', books);
-app.use('/users', users);
+app.use('/books', passport.authenticate('jwt', { session : false }), books);
+app.use('/users', passport.authenticate('jwt', { session : false }), users);
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
   var err = new Error('Not Found');
