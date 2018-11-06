@@ -26,18 +26,18 @@ var server = http.createServer(app);
 var migrationDone = true; // Set this false if you are migrating the data for first time.
 
 models.sequelize.sync({
-  logging: console.log
+  logging: debug
 }).then(function () {
 
   if(!migrationDone){
     Book.bulkCreate(booksToMigrate)
     .then(
       function (migratedBooks) {
-        console.log('Succeded migrating books!');
+        debug('Succeded migrating books!');
       }
     )
     .catch(function (err) {
-      console.log('Oops ! There are was some problem adding books');
+      debug('Oops ! There are was some problem adding books');
     });
   }
 

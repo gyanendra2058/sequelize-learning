@@ -9,6 +9,8 @@ Working features
 1. Created Book model with basic properties and able to bulk ingest 1000 books.
 2. Able to filter and sort and paginate books via multiple filter criteria.
 3. Restrict user for filtering and sort on invalid props of the book.
+4. Added JWT and passport integration for authorization.
+5. Added User models, routes and integrated with JWT.
 
 Targeted Features (Not done yet)
 --------------------------------
@@ -16,4 +18,4 @@ Targeted Features (Not done yet)
 2. Add POST, PUT , PATCH and DELETE routes.
 3. Add associative mapping of Books with Users.
 4. Create Swagger docs for the API EP.
-4. Add unit tests and code coverage reporter plugins integrated via gulp.
+5. Add unit tests and code coverage reporter plugins integrated via gulp.
