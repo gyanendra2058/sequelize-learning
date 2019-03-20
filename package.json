@@ -1,6 +1,6 @@
 {
   "name": "sequelize-learning",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "cross-env DEBUG=express-sequelize nodemon ./bin/www",
