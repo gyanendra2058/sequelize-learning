@@ -18,7 +18,7 @@
     "gulp": "^4.0.0",
     "gulp-mocha": "^6.0.0",
     "jsonwebtoken": "^8.3.0",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.19",
     "mongoose": "^5.1.6",
     "morgan": "^1.7.0",
     "nodemon": "^1.17.5",
